@@ -1,0 +1,7 @@
+{
+  "name": "UncivSoccer",
+  "version": "2.0.0",
+  "description": "Full-scale football pyramid overhaul.",
+  "author": "Sam",
+  "dependencies": ["Civ V - Vanilla"]
+}
