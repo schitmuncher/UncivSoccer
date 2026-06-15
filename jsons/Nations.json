@@ -331,6 +331,118 @@
     "uniques": ["[+10]% Combat Strength <when attacking>"],
     "cities": ["Oakwell", "Oakwell Training Ground", "Barnsley"]
   }
+  ,
+  {
+    "name": "Notts County",
+    "leaderName": "Maynard",
+    "adjective": ["Magpies"],
+    "startBias": ["Grassland"],
+    "outerColor": [0, 0, 0],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "The Oldest Professional Club",
+    "uniques": ["[+2] [Culture] from [City center] tiles"],
+    "cities": ["Meadow Lane", "Nottingham", "Trent Bridge"]
+  },
+  {
+    "name": "Bradford City",
+    "leaderName": "Alexander",
+    "adjective": ["Bantams"],
+    "startBias": ["Hills"],
+    "outerColor": [128, 0, 32],
+    "innerColor": [255, 191, 0],
+    "uniqueName": "Valley Parade Passion",
+    "uniques": ["[+1] [Happiness] from [Local Training Ground] buildings"],
+    "cities": ["Valley Parade", "Apperley Bridge", "Manningham"]
+  },
+  {
+    "name": "Milton Keynes Dons",
+    "leaderName": "Williamson",
+    "adjective": ["Dons"],
+    "startBias": ["Plains"],
+    "outerColor": [255, 255, 255],
+    "innerColor": [0, 0, 0],
+    "uniqueName": "Franchise Expansion",
+    "uniques": ["[+1 Production] in all cities"],
+    "cities": ["Stadium MK", "Bletchley", "Milton Keynes"]
+  },
+  {
+    "name": "Doncaster Rovers",
+    "leaderName": "McCann",
+    "adjective": ["Rovers"],
+    "startBias": ["Plains"],
+    "outerColor": [200, 0, 0],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Eco-Power Fortress",
+    "uniques": ["[+10]% [Production] when constructing [Land] improvements"],
+    "cities": ["Eco-Power Stadium", "Belle Vue", "Cantley"]
+  },
+  {
+    "name": "Gillingham",
+    "leaderName": "Bonner",
+    "adjective": ["Gills"],
+    "startBias": ["Coast"],
+    "outerColor": [0, 0, 150],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Priestfield Defensive Low Block",
+    "uniques": ["City defense increased by [25]%"],
+    "cities": ["Priestfield Stadium", "Beechings Cross", "Medway"]
+  },
+  {
+    "name": "Port Vale",
+    "leaderName": "Moore",
+    "adjective": ["Valiants"],
+    "startBias": ["Hills"],
+    "outerColor": [255, 255, 255],
+    "innerColor": [0, 0, 0],
+    "uniqueName": "Vale Park Size",
+    "uniques": ["[+15]% Combat strength for [Melee] units <when defending>"],
+    "cities": ["Vale Park", "Burslem", "Stoke-on-Trent"]
+  },
+  {
+    "name": "Salford City",
+    "leaderName": "Wood",
+    "adjective": ["Ammies"],
+    "startBias": ["Grassland"],
+    "outerColor": [225, 0, 0],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Class of 92 Financial Backing",
+    "uniques": ["[+15]% [Gold] generation in the Capital"],
+    "cities": ["Moor Lane", "Kersal", "Salford"]
+  },
+  {
+    "name": "Tranmere Rovers",
+    "leaderName": "Adkins",
+    "adjective": ["Super White Army"],
+    "startBias": ["Coast"],
+    "outerColor": [255, 255, 255],
+    "innerColor": [0, 0, 128],
+    "uniqueName": "Prenton Park Hostility",
+    "uniques": ["Enemy units in friendly territory take [5] damage per turn"],
+    "cities": ["Prenton Park", "The Campus", "Birkenhead"]
+  },
+  {
+    "name": "Crewe Alexandra",
+    "leaderName": "Bell",
+    "adjective": ["Railwaymen"],
+    "startBias": ["Grassland"],
+    "outerColor": [218, 41, 28],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "The Academy Conveyor Belt",
+    "uniques": ["[-20]% XP required for units to advance to the next level"],
+    "cities": ["Gresty Road", "Reaseheath", "Crewe"]
+  },
+  {
+    "name": "Chesterfield",
+    "leaderName": "Cook",
+    "adjective": ["Spireites"],
+    "startBias": ["Hills"],
+    "outerColor": [0, 91, 169],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "The Crooked Spire",
+    "uniques": ["[+1 Culture] from [Hill] tiles"],
+    "cities": ["SMH Group Stadium", "Saltergate", "Chesterfield"]
+  }
 ]
+
 
 
