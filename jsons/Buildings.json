@@ -18,7 +18,7 @@
     "cost": 75,
     "maintenance": 1,
     "requiredTech": "Sunday League Tactics",
-    "uniques": ["[+15] XP to [All] units produced in this city"]
+    "uniques": ["[+15] Experience for [All] units produced in this city"]
   },
   {
     "name": "Fan Zone",
@@ -32,7 +32,7 @@
     "cost": 120,
     "gold": 3,
     "requiredTech": "Merchandising",
-    "uniques": ["[+25]% [Gold] from [City center]"]
+    "uniques": ["[+25]% [Gold]"]
   },
   {
     "name": "Medical Department",
