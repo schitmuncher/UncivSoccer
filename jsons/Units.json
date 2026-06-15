@@ -22,6 +22,7 @@
     "movement": 2,
     "strength": 4,
     "cost": 25,
+    "requiredTech": "Grassroots Scouting",
     "uniques": ["Ignores terrain cost"]
   },
   {
@@ -31,6 +32,7 @@
     "movement": 2,
     "strength": 8,
     "cost": 40,
+    "requiredTech": "Sunday League Tactics",
     "upgradesTo": "Box-to-Box Midfielder"
   },
   {
@@ -40,6 +42,7 @@
     "movement": 2,
     "strength": 11,
     "cost": 56,
+    "requiredTech": "Sunday League Tactics",
     "uniques": ["[+50]% Combat Strength vs [Mounted] units"]
   },
   {
@@ -50,7 +53,8 @@
     "strength": 5,
     "rangedStrength": 7,
     "range": 2,
-    "cost": 40
+    "cost": 40,
+    "requiredTech": "Basic Set Pieces"
   },
   {
     "name": "Pacy Winger",
@@ -59,6 +63,7 @@
     "movement": 4,
     "strength": 12,
     "cost": 75,
+    "requiredTech": "Academy Systems",
     "uniques": ["Can move after attacking"],
     "upgradesTo": "Inverted Fullback"
   },
@@ -71,6 +76,7 @@
     "rangedStrength": 14,
     "range": 2,
     "cost": 75,
+    "requiredTech": "Away Days",
     "uniques": ["Must set up to ranged attack"]
   },
   {
@@ -79,7 +85,8 @@
     "unitType": "Melee",
     "movement": 2,
     "strength": 14,
-    "cost": 75
+    "cost": 75,
+    "requiredTech": "Modern Tactical Theory"
   },
   {
     "name": "Inverted Fullback",
@@ -88,6 +95,27 @@
     "movement": 4,
     "strength": 20,
     "cost": 120,
+    "requiredTech": "Total Football",
     "uniques": ["Can move after attacking"]
+  },
+  {
+    "name": "Worker",
+    "cost": -1,
+    "uniques": ["Unbuildable"]
+  },
+  {
+    "name": "Settler",
+    "cost": -1,
+    "uniques": ["Unbuildable"]
+  },
+  {
+    "name": "Scout",
+    "cost": -1,
+    "uniques": ["Unbuildable"]
+  },
+  {
+    "name": "Warrior",
+    "cost": -1,
+    "uniques": ["Unbuildable"]
   }
 ]
