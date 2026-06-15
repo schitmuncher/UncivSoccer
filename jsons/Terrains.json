@@ -1,0 +1,5 @@
+[
+  {"name": "Grassland", "type": "Land", "food": 2, "movementCost": 1, "color": [128, 171, 79]},
+  {"name": "Plains", "type": "Land", "food": 1, "production": 1, "movementCost": 1, "color": [148, 150, 81]},
+  {"name": "Mountain", "type": "Land", "movementCost": -1, "color": [116, 126, 132], "uniques": ["Impassable"]}
+]
