@@ -220,5 +220,117 @@
     "uniques": ["[+20]% Combat Strength <vs [Melee] units>"],
     "cities": ["Bet365 Stadium", "Clayton Wood", "Trentham"]
   }
+  ,
+  {
+    "name": "Birmingham City",
+    "leaderName": "Davies",
+    "adjective": ["Blues"],
+    "startBias": ["Plains"],
+    "outerColor": [0, 0, 225],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Knighthead Bankroll",
+    "uniques": ["[+10]% [Gold] in all cities"],
+    "cities": ["St Andrew's", "Wast Hills", "Small Heath"]
+  },
+  {
+    "name": "Wrexham",
+    "leaderName": "Parkinson",
+    "adjective": ["Red Dragons"],
+    "startBias": ["Hills"],
+    "outerColor": [200, 0, 0],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Hollywood Publicity",
+    "uniques": ["[+2] [Culture] in all cities"],
+    "cities": ["The Racecourse Ground", "Colliers Park", "Mold Road"]
+  },
+  {
+    "name": "Bolton Wanderers",
+    "leaderName": "Evatt",
+    "adjective": ["Trotters"],
+    "startBias": ["Grassland"],
+    "outerColor": [255, 255, 255],
+    "innerColor": [0, 0, 102],
+    "uniqueName": "The Reebok Legacy",
+    "uniques": ["[+10]% [Production] in all cities"],
+    "cities": ["Toughsheet Community Stadium", "Lostock", "Horwich"]
+  },
+  {
+    "name": "Charlton Athletic",
+    "leaderName": "Jones",
+    "adjective": ["Addicks"],
+    "startBias": ["Forest"],
+    "outerColor": [255, 0, 0],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "The Valley Atmosphere",
+    "uniques": ["[+15]% Combat Strength <when defending>"],
+    "cities": ["The Valley", "Sparrows Lane", "Greenwich"]
+  },
+  {
+    "name": "Huddersfield Town",
+    "leaderName": "Duff",
+    "adjective": ["Terriers"],
+    "startBias": ["Hills"],
+    "outerColor": [0, 114, 206],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "The Terrier Spirit",
+    "uniques": ["Units receive the [Mobility] promotion"],
+    "cities": ["John Smith's Stadium", "Canalside", "Fartown"]
+  },
+  {
+    "name": "Peterborough United",
+    "leaderName": "Ferguson",
+    "adjective": ["Posh"],
+    "startBias": ["Plains"],
+    "outerColor": [0, 128, 255],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "The Posh Academy",
+    "uniques": ["[+10]% [Science] in all cities"],
+    "cities": ["London Road", "Id verd", "Peterborough"]
+  },
+  {
+    "name": "Blackpool",
+    "leaderName": "Critchley",
+    "adjective": ["Seasiders"],
+    "startBias": ["Coast"],
+    "outerColor": [246, 146, 30],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Illuminations",
+    "uniques": ["[+1] [Happiness] from [Coast] tiles"],
+    "cities": ["Bloomfield Road", "Squires Gate", "Fylde"]
+  },
+  {
+    "name": "Reading",
+    "leaderName": "Selles",
+    "adjective": ["Royals"],
+    "startBias": ["Grassland"],
+    "outerColor": [0, 0, 153],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Academy Production",
+    "uniques": ["[+10]% [Production] <when constructing [Civilian] units>"],
+    "cities": ["Select Car Leasing Stadium", "Bearwood Park", "Elm Park"]
+  },
+  {
+    "name": "Wigan Athletic",
+    "leaderName": "Maloney",
+    "adjective": ["Latics"],
+    "startBias": ["Plains"],
+    "outerColor": [0, 102, 204],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Cup Giant Killers",
+    "uniques": ["[+20]% Combat Strength <vs [Mounted] units>"],
+    "cities": ["The Brick Community Stadium", "Christopher Park", "Ince"]
+  },
+  {
+    "name": "Barnsley",
+    "leaderName": "Clarke",
+    "adjective": ["Tykes"],
+    "startBias": ["Hills"],
+    "outerColor": [204, 0, 0],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "The Oakwell Press",
+    "uniques": ["[+10]% Combat Strength <when attacking>"],
+    "cities": ["Oakwell", "Oakwell Training Ground", "Barnsley"]
+  }
 ]
+
 
