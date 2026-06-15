@@ -13,7 +13,7 @@
     "unitType": "Civilian",
     "movement": 2,
     "cost": 70,
-    "uniques": ["Can build [All] improvements"]
+    "uniques": ["Can build [Land] improvements on tiles"]
   },
   {
     "name": "Youth Scout",
@@ -27,7 +27,7 @@
   {
     "name": "Enforcer Midfielder",
     "baseUnit": "Warrior",
-    "unitType": "Sword",
+    "unitType": "Melee",
     "movement": 2,
     "strength": 8,
     "cost": 40,
@@ -36,16 +36,16 @@
   {
     "name": "Target Man",
     "baseUnit": "Spearman",
-    "unitType": "Spear",
+    "unitType": "Melee",
     "movement": 2,
     "strength": 11,
     "cost": 56,
-    "uniques": ["[+50]% Combat Strength <vs [Mounted] units>"]
+    "uniques": ["[+50]% Combat Strength vs [Mounted] units"]
   },
   {
     "name": "Dead-Ball Specialist",
     "baseUnit": "Archer",
-    "unitType": "Archery",
+    "unitType": "Ranged",
     "movement": 2,
     "strength": 5,
     "rangedStrength": 7,
@@ -55,7 +55,7 @@
   {
     "name": "Pacy Winger",
     "baseUnit": "Chariot Archer",
-    "unitType": "Riding",
+    "unitType": "Mounted",
     "movement": 4,
     "strength": 12,
     "cost": 75,
@@ -76,7 +76,7 @@
   {
     "name": "Box-to-Box Midfielder",
     "baseUnit": "Swordsman",
-    "unitType": "Sword",
+    "unitType": "Melee",
     "movement": 2,
     "strength": 14,
     "cost": 75
@@ -84,7 +84,7 @@
   {
     "name": "Inverted Fullback",
     "baseUnit": "Knight",
-    "unitType": "Riding",
+    "unitType": "Mounted",
     "movement": 4,
     "strength": 20,
     "cost": 120,
