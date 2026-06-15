@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Board Member",
+    "replaces": "Settler",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 106,
+    "uniques": ["Founds a new city"]
+  },
+  {
+    "name": "Groundstaff",
+    "replaces": "Worker",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 70,
+    "uniques": ["Can build [Land] improvements"]
+  },
+  {
+    "name": "Youth Scout",
+    "replaces": "Scout",
+    "unitType": "Scout",
+    "movement": 2,
+    "strength": 4,
+    "cost": 25,
+    "uniques": ["Ignores terrain cost"]
+  },
+  {
+    "name": "Enforcer Midfielder",
+    "replaces": "Warrior",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 8,
+    "cost": 40,
+    "upgradesTo": "Box-to-Box Midfielder"
+  },
+  {
+    "name": "Target Man",
+    "replaces": "Spearman",
+    "unitType": "Spear",
+    "movement": 2,
+    "strength": 11,
+    "cost": 56,
+    "uniques": ["[+50]% Combat Strength vs [Riding] units"]
+  },
+  {
+    "name": "Dead-Ball Specialist",
+    "replaces": "Archer",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 5,
+    "rangedStrength": 7,
+    "range": 2,
+    "cost": 40,
+    "uniques": ["May not melee attack"]
+  },
+  {
+    "name": "Pacy Winger",
+    "replaces": "Horseman",
+    "unitType": "Riding",
+    "movement": 4,
+    "strength": 12,
+    "cost": 75,
+    "uniques": ["Can move after attacking", "Penalty attacking cities [-33]%"],
+    "upgradesTo": "Inverted Fullback"
+  },
+  {
+    "name": "Travelling Ultras",
+    "replaces": "Catapult",
+    "unitType": "Siege",
+    "movement": 2,
+    "strength": 7,
+    "rangedStrength": 8,
+    "range": 2,
+    "cost": 75,
+    "uniques": ["[+200]% Combat Strength vs [City] units", "Must set up to attack", "No defensive terrain bonus", "May not melee attack"]
+  },
+  {
+    "name": "Box-to-Box Midfielder",
+    "replaces": "Swordsman",
+    "unitType": "Sword",
+    "movement": 2,
+    "strength": 14,
+    "cost": 75
+  },
+  {
+    "name": "Inverted Fullback",
+    "replaces": "Knight",
+    "unitType": "Riding",
+    "movement": 4,
+    "strength": 20,
+    "cost": 120,
+    "uniques": ["Can move after attacking", "Penalty attacking cities [-33]%"]
+  }
+]
