@@ -2,5 +2,8 @@
   "name": "UncivSoccer",
   "version": "1.0.0",
   "description": "Total tactical turf war.",
-  "author": "Sam"
+  "author": "Sam",
+  "dependencies": [
+    "Civ V - Vanilla"
+  ]
 }
