@@ -43,7 +43,7 @@
     "strength": 11,
     "cost": 56,
     "requiredTech": "Sunday League Tactics",
-    "uniques": ["[+50]% Combat Strength vs [Mounted] units"]
+    "uniques": ["[+50]% Combat Strength <vs [Mounted] units>"]
   },
   {
     "name": "Dead-Ball Specialist",
@@ -100,21 +100,25 @@
   },
   {
     "name": "Worker",
+    "unitType": "Civilian",
     "cost": -1,
     "uniques": ["Unbuildable"]
   },
   {
     "name": "Settler",
+    "unitType": "Civilian",
     "cost": -1,
     "uniques": ["Unbuildable"]
   },
   {
     "name": "Scout",
+    "unitType": "Scout",
     "cost": -1,
     "uniques": ["Unbuildable"]
   },
   {
     "name": "Warrior",
+    "unitType": "Melee",
     "cost": -1,
     "uniques": ["Unbuildable"]
   }
