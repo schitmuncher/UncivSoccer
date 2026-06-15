@@ -1,7 +1,9 @@
 {
   "name": "UncivSoccer",
-  "version": "2.0.0",
-  "description": "Total tactical turf war. Built from the pitch up.",
+  "version": "2.1.0",
+  "description": "Total tactical turf war.",
   "author": "Sam",
-  "modType": "Base Ruleset"
+  "dependencies": [
+    "Civ V - Vanilla"
+  ]
 }
