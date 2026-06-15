@@ -1,15 +1,15 @@
 [
-  {"name": "Jumpers for Goalposts", "cost": 20, "era": "Ancient era"},
-  {"name": "Sunday League Tactics", "cost": 35, "era": "Ancient era", "prerequisites": ["Jumpers for Goalposts"]},
-  {"name": "Matchday Catering", "cost": 35, "era": "Ancient era", "prerequisites": ["Jumpers for Goalposts"]},
-  {"name": "Grassroots Scouting", "cost": 55, "era": "Classical era", "prerequisites": ["Sunday League Tactics"]},
-  {"name": "Basic Set Pieces", "cost": 55, "era": "Classical era", "prerequisites": ["Sunday League Tactics"]},
-  {"name": "Away Days", "cost": 105, "era": "Medieval era", "prerequisites": ["Basic Set Pieces"]},
-  {"name": "Merchandising", "cost": 105, "era": "Medieval era", "prerequisites": ["Matchday Catering"]},
-  {"name": "Academy Systems", "cost": 150, "era": "Renaissance era", "prerequisites": ["Grassroots Scouting", "Basic Set Pieces"]},
-  {"name": "Sports Science", "cost": 200, "era": "Renaissance era", "prerequisites": ["Matchday Catering", "Merchandising"]},
-  {"name": "Modern Tactical Theory", "cost": 250, "era": "Industrial era", "prerequisites": ["Academy Systems", "Away Days"]},
-  {"name": "Total Football", "cost": 350, "era": "Modern era", "prerequisites": ["Modern Tactical Theory"]},
-  {"name": "Financial Doping", "cost": 500, "era": "Atomic era", "prerequisites": ["Merchandising", "Total Football"]},
-  {"name": "VAR Implementation", "cost": 650, "era": "Information era", "prerequisites": ["Financial Doping"]}
+  {"name": "Jumpers for Goalposts", "cost": 20, "era": "Ancient Era"},
+  {"name": "Sunday League Tactics", "cost": 35, "era": "Ancient Era", "prerequisites": ["Jumpers for Goalposts"]},
+  {"name": "Matchday Catering", "cost": 35, "era": "Ancient Era", "prerequisites": ["Jumpers for Goalposts"]},
+  {"name": "Grassroots Scouting", "cost": 55, "era": "Classical Era", "prerequisites": ["Sunday League Tactics"]},
+  {"name": "Basic Set Pieces", "cost": 55, "era": "Classical Era", "prerequisites": ["Sunday League Tactics"]},
+  {"name": "Away Days", "cost": 105, "era": "Medieval Era", "prerequisites": ["Basic Set Pieces"]},
+  {"name": "Merchandising", "cost": 105, "era": "Medieval Era", "prerequisites": ["Matchday Catering"]},
+  {"name": "Academy Systems", "cost": 150, "era": "Renaissance Era", "prerequisites": ["Grassroots Scouting", "Basic Set Pieces"]},
+  {"name": "Sports Science", "cost": 200, "era": "Renaissance Era", "prerequisites": ["Matchday Catering", "Merchandising"]},
+  {"name": "Modern Tactical Theory", "cost": 250, "era": "Industrial Era", "prerequisites": ["Academy Systems", "Away Days"]},
+  {"name": "Total Football", "cost": 350, "era": "Modern Era", "prerequisites": ["Modern Tactical Theory"]},
+  {"name": "Financial Doping", "cost": 500, "era": "Atomic Era", "prerequisites": ["Merchandising", "Total Football"]},
+  {"name": "VAR Implementation", "cost": 650, "era": "Information Era", "prerequisites": ["Financial Doping"]}
 ]
