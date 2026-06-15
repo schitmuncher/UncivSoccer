@@ -1,0 +1,8 @@
+[
+  {"name": "Sunday League", "researchAgreementCost": 100, "startingSettlerCount": 1, "startingWorkerCount": 1},
+  {"name": "Non-League", "researchAgreementCost": 150},
+  {"name": "EFL", "researchAgreementCost": 200},
+  {"name": "Premier League", "researchAgreementCost": 250},
+  {"name": "Champions League", "researchAgreementCost": 300},
+  {"name": "Super League", "researchAgreementCost": 400}
+]
