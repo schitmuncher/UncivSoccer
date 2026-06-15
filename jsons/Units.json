@@ -40,10 +40,9 @@
     "baseUnit": "Spearman",
     "unitType": "Melee",
     "movement": 2,
-    "strength": 11,
+    "strength": 12,
     "cost": 56,
-    "requiredTech": "Sunday League Tactics",
-    "uniques": ["[+50]% Combat Strength <vs [Mounted] units>"]
+    "requiredTech": "Sunday League Tactics"
   },
   {
     "name": "Dead-Ball Specialist",
