@@ -1,9 +1,9 @@
 [
   {"name": "Legend Statue", "cost": 40, "maintenance": 1, "culture": 2, "requiredTech": "Jumpers for Goalposts"},
   {"name": "Burger Van", "cost": 60, "maintenance": 1, "food": 2, "requiredTech": "Matchday Catering"},
-  {"name": "Local Training Pitch", "cost": 75, "maintenance": 1, "requiredTech": "Sunday League Tactics", "uniques": ["New [Military] units start with [15] Experience"]},
+  {"name": "Local Training Pitch", "cost": 75, "maintenance": 1, "production": 2, "requiredTech": "Sunday League Tactics"},
   {"name": "Fan Zone", "cost": 100, "maintenance": 2, "happiness": 2, "requiredTech": "Away Days"},
-  {"name": "Club Megastore", "cost": 120, "gold": 3, "requiredTech": "Merchandising", "uniques": ["[+25]% [Gold]"]},
+  {"name": "Club Megastore", "cost": 120, "gold": 5, "requiredTech": "Merchandising"},
   {"name": "Medical Department", "cost": 150, "maintenance": 2, "science": 3, "requiredTech": "Sports Science"},
   {"name": "Monument", "cost": -1, "uniques": ["Unbuildable"]},
   {"name": "Granary", "cost": -1, "uniques": ["Unbuildable"]},
