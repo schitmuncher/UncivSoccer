@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Nantwich Town FC",
+    "leaderName": "The Dabber",
+    "adjective": ["Dabbers"],
+    "startBias": ["Grassland"],
+    "outerColor": [0, 255, 0],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "The Weaver Stadium Fortress",
+    "uniques": ["Combat bonus in friendly territory [20]%"],
+    "cities": ["The Weaver Stadium", "Alvaston", "Willaston", "Acton"]
+  },
+  {
+    "name": "Manchester City",
+    "leaderName": "Pep",
+    "adjective": ["Cityzens"],
+    "startBias": ["Coast"],
+    "outerColor": [135, 206, 235],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Oil Money",
+    "uniques": ["Instantly provides [1000] [Gold]"],
+    "cities": ["The Etihad", "City Football Academy", "Eastlands"]
+  },
+  {
+    "name": "Arsenal",
+    "leaderName": "Arteta",
+    "adjective": ["Gunners"],
+    "startBias": ["Forest"],
+    "outerColor": [255, 0, 0],
+    "innerColor": [255, 215, 0],
+    "uniqueName": "The Invincibles",
+    "uniques": ["[+15]% Combat strength for [Melee] units"],
+    "cities": ["The Emirates", "Highbury", "London Colney"]
+  },
+  {
+    "name": "Liverpool",
+    "leaderName": "Slot",
+    "adjective": ["Reds"],
+    "startBias": ["Coast"],
+    "outerColor": [200, 0, 0],
+    "innerColor": [0, 255, 0],
+    "uniqueName": "The Anfield Roar",
+    "uniques": ["[+20]% Combat strength for [All] units <when attacking>"],
+    "cities": ["Anfield", "Melwood", "Kirkby"]
+  },
+  {
+    "name": "Manchester United",
+    "leaderName": "The Gaffer",
+    "adjective": ["Red Devils"],
+    "startBias": ["Plains"],
+    "outerColor": [218, 41, 28],
+    "innerColor": [251, 225, 34],
+    "uniqueName": "Fergie Time",
+    "uniques": ["[+1] Movement for [All] units"],
+    "cities": ["Old Trafford", "Carrington", "Salford"]
+  },
+  {
+    "name": "Chelsea",
+    "leaderName": "Maresca",
+    "adjective": ["Blues"],
+    "startBias": ["Coast"],
+    "outerColor": [3, 70, 148],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "Boehly's Bank",
+    "uniques": ["[-20]% cost of purchasing [All] units"],
+    "cities": ["Stamford Bridge", "Cobham", "Kingsmeadow"]
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "leaderName": "Ange",
+    "adjective": ["Spurs"],
+    "startBias": ["Hills"],
+    "outerColor": [255, 255, 255],
+    "innerColor": [19, 34, 87],
+    "uniqueName": "Angeball",
+    "uniques": ["[+2] [Production] from [Hill] tiles"],
+    "cities": ["Spurs Stadium", "White Hart Lane", "Enfield"]
+  },
+  {
+    "name": "Newcastle United",
+    "leaderName": "Howe",
+    "adjective": ["Magpies"],
+    "startBias": ["Tundra"],
+    "outerColor": [0, 0, 0],
+    "innerColor": [255, 255, 255],
+    "uniqueName": "The Toon Army",
+    "uniques": ["[+2] [Culture] from [Barracks]"],
+    "cities": ["St James' Park", "Darsley Park", "Gateshead"]
+  },
+  {
+    "name": "Aston Villa",
+    "leaderName": "Emery",
+    "adjective": ["Villans"],
+    "startBias": ["Grassland"],
+    "outerColor": [103, 14, 54],
+    "innerColor": [149, 191, 229],
+    "uniqueName": "Villa Park Fortress",
+    "uniques": ["City ranged strike range +[1]"],
+    "cities": ["Villa Park", "Bodymoor Heath", "Witton"]
+  },
+  {
+    "name": "West Ham United",
+    "leaderName": "Lopetegui",
+    "adjective": ["Hammers"],
+    "startBias": ["Coast"],
+    "outerColor": [122, 38, 58],
+    "innerColor": [27, 177, 231],
+    "uniqueName": "The Academy of Football",
+    "uniques": ["[+15] XP to [Military] units produced in this city"],
+    "cities": ["London Stadium", "Upton Park", "Rush Green"]
+  }
+]
