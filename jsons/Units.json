@@ -1,6 +1,7 @@
 [
   {
     "name": "Board Member",
+    "baseUnit": "Settler",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 106,
@@ -8,13 +9,15 @@
   },
   {
     "name": "Groundstaff",
+    "baseUnit": "Worker",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 70,
-    "uniques": ["Can build [Land] improvements on tiles"]
+    "uniques": ["Can build [All] improvements"]
   },
   {
     "name": "Youth Scout",
+    "baseUnit": "Scout",
     "unitType": "Scout",
     "movement": 2,
     "strength": 4,
@@ -23,6 +26,7 @@
   },
   {
     "name": "Enforcer Midfielder",
+    "baseUnit": "Warrior",
     "unitType": "Sword",
     "movement": 2,
     "strength": 8,
@@ -31,6 +35,7 @@
   },
   {
     "name": "Target Man",
+    "baseUnit": "Spearman",
     "unitType": "Spear",
     "movement": 2,
     "strength": 11,
@@ -39,6 +44,7 @@
   },
   {
     "name": "Dead-Ball Specialist",
+    "baseUnit": "Archer",
     "unitType": "Archery",
     "movement": 2,
     "strength": 5,
@@ -48,6 +54,7 @@
   },
   {
     "name": "Pacy Winger",
+    "baseUnit": "Chariot Archer",
     "unitType": "Riding",
     "movement": 4,
     "strength": 12,
@@ -57,16 +64,18 @@
   },
   {
     "name": "Travelling Ultras",
+    "baseUnit": "Catapult",
     "unitType": "Siege",
     "movement": 2,
     "strength": 7,
-    "rangedStrength": 24,
+    "rangedStrength": 14,
     "range": 2,
     "cost": 75,
     "uniques": ["Must set up to ranged attack"]
   },
   {
     "name": "Box-to-Box Midfielder",
+    "baseUnit": "Swordsman",
     "unitType": "Sword",
     "movement": 2,
     "strength": 14,
@@ -74,6 +83,7 @@
   },
   {
     "name": "Inverted Fullback",
+    "baseUnit": "Knight",
     "unitType": "Riding",
     "movement": 4,
     "strength": 20,
