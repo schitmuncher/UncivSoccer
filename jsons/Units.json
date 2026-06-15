@@ -19,7 +19,6 @@
     "movement": 2,
     "strength": 4,
     "cost": 25,
-    "requiredTech": "Grassroots Scouting",
     "uniques": ["Ignores terrain cost"]
   },
   {
@@ -28,7 +27,6 @@
     "movement": 2,
     "strength": 8,
     "cost": 40,
-    "requiredTech": "Sunday League Tactics",
     "upgradesTo": "Box-to-Box Midfielder"
   },
   {
@@ -36,8 +34,7 @@
     "unitType": "Melee",
     "movement": 2,
     "strength": 14,
-    "cost": 56,
-    "requiredTech": "Sunday League Tactics"
+    "cost": 56
   },
   {
     "name": "Dead-Ball Specialist",
@@ -46,8 +43,7 @@
     "strength": 5,
     "rangedStrength": 7,
     "range": 2,
-    "cost": 40,
-    "requiredTech": "Basic Set Pieces"
+    "cost": 40
   },
   {
     "name": "Pacy Winger",
@@ -55,7 +51,6 @@
     "movement": 4,
     "strength": 12,
     "cost": 75,
-    "requiredTech": "Academy Systems",
     "uniques": ["Can move after attacking"],
     "upgradesTo": "Inverted Fullback"
   },
@@ -67,7 +62,6 @@
     "rangedStrength": 14,
     "range": 2,
     "cost": 75,
-    "requiredTech": "Away Days",
     "uniques": ["Must set up to ranged attack"]
   },
   {
@@ -75,8 +69,7 @@
     "unitType": "Melee",
     "movement": 2,
     "strength": 14,
-    "cost": 75,
-    "requiredTech": "Modern Tactical Theory"
+    "cost": 75
   },
   {
     "name": "Inverted Fullback",
@@ -84,7 +77,6 @@
     "movement": 4,
     "strength": 20,
     "cost": 120,
-    "requiredTech": "Total Football",
     "uniques": ["Can move after attacking"]
   },
   {
