@@ -1,7 +1,0 @@
-[
-  {"name": "Amateur", "baseHappiness": 15, "uniques": ["Player receives a [+1] [Happiness] handicap"]},
-  {"name": "Semi-Pro", "baseHappiness": 12},
-  {"name": "Professional", "baseHappiness": 9, "uniques": ["AI receives a [+1] [Happiness] handicap"]},
-  {"name": "World Class", "baseHappiness": 9, "uniques": ["AI receives a [+2] [Happiness] handicap", "AI receives a [+10]% discount on all costs"]},
-  {"name": "Legendary", "baseHappiness": 9, "uniques": ["AI receives a [+3] [Happiness] handicap", "AI receives a [+20]% discount on all costs"]}
-]
