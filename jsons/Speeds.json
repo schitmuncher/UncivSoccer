@@ -1,0 +1,5 @@
+[
+  {"name": "Friendly Match", "modifier": 0.67},
+  {"name": "League Game", "modifier": 1.0},
+  {"name": "Extra Time", "modifier": 1.5}
+]
