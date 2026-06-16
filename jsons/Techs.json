@@ -5,7 +5,7 @@
     "era": "Ancient era",
     "row": 1,
     "column": 1,
-    "prerequisites": ["Agriculture"]
+    "prerequisites": []
   },
   {
     "name": "Sunday League Tactics",
