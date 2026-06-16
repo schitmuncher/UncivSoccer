@@ -5,7 +5,7 @@
     "movement": 3,
     "strength": 10,
     "cost": 30,
-    "uniques": ["May explore automatic"]
+    "uniques": ["May explore automatically"]
   },
   {
     "name": "Proper Hardman",
@@ -13,7 +13,7 @@
     "movement": 2,
     "strength": 25,
     "cost": 50,
-    "uniques": ["Earns [50]% of killed unit's [Strength] as [Gold]"]
+    "uniques": ["[+20]% Strength <when attacking>"]
   },
   {
     "name": "Laptop Guru",
@@ -32,6 +32,6 @@
     "rangedStrength": 32,
     "range": 2,
     "cost": 120,
-    "uniques": ["[+50]% Strength vs [City] units", "Must set up to bomb"]
+    "uniques": ["[+50]% Strength <vs cities>", "Must set up to attack"]
   }
 ]
