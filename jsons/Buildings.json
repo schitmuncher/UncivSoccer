@@ -4,8 +4,5 @@
   {"name": "Local Training Pitch", "cost": 75, "maintenance": 1, "production": 2, "requiredTech": "Sunday League Tactics"},
   {"name": "Fan Zone", "cost": 100, "maintenance": 2, "happiness": 2, "requiredTech": "Away Days"},
   {"name": "Club Megastore", "cost": 120, "gold": 5, "requiredTech": "Merchandising"},
-  {"name": "Medical Department", "cost": 150, "maintenance": 2, "science": 3, "requiredTech": "Sports Science"},
-  {"name": "Monument", "cost": -1, "uniques": ["Unbuildable"]},
-  {"name": "Granary", "cost": -1, "uniques": ["Unbuildable"]},
-  {"name": "Barracks", "cost": -1, "uniques": ["Unbuildable"]}
+  {"name": "Medical Department", "cost": 150, "maintenance": 2, "science": 3, "requiredTech": "Sports Science"}
 ]
