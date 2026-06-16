@@ -98,8 +98,7 @@
     "outerColor": [235, 23, 43],
     "innerColor": [0, 0, 0],
     "cities": ["Sunderland", "Stadium of Light", "Roker Park", "Wearmouth"]
-  }
-,[
+  },
   {
     "name": "Manchester United",
     "leaderName": "The Red Devils",
@@ -299,56 +298,5 @@
     "outerColor": [255, 255, 255],
     "innerColor": [0, 0, 0],
     "cities": ["Derby", "Pride Park", "Baseball Ground", "Moor Farm"]
-  },
-  {
-    "name": "Crystal Palace",
-    "leaderName": "The Eagles",
-    "adjective": "Palace",
-    "startIntro": "Welcome to Selhurst Park.",
-    "declaringWar": "The Holmesdale Fanatics are ready.",
-    "outerColor": [27, 69, 143],
-    "innerColor": [196, 18, 46],
-    "cities": ["Croydon", "Selhurst Park", "Thornton Heath", "Norwood"]
-  },
-  {
-    "name": "Brighton & Hove Albion",
-    "leaderName": "The Seagulls",
-    "adjective": "Brighton",
-    "startIntro": "Welcome to the Amex.",
-    "declaringWar": "Our scouting data says you're rubbish.",
-    "outerColor": [0, 87, 184],
-    "innerColor": [255, 255, 255],
-    "cities": ["Brighton", "The Amex", "Hove", "Falmer"]
-  },
-  {
-    "name": "Wolverhampton Wanderers",
-    "leaderName": "Wolves",
-    "adjective": "Wolves",
-    "startIntro": "Welcome to Molineux.",
-    "declaringWar": "The pack is hungry.",
-    "outerColor": [253, 185, 19],
-    "innerColor": [35, 31, 32],
-    "cities": ["Wolverhampton", "Molineux", "Compton Park", "Whitmore Reans"]
-  },
-  {
-    "name": "West Bromwich Albion",
-    "leaderName": "The Baggies",
-    "adjective": "Baggies",
-    "startIntro": "Welcome to The Hawthorns.",
-    "declaringWar": "Boing boing, we're bouncing all over you.",
-    "outerColor": [18, 47, 103],
-    "innerColor": [255, 255, 255],
-    "cities": ["West Bromwich", "The Hawthorns", "Smethwick", "Walsall"]
-  },
-  {
-    "name": "Ipswich Town",
-    "leaderName": "The Tractor Boys",
-    "adjective": "Ipswich",
-    "startIntro": "Welcome to Portman Road.",
-    "declaringWar": "Get out of the way of the tractor.",
-    "outerColor": [0, 20, 137],
-    "innerColor": [255, 255, 255],
-    "cities": ["Ipswich", "Portman Road", "Playford Road", "Rushmere"]
   }
 ]
-
