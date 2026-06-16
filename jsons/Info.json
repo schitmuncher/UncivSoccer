@@ -1,0 +1,10 @@
+{
+  "name": "UncivSoccer",
+  "version": "6.0.0",
+  "description": "Total tactical turf war.",
+  "author": "Sam",
+  "defaultBranch": "main",
+  "dependencies": [
+    "Civ V - Vanilla"
+  ]
+}
