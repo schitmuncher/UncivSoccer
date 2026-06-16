@@ -6,7 +6,7 @@
     "techs": [
       {
         "name": "Jumpers for Goalposts",
-        "row": 1,
+        "row": 20,
         "uniques": ["Starting tech"]
       }
     ]
@@ -18,12 +18,12 @@
     "techs": [
       {
         "name": "Sunday League Tactics",
-        "row": 2,
+        "row": 20,
         "prerequisites": ["Jumpers for Goalposts"]
       },
       {
         "name": "Matchday Catering",
-        "row": 3,
+        "row": 21,
         "prerequisites": ["Jumpers for Goalposts"]
       }
     ]
@@ -35,12 +35,12 @@
     "techs": [
       {
         "name": "Grassroots Scouting",
-        "row": 2,
+        "row": 20,
         "prerequisites": ["Sunday League Tactics"]
       },
       {
         "name": "Basic Set Pieces",
-        "row": 3,
+        "row": 21,
         "prerequisites": ["Sunday League Tactics"]
       }
     ]
@@ -52,12 +52,12 @@
     "techs": [
       {
         "name": "Away Days",
-        "row": 2,
+        "row": 20,
         "prerequisites": ["Basic Set Pieces"]
       },
       {
         "name": "Merchandising",
-        "row": 3,
+        "row": 21,
         "prerequisites": ["Matchday Catering"]
       }
     ]
@@ -69,12 +69,12 @@
     "techs": [
       {
         "name": "Academy Systems",
-        "row": 2,
+        "row": 20,
         "prerequisites": ["Grassroots Scouting", "Basic Set Pieces"]
       },
       {
         "name": "Sports Science",
-        "row": 3,
+        "row": 21,
         "prerequisites": ["Matchday Catering", "Merchandising"]
       }
     ]
@@ -86,7 +86,7 @@
     "techs": [
       {
         "name": "Modern Tactical Theory",
-        "row": 2,
+        "row": 20,
         "prerequisites": ["Academy Systems", "Away Days"]
       }
     ]
@@ -98,7 +98,7 @@
     "techs": [
       {
         "name": "Total Football",
-        "row": 2,
+        "row": 20,
         "prerequisites": ["Modern Tactical Theory"]
       }
     ]
@@ -110,7 +110,7 @@
     "techs": [
       {
         "name": "Financial Doping",
-        "row": 2,
+        "row": 20,
         "prerequisites": ["Merchandising", "Total Football"]
       }
     ]
@@ -122,7 +122,7 @@
     "techs": [
       {
         "name": "VAR Implementation",
-        "row": 2,
+        "row": 20,
         "prerequisites": ["Financial Doping"]
       }
     ]
