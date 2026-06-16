@@ -193,8 +193,130 @@
     "uniqueAbilities": ["Big Sam's Legacy", "Trotters Resilience"],
     "cityNames": ["Horwich", "Toughsheet Stadium", "Burnden Park", "Lostock"],
     "colors": ["#FFFFFF", "#00205B"]
+  },
+[
+  {
+    "id": "NATION_LIVERPOOL",
+    "name": "Liverpool FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Heavy Metal Football", "This Is Anfield"],
+    "cityNames": ["Anfield", "Kirkby", "Melwood", "Knotty Ash"],
+    "colors": ["#C8102E", "#00B2A9"]
+  },
+  {
+    "id": "NATION_NOTTINGHAM_FOREST",
+    "name": "Nottingham Forest",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["European Royalty", "Tricky Trees"],
+    "cityNames": ["West Bridgford", "City Ground", "Lady Bay", "Wilford"],
+    "colors": ["#DD0000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_LEICESTER_CITY",
+    "name": "Leicester City",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["The 5000/1 Miracle", "Foxes Never Quit"],
+    "cityNames": ["Leicester", "King Power", "Filbert Street", "Seagrave"],
+    "colors": ["#003090", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_SOUTHAMPTON",
+    "name": "Southampton FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["South Coast Academy", "The Saints"],
+    "cityNames": ["Southampton", "St Mary's", "The Dell", "Marchwood"],
+    "colors": ["#D71920", "#130C0E"]
+  },
+  {
+    "id": "NATION_PORTSMOUTH",
+    "name": "Portsmouth FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Fratton Park Chimes", "Island Mentality"],
+    "cityNames": ["Portsmouth", "Fratton Park", "Southsea", "Copnor"],
+    "colors": ["#001489", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_DERBY_COUNTY",
+    "name": "Derby County",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Pride Park Bounce", "Administration Survivors"],
+    "cityNames": ["Derby", "Pride Park", "Baseball Ground", "Moor Farm"],
+    "colors": ["#FFFFFF", "#000000"]
+  },
+  {
+    "id": "NATION_CRYSTAL_PALACE",
+    "name": "Crystal Palace",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Ultras Section", "Selhurst Roar"],
+    "cityNames": ["Croydon", "Selhurst Park", "Thornton Heath", "Norwood"],
+    "colors": ["#1B458F", "#C4122E"]
+  },
+  {
+    "id": "NATION_BRIGHTON",
+    "name": "Brighton & Hove Albion",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Data Driven Scouting", "Seagulls Swoop"],
+    "cityNames": ["Brighton", "The Amex", "Hove", "Falmer"],
+    "colors": ["#0057B8", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_WOLVES",
+    "name": "Wolverhampton Wanderers",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Portuguese Connection", "Molineux Lights"],
+    "cityNames": ["Wolverhampton", "Molineux", "Compton Park", "Whitmore Reans"],
+    "colors": ["#FDB913", "#231F20"]
+  },
+  {
+    "id": "NATION_WEST_BROM",
+    "name": "West Bromwich Albion",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Boing Boing", "The Hawthorns"],
+    "cityNames": ["West Bromwich", "The Hawthorns", "Smethwick", "Walsall"],
+    "colors": ["#122F67", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_IPSWICH_TOWN",
+    "name": "Ipswich Town",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Tractor Boys", "Portman Road Pitch"],
+    "cityNames": ["Ipswich", "Portman Road", "Playford Road", "Rushmere"],
+    "colors": ["#001489", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_NORWICH_CITY",
+    "name": "Norwich City",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Yo-Yo Club", "Delia's Kitchen"],
+    "cityNames": ["Norwich", "Carrow Road", "Colney", "Thorpe Hamlet"],
+    "colors": ["#FFF200", "#00A650"]
+  },
+  {
+    "id": "NATION_CHARLTON",
+    "name": "Charlton Athletic",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Valley Return", "Plastic Pig Protest"],
+    "cityNames": ["Greenwich", "The Valley", "Charlton", "Sparrows Lane"],
+    "colors": ["#D00027", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_PLYMOUTH",
+    "name": "Plymouth Argyle",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Green Army", "Home Park Isolation"],
+    "cityNames": ["Plymouth", "Home Park", "Devonport", "Milehouse"],
+    "colors": ["#00432B", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_TRANMERE_ROVERS",
+    "name": "Tranmere Rovers",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Super White Army", "Prenton Park Mud"],
+    "cityNames": ["Birkenhead", "Prenton Park", "Wirral", "Bebington"],
+    "colors": ["#FFFFFF", "#0000FF"]
   }
 ]
+
 
 
 
