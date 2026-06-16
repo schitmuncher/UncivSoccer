@@ -1,37 +1,33 @@
 [
   {
-    "name": "Groundhopper",
-    "type": "Scout",
-    "movement": 3,
-    "strength": 10,
-    "cost": 30,
-    "uniques": ["May explore automatically"]
+    "name": "Groundstaff",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 50,
+    "uniques": [
+      "Can build [Improvements]"
+    ]
   },
   {
-    "name": "Proper Hardman",
-    "type": "Melee",
+    "name": "Car Park Hardman",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 10,
+    "requiredTech": "Sunday League",
+    "cost": 50,
+    "uniques": [
+      "[+15]% Strength <when fighting in [Friendly] territory>"
+    ]
+  },
+  {
+    "name": "Stone Island Shithouse",
+    "unitType": "Melee",
     "movement": 2,
     "strength": 25,
-    "cost": 50,
-    "uniques": ["[+20]% Strength <when attacking>"]
-  },
-  {
-    "name": "Laptop Guru",
-    "type": "Ranged",
-    "movement": 2,
-    "strength": 12,
-    "rangedStrength": 18,
-    "range": 2,
-    "cost": 80
-  },
-  {
-    "name": "Away Day Coach",
-    "type": "Siege",
-    "movement": 2,
-    "strength": 20,
-    "rangedStrength": 32,
-    "range": 2,
-    "cost": 120,
-    "uniques": ["[+50]% Strength <vs cities>", "Must set up to attack"]
+    "requiredTech": "Local Hero",
+    "cost": 100,
+    "uniques": [
+      "[+25]% Strength <when fighting in [Enemy] territory>"
+    ]
   }
 ]
