@@ -1,23 +1,20 @@
 [
   {
-    "name": "Shrine to the Game We Used to Love",
-    "replaces": "Shrine",
+    "name": "Shrine",
     "cost": 40,
     "faith": 1,
     "maintenance": 1,
     "requiredTech": "Jumpers for Goalposts"
   },
   {
-    "name": "Legend Statue",
-    "replaces": "Monument",
+    "name": "Monument",
     "cost": 40,
     "culture": 2,
     "maintenance": 1,
     "requiredTech": "Jumpers for Goalposts"
   },
   {
-    "name": "Dodgy Burger Van",
-    "replaces": "Granary",
+    "name": "Granary",
     "cost": 60,
     "food": 2,
     "maintenance": 1,
