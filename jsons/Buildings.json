@@ -1,25 +1,34 @@
 [
   {
-    "name": "The Local Pub",
+    "name": "Dodgy Burger Van",
+    "requiredTech": "Sunday League",
     "cost": 40,
-    "maintenance": 1,
-    "uniques": ["[+2 Faith]", "[+1 Gold]"]
+    "uniques": [
+      "+1 [Food]"
+    ]
   },
   {
-    "name": "Greasy Burger Van",
-    "cost": 30,
-    "uniques": ["[+3 Food]", "[-1 Gold]"]
-  },
-  {
-    "name": "Muddy Training Pitch",
+    "name": "Local Boozer",
+    "requiredTech": "Local Hero",
     "cost": 60,
-    "maintenance": 2,
-    "uniques": ["[+2 Production]"]
+    "uniques": [
+      "+2 [Faith]" 
+    ]
   },
   {
-    "name": "Dodgy Medical Room",
-    "cost": 100,
-    "maintenance": 3,
-    "uniques": ["[+15] HP healed per turn for units in this city"]
+    "name": "Training Academy",
+    "requiredTech": "Professionalism",
+    "cost": 120,
+    "uniques": [
+      "+3 [Science]"
+    ]
+  },
+  {
+    "name": "Hospitality Box",
+    "requiredTech": "Global Brand",
+    "cost": 350,
+    "uniques": [
+      "+5 [Gold]"
+    ]
   }
 ]
