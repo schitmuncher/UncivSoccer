@@ -1,52 +1,64 @@
 [
   {
-    "name": "Shady Consortium",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 106,
-    "uniques": ["Founds a new city", "Must be on a Land tile"]
+    "id": "UNIT_GROUNDHOPPER",
+    "name": "Groundhopper",
+    "class": "Scout",
+    "combat": 10,
+    "movement": 3,
+    "cost": 30,
+    "maintenance": 1,
+    "description": "Armed with a notepad, a tragic anorak, and a severe lack of social skills. Excellent for exploring the map and finding neutral pubs before the opposition does."
   },
   {
-    "name": "Groundstaff",
-    "unitType": "Civilian",
+    "id": "UNIT_HARDMAN",
+    "name": "Proper Hardman",
+    "class": "Melee",
+    "combat": 25,
     "movement": 2,
-    "cost": 70,
-    "uniques": ["Can build improvements"]
+    "cost": 50,
+    "maintenance": 2,
+    "uniqueAbility": "The Dive",
+    "description": "Your frontline brawler. Wears Stone Island, doesn't feel the cold, and will two-foot an opposition scout without a second thought."
   },
   {
-    "name": "ITK Fraud",
-    "unitType": "Scout",
-    "movement": 2,
-    "strength": 4,
-    "cost": 25,
-    "upgradesTo": "Pyro Yobs",
-    "uniques": ["Ignores terrain cost"]
+    "id": "UNIT_GAFFER",
+    "name": "The Gaffer",
+    "class": "Great_General",
+    "combat": 0,
+    "movement": 4,
+    "cost": 100,
+    "maintenance": 5,
+    "description": "Stands on the touchline screaming at the top of his lungs. Gives a massive combat boost to any Hardmen within 5 tiles. If he gets captured, you're effectively sacked."
   },
   {
-    "name": "Stone Island Shithouse",
-    "unitType": "Sword",
-    "movement": 2,
-    "strength": 8,
-    "cost": 40,
-    "requiredTech": "Jumpers for Goalposts"
-  },
-  {
-    "name": "Pyro Yobs",
-    "unitType": "Archery",
-    "movement": 2,
-    "strength": 5,
-    "rangedStrength": 7,
+    "id": "UNIT_LAPTOP_GURU",
+    "name": "Laptop Guru",
+    "class": "Ranged",
+    "combat": 15,
     "range": 2,
-    "cost": 40,
-    "requiredTech": "Jumpers for Goalposts"
+    "movement": 2,
+    "cost": 80,
+    "maintenance": 3,
+    "description": "Never played the game professionally, but he's got an iPad full of xG stats. Pings the opposition from afar with confusing tactical adjustments."
   },
   {
-    "name": "Hi-Vis Stewards",
-    "unitType": "Sword",
+    "id": "UNIT_AWAY_COACH",
+    "name": "Away Day Coach",
+    "class": "Siege",
+    "combat": 30,
     "movement": 2,
-    "strength": 11,
-    "cost": 56,
-    "requiredTech": "Sunday League Tactics",
-    "uniques": ["Bonus vs Mounted (50)"]
+    "cost": 120,
+    "maintenance": 4,
+    "description": "Smells like stale lager and pure despair. Essential for battering down the walls of the opposition's Fortress without your boys suffering from travel sickness."
+  },
+  {
+    "id": "UNIT_PRO_SCOUT",
+    "name": "First-Team Scout",
+    "class": "Spy",
+    "combat": 5,
+    "movement": 5,
+    "cost": 150,
+    "maintenance": 4,
+    "description": "Sneaks into rival training grounds to steal Tactical Knowledge or sabotage their Burger Vans. A proper sneaky prick."
   }
 ]
