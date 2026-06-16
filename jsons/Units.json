@@ -1,44 +1,39 @@
 [
   {
-    "name": "Shady Consortium",
-    "replaces": "Settler",
+    "name": "Settler",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 106,
     "uniques": ["Founds a new city", "Must be on a Land tile"]
   },
   {
-    "name": "Groundstaff",
-    "replaces": "Worker",
+    "name": "Worker",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 70,
     "uniques": ["Can build improvements"]
   },
   {
-    "name": "ITK Fraud",
-    "replaces": "Scout",
+    "name": "Scout",
     "unitType": "Scout",
     "movement": 2,
     "strength": 4,
     "cost": 25,
     "obsoleteTech": "Grassroots Scouting",
-    "uniques": ["Ignores terrain cost", "May upgrade to: [Pyro Yobs]"]
+    "uniques": ["Ignores terrain cost", "May upgrade to [Archer]"]
   },
   {
-    "name": "Stone Island Shithouse",
-    "replaces": "Warrior",
+    "name": "Warrior",
     "unitType": "Sword",
     "movement": 2,
     "strength": 8,
     "cost": 40,
     "requiredTech": "Jumpers for Goalposts",
     "obsoleteTech": "Away Days",
-    "uniques": ["May upgrade to: [Hi-Vis Stewards]"]
+    "uniques": ["May upgrade to [Swordsman]"]
   },
   {
-    "name": "Pyro Yobs",
-    "replaces": "Archer",
+    "name": "Archer",
     "unitType": "Archery",
     "movement": 2,
     "strength": 5,
@@ -46,28 +41,16 @@
     "range": 2,
     "cost": 40,
     "requiredTech": "Jumpers for Goalposts",
-    "obsoleteTech": "Academy Systems"
+    "obsoleteTech": "Academy Systems",
+    "uniques": ["May upgrade to [Composite Bowman]"]
   },
   {
-    "name": "Hi-Vis Stewards",
-    "replaces": "Spearman",
+    "name": "Spearman",
     "unitType": "Sword",
     "movement": 2,
     "strength": 11,
     "cost": 56,
     "requiredTech": "Sunday League Tactics",
-    "uniques": ["Bonus vs Mounted (50)"]
-  },
-  {
-    "name": "Proper Brexit Gaffer",
-    "replaces": "Great General",
-    "unitType": "Civilian",
-    "uniques": ["Great Person - [War]", "Can start an [8]-turn Golden Age", "Provides combat bonus to surrounding units", "Can build [Citadel] improvements on tiles"]
-  },
-  {
-    "name": "Spreadsheet Shagger",
-    "replaces": "Great Scientist",
-    "unitType": "Civilian",
-    "uniques": ["Great Person - [Science]", "Can start an [8]-turn Golden Age", "Can instantly research a tech", "Can build [Academy] improvements on tiles"]
+    "uniques": ["Bonus vs Mounted (50)", "May upgrade to [Pikeman]"]
   }
 ]
