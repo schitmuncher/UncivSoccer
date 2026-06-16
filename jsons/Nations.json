@@ -22,5 +22,63 @@
     "uniqueAbilities": ["Silkmen Strength", "Moss Rose Surge"],
     "cityNames": ["Macclesfield", "Moss Rose", "South Macclesfield"],
     "colors": ["#0000FF", "#FFFFFF"]
+  },
+[
+  {
+    "id": "NATION_STOKE_CITY",
+    "name": "Stoke City",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Cold Tuesday Night", "Delap Long Throw"],
+    "cityNames": ["Stoke-on-Trent", "Bet365 Stadium", "The Victoria Ground", "Trentham"],
+    "colors": ["#E03A3E", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_MILLWALL",
+    "name": "Millwall FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["No One Likes Us", "The Den's Roar"],
+    "cityNames": ["Bermondsey", "The Den", "Isle of Dogs", "New Cross"],
+    "colors": ["#000033", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_MANCHESTER_CITY",
+    "name": "Manchester City",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Bottomless Pit", "Infinite Squad Depth"],
+    "cityNames": ["Eastlands", "The Etihad", "Maine Road", "Ashton New Road"],
+    "colors": ["#6CABDD", "#1C2C5B"]
+  },
+  {
+    "id": "NATION_BURNLEY",
+    "name": "Burnley FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Turf Moor Fortress", "Gravel Voice"],
+    "cityNames": ["Burnley", "Turf Moor", "Gawthorpe", "Pendle Hill"],
+    "colors": ["#6C1D45", "#99D6EA"]
+  },
+  {
+    "id": "NATION_WREXHAM",
+    "name": "Wrexham AFC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Hollywood Script", "Documentary Crew"],
+    "cityNames": ["Wrexham", "The Racecourse", "Caia Park", "Gresford"],
+    "colors": ["#E2001A", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_CHELSEA",
+    "name": "Chelsea FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Sacking Culture", "The Loan Army"],
+    "cityNames": ["Fulham Road", "Stamford Bridge", "Cobham", "Battersea"],
+    "colors": ["#034694", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_SUNDERLAND",
+    "name": "Sunderland AFC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Stadium of Light", "Netflix Curse"],
+    "cityNames": ["Sunderland", "Stadium of Light", "Roker Park", "Wearmouth"],
+    "colors": ["#EB172B", "#000000"]
   }
 ]
+
