@@ -20,6 +20,6 @@
     "name": "Dodgy Medical Room",
     "cost": 100,
     "maintenance": 3,
-    "uniques": ["Friendly units heal at [+25] HP per turn in this city"]
+    "uniques": ["[+15] HP healed per turn for units in this city"]
   }
 ]
