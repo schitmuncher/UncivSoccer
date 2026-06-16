@@ -1,130 +1,38 @@
 [
   {
-    "columnNumber": 1,
-    "era": "Ancient era",
-    "techCost": 10,
-    "techs": [
-      {
-        "name": "Jumpers for Goalposts",
-        "row": 20,
-        "uniques": ["Starting tech"]
-      }
-    ]
+    "id": "TECH_SUNDAY_LEAGUE",
+    "name": "The Sunday League",
+    "era": "Grassroots",
+    "cost": 50,
+    "prerequisites": [],
+    "unlocks_buildings": ["BUILDING_PUB", "BUILDING_BURGER_VAN"],
+    "unlocks_units": ["UNIT_GROUNDHOPPER"]
   },
   {
-    "columnNumber": 2,
-    "era": "Ancient era",
-    "techCost": 35,
-    "techs": [
-      {
-        "name": "Sunday League Tactics",
-        "row": 20,
-        "prerequisites": ["Jumpers for Goalposts"]
-      },
-      {
-        "name": "Matchday Catering",
-        "row": 21,
-        "prerequisites": ["Jumpers for Goalposts"]
-      }
-    ]
+    "id": "TECH_BASIC_FITNESS",
+    "name": "Basic Fitness",
+    "era": "Grassroots",
+    "cost": 80,
+    "prerequisites": ["TECH_SUNDAY_LEAGUE"],
+    "unlocks_buildings": ["BUILDING_TRAINING_PITCH"],
+    "unlocks_units": ["UNIT_GAFFER"]
   },
   {
-    "columnNumber": 3,
-    "era": "Classical era",
-    "techCost": 55,
-    "techs": [
-      {
-        "name": "Grassroots Scouting",
-        "row": 20,
-        "prerequisites": ["Sunday League Tactics"]
-      },
-      {
-        "name": "Basic Set Pieces",
-        "row": 21,
-        "prerequisites": ["Sunday League Tactics"]
-      }
-    ]
+    "id": "TECH_442_SETUP",
+    "name": "The 4-4-2 Setup",
+    "era": "Professional",
+    "cost": 150,
+    "prerequisites": ["TECH_BASIC_FITNESS"],
+    "unlocks_buildings": ["BUILDING_TRAINING_ACADEMY"],
+    "unlocks_units": ["UNIT_PRO_SCOUT", "UNIT_HARDMAN"]
   },
   {
-    "columnNumber": 4,
-    "era": "Medieval era",
-    "techCost": 105,
-    "techs": [
-      {
-        "name": "Away Days",
-        "row": 20,
-        "prerequisites": ["Basic Set Pieces"]
-      },
-      {
-        "name": "Merchandising",
-        "row": 21,
-        "prerequisites": ["Matchday Catering"]
-      }
-    ]
-  },
-  {
-    "columnNumber": 5,
-    "era": "Renaissance era",
-    "techCost": 150,
-    "techs": [
-      {
-        "name": "Academy Systems",
-        "row": 20,
-        "prerequisites": ["Grassroots Scouting", "Basic Set Pieces"]
-      },
-      {
-        "name": "Sports Science",
-        "row": 21,
-        "prerequisites": ["Matchday Catering", "Merchandising"]
-      }
-    ]
-  },
-  {
-    "columnNumber": 6,
-    "era": "Industrial era",
-    "techCost": 250,
-    "techs": [
-      {
-        "name": "Modern Tactical Theory",
-        "row": 20,
-        "prerequisites": ["Academy Systems", "Away Days"]
-      }
-    ]
-  },
-  {
-    "columnNumber": 7,
-    "era": "Modern era",
-    "techCost": 350,
-    "techs": [
-      {
-        "name": "Total Football",
-        "row": 20,
-        "prerequisites": ["Modern Tactical Theory"]
-      }
-    ]
-  },
-  {
-    "columnNumber": 8,
-    "era": "Atomic era",
-    "techCost": 500,
-    "techs": [
-      {
-        "name": "Financial Doping",
-        "row": 20,
-        "prerequisites": ["Merchandising", "Total Football"]
-      }
-    ]
-  },
-  {
-    "columnNumber": 9,
-    "era": "Information era",
-    "techCost": 650,
-    "techs": [
-      {
-        "name": "VAR Implementation",
-        "row": 20,
-        "prerequisites": ["Financial Doping"]
-      }
-    ]
+    "id": "TECH_SPORTS_SCIENCE",
+    "name": "Sports Science",
+    "era": "Professional",
+    "cost": 220,
+    "prerequisites": ["TECH_442_SETUP"],
+    "unlocks_buildings": ["BUILDING_MEDICAL_ROOM"],
+    "unlocks_units": ["UNIT_AWAY_COACH"]
   }
 ]
