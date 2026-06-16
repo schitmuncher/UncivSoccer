@@ -80,5 +80,63 @@
     "cityNames": ["Sunderland", "Stadium of Light", "Roker Park", "Wearmouth"],
     "colors": ["#EB172B", "#000000"]
   }
+[
+  {,
+    "id": "NATION_MANCHESTER_UNITED",
+    "name": "Manchester United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Past Glories", "Leaky Roof"],
+    "cityNames": ["Trafford", "Old Trafford", "Salford", "Carrington"],
+    "colors": ["#DA291C", "#FBE122"]
+  },
+  {
+    "id": "NATION_ARSENAL",
+    "name": "Arsenal FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Tricky Reds", "The Invincibles Aura"],
+    "cityNames": ["Islington", "The Emirates", "Highbury", "Colney"],
+    "colors": ["#EF0107", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_NEWCASTLE_UNITED",
+    "name": "Newcastle United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Toon Army", "Bottomless Oil Barrel"],
+    "cityNames": ["Newcastle upon Tyne", "St James' Park", "Jesmond", "Gateshead"],
+    "colors": ["#000000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_EVERTON",
+    "name": "Everton FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Points Deduction", "Goodison Bear Pit"],
+    "cityNames": ["Liverpool", "Goodison Park", "Bramley-Moore", "Finch Farm"],
+    "colors": ["#003399", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_LEEDS_UNITED",
+    "name": "Leeds United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Bielsa Burnout", "Dirty Leeds"],
+    "cityNames": ["Leeds", "Elland Road", "Beeston", "Thorp Arch"],
+    "colors": ["#FFCD00", "#1D428A"]
+  },
+  {
+    "id": "NATION_PORT_VALE",
+    "name": "Port Vale FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Robbie Williams Funding", "Vale Park Pitch"],
+    "cityNames": ["Burslem", "Vale Park", "Tunstall", "Hanley"],
+    "colors": ["#FFFFFF", "#000000"]
+  },
+  {
+    "id": "NATION_ASTON_VILLA",
+    "name": "Aston Villa",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Brummie Pride", "Holte End Roar"],
+    "cityNames": ["Aston", "Villa Park", "Bodymoor Heath", "Witton"],
+    "colors": ["#670E36", "#95BFE5"]
+  }
 ]
+
 
