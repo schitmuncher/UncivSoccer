@@ -136,7 +136,65 @@
     "uniqueAbilities": ["Brummie Pride", "Holte End Roar"],
     "cityNames": ["Aston", "Villa Park", "Bodymoor Heath", "Witton"],
     "colors": ["#670E36", "#95BFE5"]
+  },
+[
+  {
+    "id": "NATION_TOTTENHAM_HOTSPUR",
+    "name": "Tottenham Hotspur",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Lads, It's Tottenham", "Empty Trophy Cabinet"],
+    "cityNames": ["Tottenham", "White Hart Lane", "Enfield", "Seven Sisters"],
+    "colors": ["#FFFFFF", "#132257"]
+  },
+  {
+    "id": "NATION_WEST_HAM_UNITED",
+    "name": "West Ham United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Taxpayer Stadium", "Blowing Bubbles"],
+    "cityNames": ["Stratford", "London Stadium", "Upton Park", "Green Street"],
+    "colors": ["#7A263A", "#1BB1E7"]
+  },
+  {
+    "id": "NATION_SHEFFIELD_UNITED",
+    "name": "Sheffield United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Blades of Steel", "Overlapping Centre-Backs"],
+    "cityNames": ["Sheffield", "Bramall Lane", "Shirecliffe", "Highfield"],
+    "colors": ["#EE2737", "#000000"]
+  },
+  {
+    "id": "NATION_SHEFFIELD_WEDNESDAY",
+    "name": "Sheffield Wednesday",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["We're Massive", "Bannan's Left Foot"],
+    "cityNames": ["Hillsborough", "Owlerton", "Middlewood", "Wadsley Bridge"],
+    "colors": ["#0E2A83", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_ACCRINGTON_STANLEY",
+    "name": "Accrington Stanley",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Who Are They?", "Milk Drinkers"],
+    "cityNames": ["Accrington", "Crown Ground", "Hyndburn", "Church"],
+    "colors": ["#DA291C", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_AFC_WIMBLEDON",
+    "name": "AFC Wimbledon",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Franchise Haters", "Crazy Gang Spirit"],
+    "cityNames": ["Wimbledon", "Plough Lane", "Kingsmeadow", "Merton"],
+    "colors": ["#000099", "#FFCC00"]
+  },
+  {
+    "id": "NATION_BOLTON_WANDERERS",
+    "name": "Bolton Wanderers",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Big Sam's Legacy", "Trotters Resilience"],
+    "cityNames": ["Horwich", "Toughsheet Stadium", "Burnden Park", "Lostock"],
+    "colors": ["#FFFFFF", "#00205B"]
   }
 ]
+
 
 
