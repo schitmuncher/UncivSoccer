@@ -1,0 +1,25 @@
+[
+  {
+    "name": "The Local Pub",
+    "cost": 40,
+    "maintenance": 1,
+    "uniques": ["[+2 Faith]", "[+1 Gold]"]
+  },
+  {
+    "name": "Greasy Burger Van",
+    "cost": 30,
+    "uniques": ["[+3 Food]", "[-1 Gold]"]
+  },
+  {
+    "name": "Muddy Training Pitch",
+    "cost": 60,
+    "maintenance": 2,
+    "uniques": ["[+2 Production]"]
+  },
+  {
+    "name": "Dodgy Medical Room",
+    "cost": 100,
+    "maintenance": 3,
+    "uniques": ["Friendly units heal at [+25] HP per turn in this city"]
+  }
+]
