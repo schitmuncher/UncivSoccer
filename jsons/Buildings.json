@@ -1,8 +1,26 @@
 [
-  {"name": "Legend Statue", "cost": 40, "maintenance": 1, "culture": 2, "requiredTech": "Jumpers for Goalposts"},
-  {"name": "Burger Van", "cost": 60, "maintenance": 1, "food": 2, "requiredTech": "Matchday Catering"},
-  {"name": "Local Training Pitch", "cost": 75, "maintenance": 1, "production": 2, "requiredTech": "Sunday League Tactics"},
-  {"name": "Fan Zone", "cost": 100, "maintenance": 2, "happiness": 2, "requiredTech": "Away Days"},
-  {"name": "Club Megastore", "cost": 120, "gold": 5, "requiredTech": "Merchandising"},
-  {"name": "Medical Department", "cost": 150, "maintenance": 2, "science": 3, "requiredTech": "Sports Science"}
+  {
+    "name": "Shrine to the Game We Used to Love",
+    "replaces": "Shrine",
+    "cost": 40,
+    "faith": 1,
+    "maintenance": 1,
+    "requiredTech": "Jumpers for Goalposts"
+  },
+  {
+    "name": "Legend Statue",
+    "replaces": "Monument",
+    "cost": 40,
+    "culture": 2,
+    "maintenance": 1,
+    "requiredTech": "Jumpers for Goalposts"
+  },
+  {
+    "name": "Dodgy Burger Van",
+    "replaces": "Granary",
+    "cost": 60,
+    "food": 2,
+    "maintenance": 1,
+    "requiredTech": "Matchday Catering"
+  }
 ]
