@@ -1,84 +1,73 @@
 [
   {
-    "name": "Board Member",
+    "name": "Shady Consortium",
+    "replaces": "Settler",
     "unitType": "Civilian",
     "movement": 2,
-    "cost": 106
+    "cost": 106,
+    "uniques": ["Founds a new city", "Must be on a Land tile"]
   },
   {
     "name": "Groundstaff",
+    "replaces": "Worker",
     "unitType": "Civilian",
     "movement": 2,
-    "cost": 70
+    "cost": 70,
+    "uniques": ["Can build improvements"]
   },
   {
-    "name": "Youth Scout",
+    "name": "ITK Fraud",
+    "replaces": "Scout",
     "unitType": "Scout",
     "movement": 2,
     "strength": 4,
     "cost": 25,
-    "requiredTech": "Grassroots Scouting"
+    "obsoleteTech": "Grassroots Scouting",
+    "uniques": ["Ignores terrain cost", "May upgrade to: [Pyro Yobs]"]
   },
   {
-    "name": "Enforcer Midfielder",
-    "unitType": "Melee",
+    "name": "Stone Island Shithouse",
+    "replaces": "Warrior",
+    "unitType": "Sword",
     "movement": 2,
     "strength": 8,
     "cost": 40,
-    "requiredTech": "Sunday League Tactics",
-    "upgradesTo": "Box-to-Box Midfielder"
+    "requiredTech": "Jumpers for Goalposts",
+    "obsoleteTech": "Away Days",
+    "uniques": ["May upgrade to: [Hi-Vis Stewards]"]
   },
   {
-    "name": "Target Man",
-    "unitType": "Melee",
-    "movement": 2,
-    "strength": 14,
-    "cost": 56,
-    "requiredTech": "Sunday League Tactics"
-  },
-  {
-    "name": "Dead-Ball Specialist",
-    "unitType": "Ranged",
+    "name": "Pyro Yobs",
+    "replaces": "Archer",
+    "unitType": "Archery",
     "movement": 2,
     "strength": 5,
     "rangedStrength": 7,
     "range": 2,
     "cost": 40,
-    "requiredTech": "Basic Set Pieces"
+    "requiredTech": "Jumpers for Goalposts",
+    "obsoleteTech": "Academy Systems"
   },
   {
-    "name": "Pacy Winger",
-    "unitType": "Mounted",
-    "movement": 4,
-    "strength": 12,
-    "cost": 75,
-    "requiredTech": "Academy Systems",
-    "upgradesTo": "Inverted Fullback"
-  },
-  {
-    "name": "Travelling Ultras",
-    "unitType": "Siege",
+    "name": "Hi-Vis Stewards",
+    "replaces": "Spearman",
+    "unitType": "Sword",
     "movement": 2,
-    "strength": 7,
-    "rangedStrength": 14,
-    "range": 2,
-    "cost": 75,
-    "requiredTech": "Away Days"
+    "strength": 11,
+    "cost": 56,
+    "requiredTech": "Sunday League Tactics",
+    "uniques": ["Bonus vs Mounted (50)"]
   },
   {
-    "name": "Box-to-Box Midfielder",
-    "unitType": "Melee",
-    "movement": 2,
-    "strength": 14,
-    "cost": 75,
-    "requiredTech": "Modern Tactical Theory"
+    "name": "Proper Brexit Gaffer",
+    "replaces": "Great General",
+    "unitType": "Civilian",
+    "uniques": ["Great Person - [War]", "Can start an [8]-turn Golden Age", "Provides combat bonus to surrounding units", "Can build [Citadel] improvements on tiles"]
   },
   {
-    "name": "Inverted Fullback",
-    "unitType": "Mounted",
-    "movement": 4,
-    "strength": 20,
-    "cost": 120,
-    "requiredTech": "Total Football"
+    "name": "Spreadsheet Shagger",
+    "replaces": "Great Scientist",
+    "unitType": "Civilian",
+    "uniques": ["Great Person - [Science]", "Can start an [8]-turn Golden Age", "Can instantly research a tech", "Can build [Academy] improvements on tiles"]
   }
 ]
