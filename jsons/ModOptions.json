@@ -1,4 +1,6 @@
 {
+  "author": "Sam",
+  "defaultBranch": "main",
   "nationsToRemove": [
     "America", "Arabia", "Austria", "Aztec", "Babylon", "Brazil", "Byzantium", 
     "Carthage", "Celts", "China", "Denmark", "Egypt", "England", "Ethiopia", 
