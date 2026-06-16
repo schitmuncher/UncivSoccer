@@ -2,11 +2,12 @@
   "author": "Sam",
   "defaultBranch": "main",
   "nationsToRemove": [
-    "America", "Arabia", "Austria", "Aztec", "Babylon", "Brazil", "Byzantium", 
-    "Carthage", "Celts", "China", "Denmark", "Egypt", "England", "Ethiopia", 
-    "France", "Germany", "Greece", "The Huns", "Inca", "India", "Indonesia", 
-    "Iroquois", "Japan", "Korea", "Maya", "Mongolia", "Morocco", "The Netherlands", 
-    "The Ottomans", "Persia", "Poland", "Polynesia", "Portugal", "Rome", 
-    "Russia", "Shoshone", "Siam", "Songhai", "Spain", "Sweden", "Venice", "Zulus"
+    "America", "Arabia", "Assyria", "Austria", "Babylon", "Brazil", "Byzantium", 
+    "Carthage", "China", "Denmark", "Egypt", "England", "Ethiopia", 
+    "France", "Germany", "Greece", "India", "Indonesia", 
+    "Iroquois", "Japan", "Korea", "Mongolia", "Morocco", "Persia", "Poland", 
+    "Polynesia", "Portugal", "Rome", "Russia", "Siam", "Songhai", "Spain", 
+    "Sweden", "The Aztecs", "The Celts", "The Huns", "The Inca", "The Maya", 
+    "The Netherlands", "The Ottomans", "The Shoshone", "The Zulus", "Venice"
   ]
 }
