@@ -5,7 +5,7 @@
     "era": "Ancient era",
     "row": 15,
     "column": 1,
-    "prerequisites": []
+    "uniques": ["Starting tech"]
   },
   {
     "name": "Sunday League Tactics",
