@@ -1,23 +1,61 @@
 [
   {
-    "name": "Shrine to the Game We Used to Love",
+    "id": "BUILDING_PUB",
+    "name": "The Local Pub",
+    "type": "Entertainment",
     "cost": 40,
-    "faith": 1,
     "maintenance": 1,
-    "requiredTech": "Jumpers for Goalposts"
+    "yields": {
+      "faith": 2,
+      "gold": 1
+    },
+    "description": "Generates pure Vibes. Essential for stopping the fans from burning down the boardroom when you go on a losing streak."
   },
   {
-    "name": "Legend Statue",
-    "cost": 40,
-    "culture": 2,
+    "id": "BUILDING_BURGER_VAN",
+    "name": "Greasy Burger Van",
+    "type": "Food",
+    "cost": 30,
     "maintenance": 1,
-    "requiredTech": "Jumpers for Goalposts"
+    "yields": {
+      "food": 3,
+      "gold": -1
+    },
+    "description": "Questionable meat, premium prices. Boosts Matchday Attendance but costs a bit to bribe the health inspectors."
   },
   {
-    "name": "Dodgy Burger Van",
+    "id": "BUILDING_TRAINING_PITCH",
+    "name": "Muddy Training Pitch",
+    "type": "Production",
     "cost": 60,
-    "food": 2,
-    "maintenance": 1,
-    "requiredTech": "Matchday Catering"
+    "maintenance": 2,
+    "yields": {
+      "production": 2,
+      "science": 1
+    },
+    "description": "Where hamstrings go to snap. Provides a flat boost to Club Revenue and your first scraps of Tactical Knowledge."
+  },
+  {
+    "id": "BUILDING_TRAINING_ACADEMY",
+    "name": "State-of-the-Art Academy",
+    "type": "Science",
+    "cost": 120,
+    "maintenance": 4,
+    "yields": {
+      "science": 4,
+      "culture": 1
+    },
+    "description": "Produces the Laptop Gurus. Speeds up your climb up the Career Ladder."
+  },
+  {
+    "id": "BUILDING_MEDICAL_ROOM",
+    "name": "Dodgy Medical Room",
+    "type": "Support",
+    "cost": 100,
+    "maintenance": 3,
+    "yields": {
+      "production": 1
+    },
+    "description": "Just a bloke with a magic sponge. Allows units stationed in the city to heal twice as fast."
   }
 ]
