@@ -1,28 +1,29 @@
 [
   {
-    "name": "Settler",
+    "name": "Shady Consortium",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 106,
     "uniques": ["Founds a new city", "Must be on a Land tile"]
   },
   {
-    "name": "Worker",
+    "name": "Groundstaff",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 70,
     "uniques": ["Can build improvements"]
   },
   {
-    "name": "Scout",
+    "name": "ITK Fraud",
     "unitType": "Scout",
     "movement": 2,
     "strength": 4,
     "cost": 25,
+    "upgradesTo": "Pyro Yobs",
     "uniques": ["Ignores terrain cost"]
   },
   {
-    "name": "Warrior",
+    "name": "Stone Island Shithouse",
     "unitType": "Sword",
     "movement": 2,
     "strength": 8,
@@ -30,7 +31,7 @@
     "requiredTech": "Jumpers for Goalposts"
   },
   {
-    "name": "Archer",
+    "name": "Pyro Yobs",
     "unitType": "Archery",
     "movement": 2,
     "strength": 5,
@@ -40,7 +41,7 @@
     "requiredTech": "Jumpers for Goalposts"
   },
   {
-    "name": "Spearman",
+    "name": "Hi-Vis Stewards",
     "unitType": "Sword",
     "movement": 2,
     "strength": 11,
