@@ -314,8 +314,130 @@
     "uniqueAbilities": ["Super White Army", "Prenton Park Mud"],
     "cityNames": ["Birkenhead", "Prenton Park", "Wirral", "Bebington"],
     "colors": ["#FFFFFF", "#0000FF"]
+  },
+[
+  {
+    "id": "NATION_STOCKPORT_COUNTY",
+    "name": "Stockport County",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Edgeley Park Roar", "National League Survivors"],
+    "cityNames": ["Stockport", "Edgeley", "Cheadle", "Bredbury"],
+    "colors": ["#0000FF", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_OLDHAM_ATHLETIC",
+    "name": "Oldham Athletic",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Ice Station Zebra", "Boundary Park Freeze"],
+    "cityNames": ["Oldham", "Boundary Park", "Chadderton", "Royton"],
+    "colors": ["#005CA5", "#F05133"]
+  },
+  {
+    "id": "NATION_ROCHDALE",
+    "name": "Rochdale AFC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Spotland Sandpit", "Perpetual League One"],
+    "cityNames": ["Rochdale", "Spotland", "Littleborough", "Castleton"],
+    "colors": ["#0000FF", "#000000"]
+  },
+  {
+    "id": "NATION_SALFORD_CITY",
+    "name": "Salford City",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Class of '92 Wallet", "Sky Sports Darlings"],
+    "cityNames": ["Salford", "Moor Lane", "Kersal", "Broughton"],
+    "colors": ["#E30613", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_PRESTON_NORTH_END",
+    "name": "Preston North End",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Original Invincibles", "Sir Tom Finney Splash"],
+    "cityNames": ["Preston", "Deepdale", "Fulwood", "Ribbleton"],
+    "colors": ["#FFFFFF", "#002D64"]
+  },
+  {
+    "id": "NATION_BLACKPOOL",
+    "name": "Blackpool FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Tangerine Dream", "Pitch Invasion Protest"],
+    "cityNames": ["Blackpool", "Bloomfield Road", "South Shore", "Layton"],
+    "colors": ["#F18A01", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_BLACKBURN_ROVERS",
+    "name": "Blackburn Rovers",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Venky's Chicken", "Jack Walker's Ghost"],
+    "cityNames": ["Blackburn", "Ewood Park", "Darwen", "Pleasington"],
+    "colors": ["#0000FF", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_WIGAN_ATHLETIC",
+    "name": "Wigan Athletic",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Pie Eaters", "FA Cup Giant Killers"],
+    "cityNames": ["Wigan", "DW Stadium", "Orrell", "Standish"],
+    "colors": ["#002060", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_HULL_CITY",
+    "name": "Hull City",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Mauled by the Tigers", "Name Change Rejection"],
+    "cityNames": ["Hull", "MKM Stadium", "Boothferry", "Cottingham"],
+    "colors": ["#F5A122", "#000000"]
+  },
+  {
+    "id": "NATION_GRIMSBY_TOWN",
+    "name": "Grimsby Town",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Harry Haddock", "Blundell Park Wind"],
+    "cityNames": ["Cleethorpes", "Blundell Park", "Grimsby", "Immingham"],
+    "colors": ["#000000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_LINCOLN_CITY",
+    "name": "Lincoln City",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Air Raid Siren", "Impvasion"],
+    "cityNames": ["Lincoln", "Sincil Bank", "Boultham", "Bracebridge"],
+    "colors": ["#E30613", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_PETERBOROUGH_UNITED",
+    "name": "Peterborough United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["The Posh", "London Road Terrace"],
+    "cityNames": ["Peterborough", "London Road", "Fletton", "Woodston"],
+    "colors": ["#0000FF", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_CAMBRIDGE_UNITED",
+    "name": "Cambridge United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Amber Army", "Abbey Stadium Charm"],
+    "cityNames": ["Cambridge", "The Abbey", "Chesterton", "Cherry Hinton"],
+    "colors": ["#F2A900", "#000000"]
+  },
+  {
+    "id": "NATION_OXFORD_UNITED",
+    "name": "Oxford United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Three-Sided Stadium", "Car Park Stand"],
+    "cityNames": ["Oxford", "Kassam Stadium", "Headington", "Minchery Farm"],
+    "colors": ["#FDB913", "#00205B"]
+  },
+  {
+    "id": "NATION_READING",
+    "name": "Reading FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Points Deduction Pain", "Tennis Ball Protest"],
+    "cityNames": ["Reading", "Madejski Stadium", "Tilehurst", "Whitley"],
+    "colors": ["#0000FF", "#FFFFFF"]
   }
 ]
+
 
 
 
