@@ -298,5 +298,206 @@
     "outerColor": [255, 255, 255],
     "innerColor": [0, 0, 0],
     "cities": ["Derby", "Pride Park", "Baseball Ground", "Moor Farm"]
+  },
+  {
+    "name": "Crystal Palace",
+    "leaderName": "The Eagles",
+    "adjective": "Palace",
+    "startIntro": "Welcome to Selhurst Park.",
+    "declaringWar": "The Holmesdale Fanatics are ready for a riot.",
+    "outerColor": [27, 69, 143],
+    "innerColor": [196, 18, 46],
+    "cities": ["Croydon", "Selhurst Park", "Thornton Heath", "Norwood"]
+  },
+  {
+    "name": "Brighton & Hove Albion",
+    "leaderName": "The Seagulls",
+    "adjective": "Brighton",
+    "startIntro": "Welcome to the Amex.",
+    "declaringWar": "Our data-driven scouting model says you're absolute rubbish.",
+    "outerColor": [0, 87, 184],
+    "innerColor": [255, 255, 255],
+    "cities": ["Brighton", "The Amex", "Hove", "Falmer"]
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "leaderName": "Wolves",
+    "adjective": "Wolves",
+    "startIntro": "Welcome to Molineux.",
+    "declaringWar": "The pack is hungry, prepare to get mauled.",
+    "outerColor": [253, 185, 19],
+    "innerColor": [35, 31, 32],
+    "cities": ["Wolverhampton", "Molineux", "Compton Park", "Whitmore Reans"]
+  },
+  {
+    "name": "West Bromwich Albion",
+    "leaderName": "The Baggies",
+    "adjective": "Baggies",
+    "startIntro": "Welcome to The Hawthorns.",
+    "declaringWar": "Boing boing, we're bouncing right over your lines.",
+    "outerColor": [18, 47, 103],
+    "innerColor": [255, 255, 255],
+    "cities": ["West Bromwich", "The Hawthorns", "Smethwick", "Walsall"]
+  },
+  {
+    "name": "Ipswich Town",
+    "leaderName": "The Tractor Boys",
+    "adjective": "Ipswich",
+    "startIntro": "Welcome to Portman Road.",
+    "declaringWar": "Get out of the way, the tractor has no brakes.",
+    "outerColor": [0, 20, 137],
+    "innerColor": [255, 255, 255],
+    "cities": ["Ipswich", "Portman Road", "Playford Road", "Rushmere"]
+  },
+  {
+    "name": "Norwich City",
+    "leaderName": "The Canaries",
+    "adjective": "Norwich",
+    "startIntro": "Let's be 'aving you!",
+    "declaringWar": "Delia's cooking up a bloodbath.",
+    "outerColor": [255, 242, 0],
+    "innerColor": [0, 166, 80],
+    "cities": ["Norwich", "Carrow Road", "Colney", "Thorpe Hamlet"]
+  },
+  {
+    "name": "Charlton Athletic",
+    "leaderName": "The Addicks",
+    "adjective": "Charlton",
+    "startIntro": "Welcome back to The Valley.",
+    "declaringWar": "We will pelt your pitch with plastic pigs.",
+    "outerColor": [208, 0, 39],
+    "innerColor": [255, 255, 255],
+    "cities": ["Greenwich", "The Valley", "Charlton", "Sparrows Lane"]
+  },
+  {
+    "name": "Plymouth Argyle",
+    "leaderName": "The Pilgrims",
+    "adjective": "Argyle",
+    "startIntro": "Welcome to Home Park.",
+    "declaringWar": "The Green Army is invading your borders.",
+    "outerColor": [0, 67, 43],
+    "innerColor": [255, 255, 255],
+    "cities": ["Plymouth", "Home Park", "Devonport", "Milehouse"]
+  },
+  {
+    "name": "Tranmere Rovers",
+    "leaderName": "The Super White Army",
+    "adjective": "Tranmere",
+    "startIntro": "Welcome to Prenton Park.",
+    "declaringWar": "Prepare to get stuck in the Birkenhead mud.",
+    "outerColor": [255, 255, 255],
+    "innerColor": [0, 0, 255],
+    "cities": ["Birkenhead", "Prenton Park", "Wirral", "Bebington"]
+  },
+  {
+    "name": "Stockport County",
+    "leaderName": "The Hatters",
+    "adjective": "Stockport",
+    "startIntro": "Welcome to Edgeley Park.",
+    "declaringWar": "We survived the National League drop, you're nothing.",
+    "outerColor": [0, 0, 255],
+    "innerColor": [255, 255, 255],
+    "cities": ["Stockport", "Edgeley", "Cheadle", "Bredbury"]
+  },
+  {
+    "name": "Oldham Athletic",
+    "leaderName": "The Latics",
+    "adjective": "Oldham",
+    "startIntro": "Welcome to Ice Station Zebra.",
+    "declaringWar": "You're going to freeze at Boundary Park.",
+    "outerColor": [0, 92, 165],
+    "innerColor": [240, 81, 51],
+    "cities": ["Oldham", "Boundary Park", "Chadderton", "Royton"]
+  },
+  {
+    "name": "Rochdale AFC",
+    "leaderName": "The Dale",
+    "adjective": "Rochdale",
+    "startIntro": "Welcome to the Spotland sandpit.",
+    "declaringWar": "A lifetime in League One has prepared us for war.",
+    "outerColor": [0, 0, 255],
+    "innerColor": [0, 0, 0],
+    "cities": ["Rochdale", "Spotland", "Littleborough", "Castleton"]
+  },
+  {
+    "name": "Salford City",
+    "leaderName": "The Ammies",
+    "adjective": "Salford",
+    "startIntro": "Welcome to Moor Lane.",
+    "declaringWar": "The Class of '92 budget is locking onto your territory.",
+    "outerColor": [223, 6, 19],
+    "innerColor": [255, 255, 255],
+    "cities": ["Salford", "Moor Lane", "Kersal", "Broughton"]
+  },
+  {
+    "name": "Preston North End",
+    "leaderName": "The Lilywhites",
+    "adjective": "Preston",
+    "startIntro": "Welcome to Deepdale.",
+    "declaringWar": "The original Invincibles are going to end you.",
+    "outerColor": [255, 255, 255],
+    "innerColor": [0, 45, 100],
+    "cities": ["Preston", "Deepdale", "Fulwood", "Ribbleton"]
+  },
+  {
+    "name": "Blackpool FC",
+    "leaderName": "The Seasiders",
+    "adjective": "Blackpool",
+    "startIntro": "Welcome to Bloomfield Road.",
+    "declaringWar": "Tangerine army incoming, mind the pitch invasion.",
+    "outerColor": [241, 138, 1],
+    "innerColor": [255, 255, 255],
+    "cities": ["Blackpool", "Bloomfield Road", "South Shore", "Layton"]
+  },
+  {
+    "name": "Blackburn Rovers",
+    "leaderName": "The Riversiders",
+    "adjective": "Blackburn",
+    "startIntro": "Welcome to Ewood Park.",
+    "declaringWar": "Venky's sends their regards. Prepare to get stuffed.",
+    "outerColor": [0, 0, 255],
+    "innerColor": [255, 255, 255],
+    "cities": ["Blackburn", "Ewood Park", "Darwen", "Pleasington"]
+  },
+  {
+    "name": "Wigan Athletic",
+    "leaderName": "The Latics",
+    "adjective": "Wigan",
+    "startIntro": "Welcome to the DW Stadium.",
+    "declaringWar": "The pie eaters are coming for your resources.",
+    "outerColor": [0, 32, 96],
+    "innerColor": [255, 255, 255],
+    "cities": ["Wigan", "DW Stadium", "Orrell", "Standish"]
+  },
+  {
+    "name": "Hull City",
+    "leaderName": "The Tigers",
+    "adjective": "Hull",
+    "startIntro": "You're getting mauled by the Tigers.",
+    "declaringWar": "Prepare to hear the stadium roar.",
+    "outerColor": [245, 161, 34],
+    "innerColor": [0, 0, 0],
+    "cities": ["Hull", "MKM Stadium", "Boothferry", "Cottingham"]
+  },
+  {
+    "name": "Grimsby Town",
+    "leaderName": "The Mariners",
+    "adjective": "Grimsby",
+    "startIntro": "Welcome to Blundell Park.",
+    "declaringWar": "Smell the fish and feel the frostbite.",
+    "outerColor": [0, 0, 0],
+    "innerColor": [255, 255, 255],
+    "cities": ["Cleethorpes", "Blundell Park", "Grimsby", "Immingham"]
+  },
+  {
+    "name": "Lincoln City",
+    "leaderName": "The Imps",
+    "adjective": "Lincoln",
+    "startIntro": "Welcome to Sincil Bank.",
+    "declaringWar": "The air raid siren is sounding, look out.",
+    "outerColor": [223, 6, 19],
+    "innerColor": [255, 255, 255],
+    "cities": ["Lincoln", "Sincil Bank", "Boultham", "Bracebridge"]
   }
 ]
+
