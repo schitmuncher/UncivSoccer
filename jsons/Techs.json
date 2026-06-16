@@ -1,106 +1,130 @@
 [
   {
-    "name": "Jumpers for Goalposts",
-    "cost": 10,
+    "columnNumber": 1,
     "era": "Ancient era",
-    "row": 15,
-    "column": 1,
-    "uniques": ["Starting tech"]
+    "techCost": 10,
+    "techs": [
+      {
+        "name": "Jumpers for Goalposts",
+        "row": 1,
+        "uniques": ["Starting tech"]
+      }
+    ]
   },
   {
-    "name": "Sunday League Tactics",
-    "cost": 35,
+    "columnNumber": 2,
     "era": "Ancient era",
-    "row": 15,
-    "column": 2,
-    "prerequisites": ["Jumpers for Goalposts"]
+    "techCost": 35,
+    "techs": [
+      {
+        "name": "Sunday League Tactics",
+        "row": 2,
+        "prerequisites": ["Jumpers for Goalposts"]
+      },
+      {
+        "name": "Matchday Catering",
+        "row": 3,
+        "prerequisites": ["Jumpers for Goalposts"]
+      }
+    ]
   },
   {
-    "name": "Matchday Catering",
-    "cost": 35,
-    "era": "Ancient era",
-    "row": 16,
-    "column": 2,
-    "prerequisites": ["Jumpers for Goalposts"]
-  },
-  {
-    "name": "Grassroots Scouting",
-    "cost": 55,
+    "columnNumber": 3,
     "era": "Classical era",
-    "row": 15,
-    "column": 3,
-    "prerequisites": ["Sunday League Tactics"]
+    "techCost": 55,
+    "techs": [
+      {
+        "name": "Grassroots Scouting",
+        "row": 2,
+        "prerequisites": ["Sunday League Tactics"]
+      },
+      {
+        "name": "Basic Set Pieces",
+        "row": 3,
+        "prerequisites": ["Sunday League Tactics"]
+      }
+    ]
   },
   {
-    "name": "Basic Set Pieces",
-    "cost": 55,
-    "era": "Classical era",
-    "row": 16,
-    "column": 3,
-    "prerequisites": ["Sunday League Tactics"]
-  },
-  {
-    "name": "Away Days",
-    "cost": 105,
+    "columnNumber": 4,
     "era": "Medieval era",
-    "row": 15,
-    "column": 4,
-    "prerequisites": ["Basic Set Pieces"]
+    "techCost": 105,
+    "techs": [
+      {
+        "name": "Away Days",
+        "row": 2,
+        "prerequisites": ["Basic Set Pieces"]
+      },
+      {
+        "name": "Merchandising",
+        "row": 3,
+        "prerequisites": ["Matchday Catering"]
+      }
+    ]
   },
   {
-    "name": "Merchandising",
-    "cost": 105,
-    "era": "Medieval era",
-    "row": 16,
-    "column": 4,
-    "prerequisites": ["Matchday Catering"]
-  },
-  {
-    "name": "Academy Systems",
-    "cost": 150,
+    "columnNumber": 5,
     "era": "Renaissance era",
-    "row": 15,
-    "column": 5,
-    "prerequisites": ["Grassroots Scouting", "Basic Set Pieces"]
+    "techCost": 150,
+    "techs": [
+      {
+        "name": "Academy Systems",
+        "row": 2,
+        "prerequisites": ["Grassroots Scouting", "Basic Set Pieces"]
+      },
+      {
+        "name": "Sports Science",
+        "row": 3,
+        "prerequisites": ["Matchday Catering", "Merchandising"]
+      }
+    ]
   },
   {
-    "name": "Sports Science",
-    "cost": 200,
-    "era": "Renaissance era",
-    "row": 16,
-    "column": 5,
-    "prerequisites": ["Matchday Catering", "Merchandising"]
-  },
-  {
-    "name": "Modern Tactical Theory",
-    "cost": 250,
+    "columnNumber": 6,
     "era": "Industrial era",
-    "row": 15,
-    "column": 6,
-    "prerequisites": ["Academy Systems", "Away Days"]
+    "techCost": 250,
+    "techs": [
+      {
+        "name": "Modern Tactical Theory",
+        "row": 2,
+        "prerequisites": ["Academy Systems", "Away Days"]
+      }
+    ]
   },
   {
-    "name": "Total Football",
-    "cost": 350,
+    "columnNumber": 7,
     "era": "Modern era",
-    "row": 15,
-    "column": 7,
-    "prerequisites": ["Modern Tactical Theory"]
+    "techCost": 350,
+    "techs": [
+      {
+        "name": "Total Football",
+        "row": 2,
+        "prerequisites": ["Modern Tactical Theory"]
+      }
+    ]
   },
   {
-    "name": "Financial Doping",
-    "cost": 500,
+    "columnNumber": 8,
     "era": "Atomic era",
-    "row": 15,
-    "column": 8,
-    "prerequisites": ["Merchandising", "Total Football"]
+    "techCost": 500,
+    "techs": [
+      {
+        "name": "Financial Doping",
+        "row": 2,
+        "prerequisites": ["Merchandising", "Total Football"]
+      }
+    ]
   },
   {
-    "name": "VAR Implementation",
-    "cost": 650,
+    "columnNumber": 9,
     "era": "Information era",
-    "row": 15,
-    "column": 9,
-    "prerequisites": ["Financial Doping"]
+    "techCost": 650,
+    "techs": [
+      {
+        "name": "VAR Implementation",
+        "row": 2,
+        "prerequisites": ["Financial Doping"]
+      }
+    ]
   }
 ]
