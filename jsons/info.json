@@ -1,7 +1,9 @@
 {
   "name": "UncivSoccer",
-  "version": "2.0.0",
-  "description": "Full-scale football pyramid overhaul.",
+  "version": "3.0.0",
+  "description": "Total tactical turf war. The complete Football Pyramid.",
   "author": "Sam",
-  "dependencies": ["Civ V - Vanilla"]
+  "dependencies": [
+    "Civ V - Vanilla"
+  ]
 }
