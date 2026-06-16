@@ -498,6 +498,347 @@
     "outerColor": [223, 6, 19],
     "innerColor": [255, 255, 255],
     "cities": ["Lincoln", "Sincil Bank", "Boultham", "Bracebridge"]
+  },
+  {
+    "name": "Peterborough United",
+    "leaderName": "The Posh",
+    "adjective": "Posh",
+    "startIntro": "Welcome to London Road.",
+    "declaringWar": "The Posh are going to school you.",
+    "outerColor": [0, 0, 255],
+    "innerColor": [255, 255, 255],
+    "cities": ["Peterborough", "London Road", "Fletton", "Woodston"]
+  },
+  {
+    "name": "Cambridge United",
+    "leaderName": "The U's",
+    "adjective": "Cambridge",
+    "startIntro": "Welcome to the Abbey Stadium.",
+    "declaringWar": "The Amber Army is locking down the borders.",
+    "outerColor": [242, 169, 0],
+    "innerColor": [0, 0, 0],
+    "cities": ["Cambridge", "The Abbey", "Chesterton", "Cherry Hinton"]
+  },
+  {
+    "name": "Oxford United",
+    "leaderName": "The U's",
+    "adjective": "Oxford",
+    "startIntro": "Welcome to the Kassam Stadium... mind the open car park.",
+    "declaringWar": "Time to get dynamic on you lot.",
+    "outerColor": [253, 185, 19],
+    "innerColor": [0, 32, 91],
+    "cities": ["Oxford", "Kassam Stadium", "Headington", "Minchery Farm"]
+  },
+  {
+    "name": "Reading FC",
+    "leaderName": "The Royals",
+    "adjective": "Reading",
+    "startIntro": "Welcome to the Madejski.",
+    "declaringWar": "We've survived dodgy owners, you're nothing.",
+    "outerColor": [0, 0, 255],
+    "innerColor": [255, 255, 255],
+    "cities": ["Reading", "Madejski Stadium", "Tilehurst", "Whitley"]
+  },
+  {
+    "name": "Luton Town",
+    "leaderName": "The Hatters",
+    "adjective": "Luton",
+    "startIntro": "Welcome to Kenilworth Road. Mind your head in the back gardens.",
+    "declaringWar": "Welcome to the old school brawling grounds.",
+    "outerColor": [247, 143, 30],
+    "innerColor": [28, 44, 91],
+    "cities": ["Luton", "Kenilworth Road", "Bury Park", "Dunstable"]
+  },
+  {
+    "name": "Bristol City",
+    "leaderName": "The Robins",
+    "adjective": "Bristol",
+    "startIntro": "Welcome to Ashton Gate.",
+    "declaringWar": "The Cider Army is absolutely raring for a scrap.",
+    "outerColor": [227, 6, 19],
+    "innerColor": [255, 255, 255],
+    "cities": ["Bristol", "Ashton Gate", "Bedminster", "Clifton"]
+  },
+  {
+    "name": "Bristol Rovers",
+    "leaderName": "The Gas",
+    "adjective": "Rovers",
+    "startIntro": "Welcome to the Memorial Stadium.",
+    "declaringWar": "The Gas are coming to poison your water supply.",
+    "outerColor": [0, 0, 255],
+    "innerColor": [255, 255, 255],
+    "cities": ["Horfield", "Memorial Stadium", "Filton", "Kingswood"]
+  },
+  {
+    "name": "Swindon Town",
+    "leaderName": "The Robins",
+    "adjective": "Swindon",
+    "startIntro": "Welcome to the County Ground.",
+    "declaringWar": "Prepare to get stuck on the Magic Roundabout.",
+    "outerColor": [204, 0, 0],
+    "innerColor": [255, 255, 255],
+    "cities": ["Swindon", "County Ground", "Walcot", "Penhill"]
+  },
+  {
+    "name": "Cheltenham Town",
+    "leaderName": "The Robins",
+    "adjective": "Cheltenham",
+    "startIntro": "Welcome to Whaddon Road.",
+    "declaringWar": "We've got a racing hangover and we're taking it out on you.",
+    "outerColor": [255, 0, 0],
+    "innerColor": [255, 255, 255],
+    "cities": ["Cheltenham", "Whaddon Road", "Prestbury", "Charlton Kings"]
+  },
+  {
+    "name": "Forest Green Rovers",
+    "leaderName": "The Green",
+    "adjective": "Forest Green",
+    "startIntro": "Welcome to The New Lawn. Have a vegan burger.",
+    "declaringWar": "Eco-warriors are marching onto your tiles.",
+    "outerColor": [0, 255, 0],
+    "innerColor": [0, 0, 0],
+    "cities": ["Nailsworth", "The New Lawn", "Stroud", "Stonehouse"]
+  },
+  {
+    "name": "Exeter City",
+    "leaderName": "The Grecians",
+    "adjective": "Exeter",
+    "startIntro": "Welcome to St James Park... the proper fan-owned one.",
+    "declaringWar": "The Devon lads are ready.",
+    "outerColor": [255, 0, 0],
+    "innerColor": [255, 255, 255],
+    "cities": ["Exeter", "St James Park", "Heavitree", "Pinhoe"]
+  },
+  {
+    "name": "Yeovil Town",
+    "leaderName": "The Glovers",
+    "adjective": "Yeovil",
+    "startIntro": "Welcome to Huish Park.",
+    "declaringWar": "Get ready for the old giant killers to ruin your day.",
+    "outerColor": [0, 128, 0],
+    "innerColor": [255, 255, 255],
+    "cities": ["Yeovil", "Huish Park", "Houndstone", "Pen Mill"]
+  },
+  {
+    "name": "Torquay United",
+    "leaderName": "The Gulls",
+    "adjective": "Torquay",
+    "startIntro": "Welcome to the English Riviera.",
+    "declaringWar": "The Plainmoor shithouse brigade has arrived.",
+    "outerColor": [255, 234, 0],
+    "innerColor": [0, 0, 255],
+    "cities": ["Torquay", "Plainmoor", "Babbacombe", "Paignton"]
+  },
+  {
+    "name": "Carlisle United",
+    "leaderName": "The Cumbrians",
+    "adjective": "Cumbrian",
+    "startIntro": "Welcome to Brunton Park. Hope you brought a dinghy.",
+    "declaringWar": "We've traveled six hours on a coach just to smash you.",
+    "outerColor": [0, 0, 255],
+    "innerColor": [255, 255, 255],
+    "cities": ["Carlisle", "Brunton Park", "Warwick Road", "Stanwix"]
+  },
+  {
+    "name": "Barrow AFC",
+    "leaderName": "The Bluebirds",
+    "adjective": "Barrow",
+    "startIntro": "Welcome to Holker Street.",
+    "declaringWar": "The nuclear submarine squad is invading.",
+    "outerColor": [0, 0, 255],
+    "innerColor": [255, 255, 255],
+    "cities": ["Barrow-in-Furness", "Holker Street", "Walney Island", "Dalton"]
+  },
+  {
+    "name": "Morecambe FC",
+    "leaderName": "The Shrimps",
+    "adjective": "Morecambe",
+    "startIntro": "Welcome to the Mazuma Stadium.",
+    "declaringWar": "The coastal wind tunnel is going to blow you away.",
+    "outerColor": [204, 0, 0],
+    "innerColor": [255, 255, 255],
+    "cities": ["Morecambe", "Mazuma Stadium", "Heysham", "Bare"]
+  },
+  {
+    "name": "Fleetwood Town",
+    "leaderName": "The Cod Army",
+    "adjective": "Fleetwood",
+    "startIntro": "Welcome to Highbury... the windy one.",
+    "declaringWar": "The Cod Army is pulling you out to sea.",
+    "outerColor": [255, 0, 0],
+    "innerColor": [255, 255, 255],
+    "cities": ["Fleetwood", "Highbury Stadium", "Cleveleys", "Thornton"]
+  },
+  {
+    "name": "Stevenage FC",
+    "leaderName": "The Boro",
+    "adjective": "Stevenage",
+    "startIntro": "Welcome to Broadhall Way.",
+    "declaringWar": "Prepare for 90 minutes of pure physical violence.",
+    "outerColor": [255, 0, 0],
+    "innerColor": [255, 255, 255],
+    "cities": ["Stevenage", "Broadhall Way", "Chells", "Bedwell"]
+  },
+  {
+    "name": "Wycombe Wanderers",
+    "leaderName": "The Chairboys",
+    "adjective": "Wycombe",
+    "startIntro": "Welcome to Adams Park.",
+    "declaringWar": "Get ready for the ultimate time-wasting masterclass.",
+    "outerColor": [135, 206, 235],
+    "innerColor": [0, 0, 128],
+    "cities": ["High Wycombe", "Adams Park", "Booker", "Sands"]
+  },
+  {
+    "name": "Queens Park Rangers",
+    "leaderName": "The Hoops",
+    "adjective": "QPR",
+    "startIntro": "Welcome to the Loftus Road legroom crisis.",
+    "declaringWar": "West London is ours.",
+    "outerColor": [0, 82, 159],
+    "innerColor": [255, 255, 255],
+    "cities": ["Shepherd's Bush", "Loftus Road", "White City", "Acton"]
+  },
+  {
+    "name": "Fulham FC",
+    "leaderName": "The Cottagers",
+    "adjective": "Fulham",
+    "startIntro": "Welcome to the neutral end at Craven Cottage.",
+    "declaringWar": "We'll pelt you with our luxury cheeseboards.",
+    "outerColor": [255, 255, 255],
+    "innerColor": [0, 0, 0],
+    "cities": ["Fulham", "Craven Cottage", "Putney", "Hammersmith"]
+  },
+  {
+    "name": "Brentford FC",
+    "leaderName": "The Bees",
+    "adjective": "Brentford",
+    "startIntro": "Just a bus stop in Hounslow.",
+    "declaringWar": "The xG nerds have mathematically calculated your defeat.",
+    "outerColor": [227, 6, 19],
+    "innerColor": [255, 255, 255],
+    "cities": ["Brentford", "Griffin Park", "Kew Bridge", "Hounslow"]
+  },
+  {
+    "name": "AFC Bournemouth",
+    "leaderName": "The Cherries",
+    "adjective": "Bournemouth",
+    "startIntro": "Welcome to Dean Court.",
+    "declaringWar": "South coast boys are taking over.",
+    "outerColor": [181, 14, 18],
+    "innerColor": [0, 0, 0],
+    "cities": ["Bournemouth", "Dean Court", "Boscombe", "Kings Park"]
+  },
+  {
+    "name": "Swansea City",
+    "leaderName": "The Swans",
+    "adjective": "Swansea",
+    "startIntro": "Welcome to the Liberty Stadium.",
+    "declaringWar": "Welsh invasion incoming, look alive.",
+    "outerColor": [255, 255, 255],
+    "innerColor": [0, 0, 0],
+    "cities": ["Swansea", "Liberty Stadium", "Vetch Field", "Landore"]
+  },
+  {
+    "name": "Cardiff City",
+    "leaderName": "The Bluebirds",
+    "adjective": "Cardiff",
+    "startIntro": "Welcome to the Cardiff City Stadium.",
+    "declaringWar": "We'll fight you in red or blue, we don't care.",
+    "outerColor": [0, 112, 181],
+    "innerColor": [255, 255, 255],
+    "cities": ["Cardiff", "Ninian Park", "Canton", "Leckwith"]
+  },
+  {
+    "name": "Coventry City",
+    "leaderName": "The Sky Blues",
+    "adjective": "Coventry",
+    "startIntro": "Welcome to the stadium we don't own.",
+    "declaringWar": "We are homeless but we can still batter your empire.",
+    "outerColor": [11, 133, 203],
+    "innerColor": [255, 255, 255],
+    "cities": ["Coventry", "Highfield Road", "Foleshill", "Longford"]
+  },
+  {
+    "name": "Watford FC",
+    "leaderName": "The Hornets",
+    "adjective": "Watford",
+    "startIntro": "Welcome to Vicarage Road. Enjoy the manager carousel.",
+    "declaringWar": "We'll sack our leader mid-turn just to confuse you.",
+    "outerColor": [251, 238, 35],
+    "innerColor": [237, 33, 39],
+    "cities": ["Watford", "Vicarage Road", "Cassiobury", "Croxley"]
+  },
+  {
+    "name": "Middlesbrough FC",
+    "leaderName": "Boro",
+    "adjective": "Middlesbrough",
+    "startIntro": "Welcome to the freezing Riverside.",
+    "declaringWar": "The Smog Monsters are moving out.",
+    "outerColor": [226, 0, 26],
+    "innerColor": [255, 255, 255],
+    "cities": ["Middlesbrough", "Riverside", "Ayresome Park", "Linthorpe"]
+  },
+  {
+    "name": "Bradford City",
+    "leaderName": "The Bantams",
+    "adjective": "Bradford",
+    "startIntro": "Welcome to Valley Parade.",
+    "declaringWar": "The sleeping giant is awake and bloody furious.",
+    "outerColor": [251, 174, 23],
+    "innerColor": [128, 0, 0],
+    "cities": ["Bradford", "Valley Parade", "Manningham", "Shipley"]
+  },
+  {
+    "name": "Rotherham United",
+    "leaderName": "The Millers",
+    "adjective": "Rotherham",
+    "startIntro": "Welcome to the New York Stadium.",
+    "declaringWar": "The perpetual yo-yo merchants are crashing your party.",
+    "outerColor": [200, 16, 46],
+    "innerColor": [255, 255, 255],
+    "cities": ["Rotherham", "New York", "Millmoor", "Masbrough"]
+  },
+  {
+    "name": "Barnsley FC",
+    "leaderName": "The Tykes",
+    "adjective": "Barnsley",
+    "startIntro": "Welcome to Oakwell.",
+    "declaringWar": "Just like watching Brazil, mate. Prepare for a beating.",
+    "outerColor": [227, 6, 19],
+    "innerColor": [255, 255, 255],
+    "cities": ["Barnsley", "Oakwell", "Kendray", "Stairfoot"]
+  },
+  {
+    "name": "Leyton Orient",
+    "leaderName": "The O's",
+    "adjective": "Orient",
+    "startIntro": "Welcome to Brisbane Road. Wave to the blokes on the balconies.",
+    "declaringWar": "Matchroom tactics incoming.",
+    "outerColor": [227, 6, 19],
+    "innerColor": [255, 255, 255],
+    "cities": ["Leyton", "Brisbane Road", "Walthamstow", "Stratford"]
+  },
+  {
+    "name": "Mansfield Town",
+    "leaderName": "The Stags",
+    "adjective": "Mansfield",
+    "startIntro": "Welcome to Field Mill.",
+    "declaringWar": "The Yellow and Blue army is steamrolling your scouts.",
+    "outerColor": [253, 185, 19],
+    "innerColor": [0, 0, 255],
+    "cities": ["Mansfield", "Field Mill", "Pleasley", "Woodhouse"]
+  },
+  {
+    "name": "Walsall FC",
+    "leaderName": "The Saddlers",
+    "adjective": "Walsall",
+    "startIntro": "Welcome to Bescot Stadium. Enjoy the view of the M6 traffic.",
+    "declaringWar": "We're going to cause a massive pile-up in your territory.",
+    "outerColor": [227, 6, 19],
+    "innerColor": [255, 255, 255],
+    "cities": ["Walsall", "Bescot Stadium", "Palfrey", "Chuckery"]
   }
 ]
+
 
