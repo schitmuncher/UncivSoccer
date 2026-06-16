@@ -435,8 +435,130 @@
     "uniqueAbilities": ["Points Deduction Pain", "Tennis Ball Protest"],
     "cityNames": ["Reading", "Madejski Stadium", "Tilehurst", "Whitley"],
     "colors": ["#0000FF", "#FFFFFF"]
+  },
+[
+  {
+    "id": "NATION_LUTON_TOWN",
+    "name": "Luton Town",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Oak Road Entrance", "Terraced House Stadium"],
+    "cityNames": ["Luton", "Kenilworth Road", "Bury Park", "Dunstable"],
+    "colors": ["#F78F1E", "#1C2C5B"]
+  },
+  {
+    "id": "NATION_BRISTOL_CITY",
+    "name": "Bristol City",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Cider Army", "Ashton Gate Bounce"],
+    "cityNames": ["Bristol", "Ashton Gate", "Bedminster", "Clifton"],
+    "colors": ["#E30613", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_BRISTOL_ROVERS",
+    "name": "Bristol Rovers",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["The Gas", "Open Air Tents"],
+    "cityNames": ["Horfield", "Memorial Stadium", "Filton", "Kingswood"],
+    "colors": ["#0000FF", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_SWINDON_TOWN",
+    "name": "Swindon Town",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Magic Roundabout", "County Ground Chill"],
+    "cityNames": ["Swindon", "County Ground", "Walcot", "Penhill"],
+    "colors": ["#CC0000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_CHELTENHAM_TOWN",
+    "name": "Cheltenham Town",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Gold Cup Hangover", "Whaddon Road Robins"],
+    "cityNames": ["Cheltenham", "Whaddon Road", "Prestbury", "Charlton Kings"],
+    "colors": ["#FF0000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_FOREST_GREEN_ROVERS",
+    "name": "Forest Green Rovers",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Vegan Burgers", "Wooden Stadium Eco-Warriors"],
+    "cityNames": ["Nailsworth", "The New Lawn", "Stroud", "Stonehouse"],
+    "colors": ["#00FF00", "#000000"]
+  },
+  {
+    "id": "NATION_EXETER_CITY",
+    "name": "Exeter City",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Fan Owned", "St James Park (The Other One)"],
+    "cityNames": ["Exeter", "St James Park", "Heavitree", "Pinhoe"],
+    "colors": ["#FF0000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_YEOVIL_TOWN",
+    "name": "Yeovil Town",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Giant Killers", "Huish Park Slope"],
+    "cityNames": ["Yeovil", "Huish Park", "Houndstone", "Pen Mill"],
+    "colors": ["#008000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_TORQUAY_UNITED",
+    "name": "Torquay United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["English Riviera", "Plainmoor Seagulls"],
+    "cityNames": ["Torquay", "Plainmoor", "Babbacombe", "Paignton"],
+    "colors": ["#FFEA00", "#0000FF"]
+  },
+  {
+    "id": "NATION_CARLISLE_UNITED",
+    "name": "Carlisle United",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Flooded Pitch", "Cumbrian Isolation"],
+    "cityNames": ["Carlisle", "Brunton Park", "Warwick Road", "Stanwix"],
+    "colors": ["#0000FF", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_BARROW",
+    "name": "Barrow AFC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Nuclear Submarines", "Holker Street Howler"],
+    "cityNames": ["Barrow-in-Furness", "Holker Street", "Walney Island", "Dalton"],
+    "colors": ["#0000FF", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_MORECAMBE",
+    "name": "Morecambe FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Giant Pie", "Coastal Wind Tunnel"],
+    "cityNames": ["Morecambe", "Mazuma Stadium", "Heysham", "Bare"],
+    "colors": ["#CC0000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_FLEETWOOD_TOWN",
+    "name": "Fleetwood Town",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Cod Army", "Highbury (The Other One)"],
+    "cityNames": ["Fleetwood", "Highbury Stadium", "Cleveleys", "Thornton"],
+    "colors": ["#FF0000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_STEVENAGE",
+    "name": "Stevenage FC",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Burger King Sponsor", "Broadhall Way Brawlers"],
+    "cityNames": ["Stevenage", "Broadhall Way", "Chells", "Bedwell"],
+    "colors": ["#FF0000", "#FFFFFF"]
+  },
+  {
+    "id": "NATION_WYCOMBE_WANDERERS",
+    "name": "Wycombe Wanderers",
+    "trait": "Proper Football",
+    "uniqueAbilities": ["Time Wasting Masterclass", "Akinfenwa Legacy"],
+    "cityNames": ["High Wycombe", "Adams Park", "Booker", "Sands"],
+    "colors": ["#87CEEB", "#000080"]
   }
 ]
+
 
 
 
