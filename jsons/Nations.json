@@ -7,12 +7,7 @@
     "declaringWar": "Let's 'ave it!",
     "outerColor": [0, 255, 0],
     "innerColor": [255, 255, 255],
-    "cities": [
-      "Nantwich",
-      "The Weaver",
-      "Beam Heath",
-      "Swine Market"
-    ]
+    "cities": ["Nantwich", "The Weaver", "Beam Heath", "Swine Market"]
   },
   {
     "name": "Crewe Alexandra",
@@ -22,10 +17,86 @@
     "declaringWar": "We're going to derail you.",
     "outerColor": [255, 0, 0],
     "innerColor": [255, 255, 255],
-    "cities": [
-      "Crewe",
-      "Gresty Road",
-      "Macon Way"
-    ]
+    "cities": ["Crewe", "Gresty Road", "Macon Way"]
+  },
+  {
+    "name": "Macclesfield FC",
+    "leaderName": "The Silkmen",
+    "adjective": "Macc",
+    "startIntro": "Welcome to the Moss Rose.",
+    "declaringWar": "Have some of that!",
+    "outerColor": [0, 0, 255],
+    "innerColor": [255, 255, 255],
+    "cities": ["Macclesfield", "Moss Rose", "South Macclesfield"]
+  },
+  {
+    "name": "Stoke City",
+    "leaderName": "The Potters",
+    "adjective": "Stoke",
+    "startIntro": "Welcome to a cold, wet Tuesday night.",
+    "declaringWar": "Get the long throw ready!",
+    "outerColor": [224, 58, 62],
+    "innerColor": [255, 255, 255],
+    "cities": ["Stoke-on-Trent", "Bet365 Stadium", "The Victoria Ground", "Trentham"]
+  },
+  {
+    "name": "Millwall FC",
+    "leaderName": "The Lions",
+    "adjective": "Millwall",
+    "startIntro": "No one likes us, we don't care.",
+    "declaringWar": "Welcome to The Den, mate.",
+    "outerColor": [0, 0, 51],
+    "innerColor": [255, 255, 255],
+    "cities": ["Bermondsey", "The Den", "Isle of Dogs", "New Cross"]
+  },
+  {
+    "name": "Manchester City",
+    "leaderName": "The Citizens",
+    "adjective": "City",
+    "startIntro": "Welcome to the Etihad.",
+    "declaringWar": "We'll just buy your club.",
+    "outerColor": [108, 171, 221],
+    "innerColor": [28, 44, 91],
+    "cities": ["Eastlands", "The Etihad", "Maine Road", "Ashton New Road"]
+  },
+  {
+    "name": "Burnley FC",
+    "leaderName": "The Clarets",
+    "adjective": "Burnley",
+    "startIntro": "Welcome to Turf Moor.",
+    "declaringWar": "Proper Brexit tackles incoming.",
+    "outerColor": [108, 29, 69],
+    "innerColor": [153, 214, 234],
+    "cities": ["Burnley", "Turf Moor", "Gawthorpe", "Pendle Hill"]
+  },
+  {
+    "name": "Wrexham AFC",
+    "leaderName": "The Dragons",
+    "adjective": "Wrexham",
+    "startIntro": "Welcome to the Hollywood script.",
+    "declaringWar": "Wait till Ryan Reynolds hears about this.",
+    "outerColor": [226, 0, 26],
+    "innerColor": [255, 255, 255],
+    "cities": ["Wrexham", "The Racecourse", "Caia Park", "Gresford"]
+  },
+  {
+    "name": "Chelsea FC",
+    "leaderName": "The Blues",
+    "adjective": "Chelsea",
+    "startIntro": "Welcome to Stamford Bridge.",
+    "declaringWar": "You're getting sacked in the morning.",
+    "outerColor": [3, 70, 148],
+    "innerColor": [255, 255, 255],
+    "cities": ["Fulham Road", "Stamford Bridge", "Cobham", "Battersea"]
+  },
+  {
+    "name": "Sunderland AFC",
+    "leaderName": "The Black Cats",
+    "adjective": "Mackem",
+    "startIntro": "Welcome to the Stadium of Light.",
+    "declaringWar": "We're making a Netflix documentary out of you.",
+    "outerColor": [235, 23, 43],
+    "innerColor": [0, 0, 0],
+    "cities": ["Sunderland", "Stadium of Light", "Roker Park", "Wearmouth"]
   }
 ]
