@@ -3,15 +3,13 @@
     "name": "Board Member",
     "unitType": "Civilian",
     "movement": 2,
-    "cost": 106,
-    "uniques": ["Founds a new city"]
+    "cost": 106
   },
   {
     "name": "Groundstaff",
     "unitType": "Civilian",
     "movement": 2,
-    "cost": 70,
-    "uniques": ["Can build [Land] improvements on tiles"]
+    "cost": 70
   },
   {
     "name": "Youth Scout",
@@ -19,8 +17,7 @@
     "movement": 2,
     "strength": 4,
     "cost": 25,
-    "requiredTech": "Grassroots Scouting",
-    "uniques": ["Ignores terrain cost"]
+    "requiredTech": "Grassroots Scouting"
   },
   {
     "name": "Enforcer Midfielder",
@@ -56,7 +53,6 @@
     "strength": 12,
     "cost": 75,
     "requiredTech": "Academy Systems",
-    "uniques": ["Can move after attacking"],
     "upgradesTo": "Inverted Fullback"
   },
   {
@@ -67,8 +63,7 @@
     "rangedStrength": 14,
     "range": 2,
     "cost": 75,
-    "requiredTech": "Away Days",
-    "uniques": ["Must set up to ranged attack"]
+    "requiredTech": "Away Days"
   },
   {
     "name": "Box-to-Box Midfielder",
@@ -84,7 +79,6 @@
     "movement": 4,
     "strength": 20,
     "cost": 120,
-    "requiredTech": "Total Football",
-    "uniques": ["Can move after attacking"]
+    "requiredTech": "Total Football"
   }
 ]
