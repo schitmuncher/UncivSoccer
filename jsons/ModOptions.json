@@ -1,12 +1,21 @@
 {
-  "author": "Sam",
-  "defaultBranch": "main",
-  "nationsToRemove": [
-    "America", "Arabia", "Assyria", "Austria", "Aztecs", "Babylon", "Brazil", "Byzantium", 
-    "Carthage", "Celts", "China", "Denmark", "Egypt", "England", "Ethiopia", 
-    "France", "Germany", "Greece", "The Huns", "Inca", "India", "Indonesia", 
-    "Iroquois", "Japan", "Korea", "The Maya", "Mongolia", "Morocco", "The Netherlands", 
-    "The Ottomans", "Persia", "Poland", "Polynesia", "Portugal", "Rome", 
-    "Russia", "The Shoshone", "Siam", "Songhai", "Spain", "Sweden", "Venice", "The Zulus"
-  ]
+  "name": "Proper Football Total Conversion",
+  "version": "1.0.0",
+  "author": "Total Conversion Build",
+  "description": "A total conversion replacing empires with the British Football Pyramid.",
+  "engine_overrides": {
+    "use_custom_scoring": true,
+    "disable_vanilla_tech_tree": true
+  },
+  "difficulty_settings": {
+    "maintenance_modifier": 1.5,
+    "barbarian_spawn_rate": 2.0,
+    "era_speed_modifier": 0.8,
+    "base_happiness": -10
+  },
+  "victory_conditions": {
+    "enable_league_points": true,
+    "turn_limit": 250,
+    "trophy_wonder_id": "WONDER_LEAGUE_TROPHY"
+  }
 }
