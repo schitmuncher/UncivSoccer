@@ -4,8 +4,7 @@
     "cost": 10,
     "era": "Ancient era",
     "row": 1,
-    "column": 1,
-    "prerequisites": []
+    "column": 1
   },
   {
     "name": "Sunday League Tactics",
