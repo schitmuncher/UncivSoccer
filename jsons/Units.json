@@ -20,7 +20,7 @@
     "strength": 4,
     "cost": 25,
     "obsoleteTech": "Grassroots Scouting",
-    "uniques": ["Ignores terrain cost", "May upgrade to [Archer]"]
+    "uniques": ["Ignores terrain cost", "Upgrades to [Archer]"]
   },
   {
     "name": "Warrior",
@@ -30,7 +30,7 @@
     "cost": 40,
     "requiredTech": "Jumpers for Goalposts",
     "obsoleteTech": "Away Days",
-    "uniques": ["May upgrade to [Swordsman]"]
+    "uniques": ["Upgrades to [Swordsman]"]
   },
   {
     "name": "Archer",
@@ -42,7 +42,7 @@
     "cost": 40,
     "requiredTech": "Jumpers for Goalposts",
     "obsoleteTech": "Academy Systems",
-    "uniques": ["May upgrade to [Composite Bowman]"]
+    "uniques": ["Upgrades to [Composite Bowman]"]
   },
   {
     "name": "Spearman",
@@ -51,6 +51,6 @@
     "strength": 11,
     "cost": 56,
     "requiredTech": "Sunday League Tactics",
-    "uniques": ["Bonus vs Mounted (50)", "May upgrade to [Pikeman]"]
+    "uniques": ["Bonus vs Mounted (50)", "Upgrades to [Pikeman]"]
   }
 ]
