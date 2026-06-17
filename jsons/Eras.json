@@ -5,6 +5,8 @@
     "startingSettlerCount": 1,
     "startingWorkerCount": 1,
     "startingMilitaryUnitCount": 1,
-    "baseUnitBuyCost": 50
+    "baseUnitBuyCost": 50,
+    "startPercent": 0,
+    "uniques": []
   }
 ]
