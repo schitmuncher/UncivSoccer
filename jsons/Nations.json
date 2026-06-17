@@ -29,7 +29,11 @@
       "Ashburton Grove"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Aston Villa",
@@ -61,7 +65,11 @@
       "Trinity Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Bournemouth",
@@ -93,7 +101,11 @@
       "Fitness First Stadium"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Brentford",
@@ -125,7 +137,11 @@
       "Lionel Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Brighton",
@@ -157,7 +173,11 @@
       "Goldstone Ground"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Chelsea",
@@ -189,7 +209,11 @@
       "Kingsmeadow"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Crystal Palace",
@@ -221,7 +245,11 @@
       "Copers Cope"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Everton",
@@ -253,7 +281,11 @@
       "Finch Farm"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Fulham",
@@ -285,7 +317,11 @@
       "Riverside Stand"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Ipswich Town",
@@ -317,7 +353,11 @@
       "Cobbold Stand"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Leicester City",
@@ -349,7 +389,11 @@
       "Seagrave"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Liverpool",
@@ -381,7 +425,11 @@
       "Kirkby"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Manchester City",
@@ -414,7 +462,11 @@
       "City Football Academy"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Manchester United",
@@ -446,7 +498,11 @@
       "The Cliff"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Newcastle United",
@@ -478,7 +534,11 @@
       "Gallowgate"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Nottingham Forest",
@@ -510,7 +570,11 @@
       "Nigel Doughty Academy"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Southampton",
@@ -542,7 +606,11 @@
       "Staplewood"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Tottenham Hotspur",
@@ -575,7 +643,11 @@
       "Hotspur Way"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "West Ham United",
@@ -607,7 +679,11 @@
       "Rush Green"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Wolverhampton Wanderers",
@@ -639,7 +715,11 @@
       "Stan Cullis Stand"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Blackburn Rovers",
@@ -671,7 +751,11 @@
       "Blackburn End"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Bristol City",
@@ -703,7 +787,11 @@
       "Bristol Sport HQ"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Burnley",
@@ -735,7 +823,11 @@
       "Jimmy McIlroy Stand"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Cardiff City",
@@ -767,7 +859,11 @@
       "Ninian Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Coventry City",
@@ -799,7 +895,11 @@
       "Highfield Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Derby County",
@@ -831,7 +931,11 @@
       "Baseball Ground"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Hull City",
@@ -863,7 +967,11 @@
       "Boothferry Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Leeds United",
@@ -895,7 +1003,11 @@
       "Lowfields Tunnel"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Luton Town",
@@ -927,7 +1039,11 @@
       "Oak Road End"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Middlesbrough",
@@ -959,7 +1075,11 @@
       "Ayresome Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Millwall",
@@ -991,7 +1111,11 @@
       "Cold Blow Lane"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Norwich City",
@@ -1023,7 +1147,11 @@
       "The Barclay"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Oxford United",
@@ -1055,7 +1183,11 @@
       "Manor Ground"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Plymouth Argyle",
@@ -1087,7 +1219,11 @@
       "Devonport End"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Portsmouth",
@@ -1119,7 +1255,11 @@
       "Roko Training Ground"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Preston North End",
@@ -1151,7 +1291,11 @@
       "Invincibles Pavilion"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Queens Park Rangers",
@@ -1183,7 +1327,11 @@
       "South Africa Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Sheffield United",
@@ -1215,7 +1363,11 @@
       "John Street Stand"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Sheffield Wednesday",
@@ -1247,7 +1399,11 @@
       "Owlerton"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Stoke City",
@@ -1279,7 +1435,11 @@
       "Victoria Ground"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Sunderland",
@@ -1311,7 +1471,11 @@
       "Roker Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Swansea City",
@@ -1343,7 +1507,11 @@
       "Vetch Field"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Watford",
@@ -1376,7 +1544,11 @@
       "The Rookery"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "West Bromwich Albion",
@@ -1408,7 +1580,11 @@
       "Halfords Lane"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Barnsley",
@@ -1440,7 +1616,11 @@
       "Pontefract Road End"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Birmingham City",
@@ -1472,7 +1652,11 @@
       "Tilton Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Blackpool",
@@ -1504,7 +1688,11 @@
       "Kop Stand"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Bolton Wanderers",
@@ -1536,7 +1724,11 @@
       "Burnden Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Bristol Rovers",
@@ -1568,7 +1760,11 @@
       "Eastville"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Burton Albion",
@@ -1600,7 +1796,11 @@
       "Eton Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Cambridge United",
@@ -1632,7 +1832,11 @@
       "Newmarket Road End"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Charlton Athletic",
@@ -1664,7 +1868,11 @@
       "Covered End"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Crawley Town",
@@ -1696,7 +1904,11 @@
       "Southgate Avenue"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Exeter City",
@@ -1728,7 +1940,11 @@
       "Big Bank"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Huddersfield Town",
@@ -1760,7 +1976,11 @@
       "Leeds Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Leyton Orient",
@@ -1792,7 +2012,11 @@
       "SCORE Centre"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Lincoln City",
@@ -1824,7 +2048,11 @@
       "St Andrews Stand"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Mansfield Town",
@@ -1856,7 +2084,11 @@
       "Field Mill"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Northampton Town",
@@ -1888,7 +2120,11 @@
       "County Ground"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Peterborough United",
@@ -1921,7 +2157,11 @@
       "Peterborough Sports Hub"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Reading",
@@ -1953,7 +2193,11 @@
       "Elm Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Rotherham United",
@@ -1985,7 +2229,11 @@
       "Millmoor"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Shrewsbury Town",
@@ -2017,7 +2265,11 @@
       "Gay Meadow"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Stevenage",
@@ -2049,7 +2301,11 @@
       "Broadhall Way"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Stockport County",
@@ -2081,7 +2337,11 @@
       "Cheadle End"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Wigan Athletic",
@@ -2113,7 +2373,11 @@
       "Springfield Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Wrexham",
@@ -2146,7 +2410,11 @@
       "Mold Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Wycombe Wanderers",
@@ -2178,7 +2446,11 @@
       "Loakes Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Accrington Stanley",
@@ -2210,7 +2482,11 @@
       "Crown Ground"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "AFC Wimbledon",
@@ -2242,7 +2518,11 @@
       "Kingsmeadow"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Barrow",
@@ -2274,7 +2554,11 @@
       "Little Wembley"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Bradford City",
@@ -2306,7 +2590,11 @@
       "Midland Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Bromley",
@@ -2338,7 +2626,11 @@
       "Queensmead"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Carlisle United",
@@ -2370,7 +2662,11 @@
       "Warwick Road End"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Cheltenham Town",
@@ -2402,7 +2698,11 @@
       "Prestbury Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Chesterfield",
@@ -2434,7 +2734,11 @@
       "Saltergate"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Colchester United",
@@ -2466,7 +2770,11 @@
       "Layer Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Crewe Alexandra",
@@ -2498,7 +2806,11 @@
       "Gresty Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Doncaster Rovers",
@@ -2530,7 +2842,11 @@
       "Belle Vue"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Fleetwood Town",
@@ -2563,7 +2879,11 @@
       "Fleetwood Memorial Park"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Gillingham",
@@ -2595,7 +2915,11 @@
       "Redfern Avenue"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Grimsby Town",
@@ -2627,7 +2951,11 @@
       "Cleethorpes End"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Harrogate Town",
@@ -2659,7 +2987,11 @@
       "CNG Stadium"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Milton Keynes Dons",
@@ -2691,7 +3023,11 @@
       "National Hockey Centre"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Morecambe",
@@ -2723,7 +3059,11 @@
       "The Globe Arena"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Newport County",
@@ -2755,7 +3095,11 @@
       "Newport International Sports Village"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Notts County",
@@ -2787,7 +3131,11 @@
       "Trent Navigation"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Port Vale",
@@ -2819,7 +3167,11 @@
       "The Railway Paddock"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Salford City",
@@ -2852,7 +3204,11 @@
       "The Peninsula Stadium"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Swindon Town",
@@ -2884,7 +3240,11 @@
       "Stratton Bank"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Tranmere Rovers",
@@ -2916,7 +3276,11 @@
       "Borough Road"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Walsall",
@@ -2948,7 +3312,11 @@
       "Essington Training Ground"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   },
   {
     "name": "Nantwich Town FC",
@@ -2980,6 +3348,10 @@
       "Waterlode"
     ],
     "icon": "CivAtlas_256",
-    "leaderIcon": "LeaderAtlas_256"
+    "leaderIcon": "LeaderAtlas_256",
+    "startingUnits": [
+      "Chairman",
+      "Groundstaff"
+    ]
   }
 ]
