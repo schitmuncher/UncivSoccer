@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Grassland",
+    "type": "Land",
+    "movementCost": 1,
+    "food": 2
+  }
+]
