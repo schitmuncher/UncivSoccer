@@ -1,12 +1,28 @@
 [
   {
+    "name": "Chairman",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 80,
+    "uniques": [
+      "Founds a new city"
+    ]
+  },
+  {
     "name": "Groundstaff",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 50,
     "uniques": [
-      "Founds a new city"
+      "Can build [Improvements]"
     ]
+  },
+  {
+    "name": "Youth Prospect",
+    "unitType": "Scout",
+    "movement": 3,
+    "strength": 5,
+    "cost": 30
   },
   {
     "name": "Car Park Hardman",
@@ -20,8 +36,16 @@
     "name": "Stone Island Shithouse",
     "unitType": "Melee",
     "movement": 2,
-    "strength": 25,
-    "requiredTech": "Local Hero",
-    "cost": 100
+    "strength": 20,
+    "requiredTech": "Away Days",
+    "cost": 90
+  },
+  {
+    "name": "Firm Leader",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 35,
+    "requiredTech": "Ultra Culture",
+    "cost": 150
   }
 ]
