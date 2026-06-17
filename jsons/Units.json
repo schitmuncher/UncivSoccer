@@ -5,9 +5,11 @@
     "movement": 2,
     "cost": 80,
     "uniques": [
-      "Founds a new city <by consuming this unit>"
+      "Founds a new city <by consuming this unit>",
+      "Unbuildable"
     ],
-    "icon": "SettlerAtlas_256"
+    "icon": "SettlerAtlas_256",
+    "description": "Settler - Founds new cities/stadiums. Like the Settler in vanilla Civ."
   },
   {
     "name": "Groundstaff",
@@ -19,7 +21,8 @@
       "Can build [Land] improvements on tiles",
       "Automation is a primary action"
     ],
-    "icon": "SettlerAtlas_256"
+    "icon": "SettlerAtlas_256",
+    "description": "Worker - Builds improvements and maintains the pitch. Like the Worker in vanilla Civ."
   },
   {
     "name": "Youth Prospect",
@@ -28,7 +31,8 @@
     "strength": 5,
     "cost": 30,
     "requiredTech": "Sunday League",
-    "icon": "ScoutAtlas_256"
+    "icon": "ScoutAtlas_256",
+    "description": "Scout - Fast reconnaissance unit for exploring. Like the Scout in vanilla Civ."
   },
   {
     "name": "Car Park Hardman",
@@ -37,7 +41,8 @@
     "strength": 10,
     "requiredTech": "Sunday League",
     "cost": 50,
-    "icon": "SwordmanAtlas_256"
+    "icon": "SwordmanAtlas_256",
+    "description": "Warrior - Basic melee unit for early defense. Like the Warrior in vanilla Civ."
   },
   {
     "name": "Stone Island Shithouse",
@@ -46,7 +51,8 @@
     "strength": 20,
     "requiredTech": "Away Days",
     "cost": 90,
-    "icon": "SwordmanAtlas_256"
+    "icon": "SwordmanAtlas_256",
+    "description": "Pikeman - Heavy melee unit for mid-game combat. Like the Pikeman in vanilla Civ."
   },
   {
     "name": "Firm Leader",
@@ -55,7 +61,8 @@
     "strength": 35,
     "requiredTech": "Firm Organization",
     "cost": 160,
-    "icon": "SwordmanAtlas_256"
+    "icon": "SwordmanAtlas_256",
+    "description": "Samurai - Elite melee unit for aggressive play. Like the Samurai in vanilla Civ."
   },
   {
     "name": "Ultra Capo",
@@ -67,7 +74,8 @@
     "uniques": [
       "[+15]% Strength bonus for [Military] units within [2] tiles"
     ],
-    "icon": "SwordmanAtlas_256"
+    "icon": "SwordmanAtlas_256",
+    "description": "General - Military leader providing combat bonuses to nearby units. Like a Great General in vanilla Civ."
   },
   {
     "name": "Set-Piece Specialist",
@@ -77,7 +85,8 @@
     "rangedStrength": 14,
     "requiredTech": "Offside Trap",
     "cost": 80,
-    "icon": "ArcherAtlas_256"
+    "icon": "ArcherAtlas_256",
+    "description": "Archer - Ranged unit for distant attacks. Like the Archer in vanilla Civ."
   },
   {
     "name": "The Physio",
@@ -90,7 +99,8 @@
       "[+15] HP when healing",
       "Uncapturable"
     ],
-    "icon": "SettlerAtlas_256"
+    "icon": "SettlerAtlas_256",
+    "description": "Medic - Support unit that heals adjacent military units. Like the Medic in vanilla Civ."
   },
   {
     "name": "Sweeper Keeper",
@@ -102,7 +112,8 @@
     "uniques": [
       "[+33]% Strength <when defending>"
     ],
-    "icon": "SwordmanAtlas_256"
+    "icon": "SwordmanAtlas_256",
+    "description": "Knight - Heavy defensive unit with high durability. Like the Knight in vanilla Civ."
   },
   {
     "name": "The Pundit",
@@ -111,9 +122,11 @@
     "cost": 120,
     "requiredTech": "Broadcast Rights",
     "uniques": [
-      "Uncapturable"
+      "Uncapturable",
+      "Unbuildable"
     ],
-    "icon": "SettlerAtlas_256"
+    "icon": "SettlerAtlas_256",
+    "description": "Archaeologist - Culture-generating support unit. Like the Archaeologist in vanilla Civ."
   },
   {
     "name": "Club Legend",
@@ -127,7 +140,8 @@
       "Unbuildable",
       "Uncapturable"
     ],
-    "icon": "SettlerAtlas_256"
+    "icon": "SettlerAtlas_256",
+    "description": "Great Artist - Generates cultural heritage and golden ages. Like Great People in vanilla Civ."
   },
   {
     "name": "Master Tactician",
@@ -141,7 +155,8 @@
       "Unbuildable",
       "Uncapturable"
     ],
-    "icon": "SettlerAtlas_256"
+    "icon": "SettlerAtlas_256",
+    "description": "Great Scientist - Provides research bonuses and tactical knowledge. Like Great Scientists in vanilla Civ."
   },
   {
     "name": "Director of Football",
@@ -155,7 +170,8 @@
       "Unbuildable",
       "Uncapturable"
     ],
-    "icon": "SettlerAtlas_256"
+    "icon": "SettlerAtlas_256",
+    "description": "Great Merchant - Generates gold and trade routes. Like Great Merchants in vanilla Civ."
   },
   {
     "name": "SS Booster",
@@ -170,7 +186,8 @@
       "Uncapturable",
       "Can be added to [The Spaceship] in the Capital",
       "Limited to [3] per Civilization",
-      "Only available <when [Scientific] Victory is enabled>"
+      "Only available <when [Scientific] Victory is enabled>",
+      "Unbuildable"
     ],
     "icon": "SettlerAtlas_256"
   },
@@ -187,7 +204,8 @@
       "Uncapturable",
       "Can be added to [The Spaceship] in the Capital",
       "Limited to [1] per Civilization",
-      "Only available <when [Scientific] Victory is enabled>"
+      "Only available <when [Scientific] Victory is enabled>",
+      "Unbuildable"
     ],
     "icon": "SettlerAtlas_256"
   },
@@ -204,7 +222,8 @@
       "Uncapturable",
       "Can be added to [The Spaceship] in the Capital",
       "Limited to [1] per Civilization",
-      "Only available <when [Scientific] Victory is enabled>"
+      "Only available <when [Scientific] Victory is enabled>",
+      "Unbuildable"
     ],
     "icon": "SettlerAtlas_256"
   },
@@ -221,7 +240,8 @@
       "Uncapturable",
       "Can be added to [The Spaceship] in the Capital",
       "Limited to [1] per Civilization",
-      "Only available <when [Scientific] Victory is enabled>"
+      "Only available <when [Scientific] Victory is enabled>",
+      "Unbuildable"
     ],
     "icon": "SettlerAtlas_256"
   },
@@ -235,7 +255,8 @@
     "uniques": [
       "Can pillage tiles <outside your borders>"
     ],
-    "icon": "ScoutAtlas_256"
+    "icon": "ScoutAtlas_256",
+    "description": "Scout Variant - Fast unit for scouting and pillaging. Stronger than Youth Prospect."
   },
   {
     "name": "Firm Capo",
@@ -246,9 +267,11 @@
     "cost": 320,
     "uniques": [
       "[+25]% Strength bonus for [Military] units within [2] tiles",
-      "Cannot attack"
+      "Cannot attack",
+      "Unbuildable"
     ],
-    "icon": "SwordmanAtlas_256"
+    "icon": "SwordmanAtlas_256",
+    "description": "General Commander - Provides massive combat bonuses but cannot attack directly. Like a modified Great General."
   },
   {
     "name": "Free-Kick Specialist",
@@ -261,7 +284,8 @@
     "uniques": [
       "[+1] Range"
     ],
-    "icon": "ArcherAtlas_256"
+    "icon": "ArcherAtlas_256",
+    "description": "Archer Variant - Extended-range unit specializing in long-distance shots. Like an upgraded Archer."
   },
   {
     "name": "Laptop Guru",
@@ -271,8 +295,10 @@
     "requiredTech": "The Laptop Guru",
     "uniques": [
       "Can undertake a spy mission",
-      "Can steal [250] [Science] from enemy civilizations <by expending this unit>"
+      "Can steal [250] [Science] from enemy civilizations <by expending this unit>",
+      "Unbuildable"
     ],
-    "icon": "SettlerAtlas_256"
+    "icon": "SettlerAtlas_256",
+    "description": "Spy - Steals tactical knowledge and reveals enemy positions. Like the Spy in vanilla Civ."
   }
 ]

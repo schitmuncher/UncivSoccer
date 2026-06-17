@@ -1,7 +1,10 @@
 {
-  "modName": "Proper Football",
+  "modName": "Unciv Soccer",
   "isBaseRuleset": true,
   "constants": {
     "maxCityWorkRadius": 3
-  }
+  },
+  "uniques": [
+    "Disables [Barbarian] spawn"
+  ]
 }
