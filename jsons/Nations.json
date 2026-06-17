@@ -8,9 +8,215 @@
     "startBias": ["Grassland"],
     "preferredVictoryType": "Domination",
     "uniques": [],
-    "cities": [
-      "Emirates Stadium",
-      "Highbury"
-    ]
+    "cities": ["Emirates Stadium", "Highbury", "Ashburton Grove"]
+  },
+  {
+    "name": "Aston Villa",
+    "leaderName": "Unai Emery",
+    "adjective": "Villa",
+    "innerColor": [103, 14, 54],
+    "outerColor": [149, 191, 229],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Villa Park", "Bodymoor Heath", "Trinity Road"]
+  },
+  {
+    "name": "Bournemouth",
+    "leaderName": "Andoni Iraola",
+    "adjective": "Cherries",
+    "innerColor": [227, 6, 19],
+    "outerColor": [0, 0, 0],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Vitality Stadium", "Dean Court", "Fitness First Stadium"]
+  },
+  {
+    "name": "Brentford",
+    "leaderName": "Thomas Frank",
+    "adjective": "Bees",
+    "innerColor": [227, 6, 19],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Gtech Community Stadium", "Griffin Park", "Lionel Road"]
+  },
+  {
+    "name": "Brighton",
+    "leaderName": "Fabian Hurzeler",
+    "adjective": "Seagulls",
+    "innerColor": [0, 87, 184],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Amex Stadium", "Withdean Stadium", "Goldstone Ground"]
+  },
+  {
+    "name": "Chelsea",
+    "leaderName": "Enzo Maresca",
+    "adjective": "Blues",
+    "innerColor": [3, 70, 148],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Stamford Bridge", "Cobham", "Kingsmeadow"]
+  },
+  {
+    "name": "Crystal Palace",
+    "leaderName": "Oliver Glasner",
+    "adjective": "Eagles",
+    "innerColor": [193, 37, 56],
+    "outerColor": [27, 69, 143],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Selhurst Park", "Crystal Palace Park", "Copers Cope"]
+  },
+  {
+    "name": "Everton",
+    "leaderName": "Sean Dyche",
+    "adjective": "Toffees",
+    "innerColor": [0, 51, 153],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Goodison Park", "Bramley Moore Dock", "Finch Farm"]
+  },
+  {
+    "name": "Fulham",
+    "leaderName": "Marco Silva",
+    "adjective": "Cottagers",
+    "innerColor": [255, 255, 255],
+    "outerColor": [0, 0, 0],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Craven Cottage", "Motspur Park", "Riverside Stand"]
+  },
+  {
+    "name": "Ipswich Town",
+    "leaderName": "Kieran McKenna",
+    "adjective": "Tractor Boys",
+    "innerColor": [0, 90, 160],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Portman Road", "Playford Road", "Cobbold Stand"]
+  },
+  {
+    "name": "Leicester City",
+    "leaderName": "Steve Cooper",
+    "adjective": "Foxes",
+    "innerColor": [0, 83, 160],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["King Power Stadium", "Filbert Street", "Seagrave"]
+  },
+  {
+    "name": "Liverpool",
+    "leaderName": "Arne Slot",
+    "adjective": "Reds",
+    "innerColor": [200, 16, 46],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Anfield", "Melwood", "Kirkby"]
+  },
+  {
+    "name": "Manchester City",
+    "leaderName": "Pep Guardiola",
+    "adjective": "City",
+    "innerColor": [108, 172, 228],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Etihad Stadium", "Maine Road", "City Football Academy"]
+  },
+  {
+    "name": "Manchester United",
+    "leaderName": "Ruben Amorim",
+    "adjective": "United",
+    "innerColor": [218, 41, 28],
+    "outerColor": [0, 0, 0],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Old Trafford", "Carrington", "The Cliff"]
+  },
+  {
+    "name": "Newcastle United",
+    "leaderName": "Eddie Howe",
+    "adjective": "Magpies",
+    "innerColor": [0, 0, 0],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["St James Park", "Darsley Park", "Gallowgate"]
+  },
+  {
+    "name": "Nottingham Forest",
+    "leaderName": "Nuno Espirito Santo",
+    "adjective": "Forest",
+    "innerColor": [220, 40, 30],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["City Ground", "Trent End", "Nigel Doughty Academy"]
+  },
+  {
+    "name": "Southampton",
+    "leaderName": "Russell Martin",
+    "adjective": "Saints",
+    "innerColor": [215, 25, 32],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["St Marys Stadium", "The Dell", "Staplewood"]
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "leaderName": "Ange Postecoglou",
+    "adjective": "Spurs",
+    "innerColor": [255, 255, 255],
+    "outerColor": [19, 34, 87],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Tottenham Hotspur Stadium", "White Hart Lane", "Hotspur Way"]
+  },
+  {
+    "name": "West Ham United",
+    "leaderName": "Julen Lopetegui",
+    "adjective": "Hammers",
+    "innerColor": [122, 38, 58],
+    "outerColor": [27, 177, 231],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["London Stadium", "Upton Park", "Rush Green"]
+  },
+  {
+    "name": "Wolverhampton Wanderers",
+    "leaderName": "Gary O Neil",
+    "adjective": "Wolves",
+    "innerColor": [253, 165, 15],
+    "outerColor": [0, 0, 0],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": ["Molineux", "Compton Park", "Stan Cullis Stand"]
   }
 ]
