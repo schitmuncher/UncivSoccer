@@ -5,9 +5,8 @@
       "Sunday League"
     ],
     "startingSettlerUnit": "Chairman",
-    "startingWorkerCount": 1,
-    "startingWorkerUnit": "Groundstaff",
-    "startingMilitaryUnit": "Youth Prospect",
+    "startingWorkerCount": 0,
+    "startingMilitaryUnit": "",
     "startPercent": 0,
     "uniques": []
   },
@@ -22,7 +21,7 @@
     "startingSettlerUnit": "Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Groundstaff",
-    "startingMilitaryUnit": "Car Park Hardman",
+    "startingMilitaryUnit": "",
     "startPercent": 20,
     "uniques": []
   },
@@ -40,7 +39,7 @@
     "startingSettlerUnit": "Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Groundstaff",
-    "startingMilitaryUnit": "Stone Island Shithouse",
+    "startingMilitaryUnit": "Car Park Hardman",
     "startPercent": 40,
     "uniques": []
   },
@@ -64,7 +63,7 @@
     "startingSettlerUnit": "Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Groundstaff",
-    "startingMilitaryUnit": "Firm Leader",
+    "startingMilitaryUnit": "Stone Island Shithouse",
     "startPercent": 65,
     "uniques": []
   },
@@ -97,7 +96,7 @@
     "startingSettlerUnit": "Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Groundstaff",
-    "startingMilitaryUnit": "Ultra Capo",
+    "startingMilitaryUnit": "Firm Leader",
     "startPercent": 85,
     "uniques": []
   }

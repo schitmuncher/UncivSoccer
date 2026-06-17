@@ -9,7 +9,7 @@
       "Unbuildable"
     ],
     "icon": "SettlerAtlas_256",
-    "description": "Settler - Founds new cities/stadiums. Like the Settler in vanilla Civ."
+    "description": "Settler - Founds new cities/stadiums. Starts with your club. Can only be used once to found a new city."
   },
   {
     "name": "Groundstaff",
@@ -22,7 +22,7 @@
       "Automation is a primary action"
     ],
     "icon": "SettlerAtlas_256",
-    "description": "Worker - Builds improvements and maintains the pitch. Like the Worker in vanilla Civ."
+    "description": "Worker - Builds improvements (Pitch, Training Ground, etc.) and maintains the pitch. Must be automated or manually assigned to build improvements."
   },
   {
     "name": "Youth Prospect",
@@ -32,7 +32,7 @@
     "cost": 30,
     "requiredTech": "Sunday League",
     "icon": "ScoutAtlas_256",
-    "description": "Scout - Fast reconnaissance unit for exploring. Like the Scout in vanilla Civ."
+    "description": "Scout - Fast reconnaissance unit for exploring the map quickly. Movement: 3. Strength: 5. Reveals nearby rivals and resources. Excellent for early exploration."
   },
   {
     "name": "Car Park Hardman",
@@ -42,7 +42,7 @@
     "requiredTech": "Sunday League",
     "cost": 50,
     "icon": "SwordmanAtlas_256",
-    "description": "Warrior - Basic melee unit for early defense. Like the Warrior in vanilla Civ."
+    "description": "Warrior - Basic melee unit for early defense and attacks. Movement: 2. Strength: 10. Your first combat unit. Good for defending territory and early aggression."
   },
   {
     "name": "Stone Island Shithouse",
@@ -52,7 +52,7 @@
     "requiredTech": "Away Days",
     "cost": 90,
     "icon": "SwordmanAtlas_256",
-    "description": "Pikeman - Heavy melee unit for mid-game combat. Like the Pikeman in vanilla Civ."
+    "description": "Pikeman - Heavy melee unit for mid-game combat. Movement: 2. Strength: 20. More durable than Warriors. Requires 'Away Days' tech."
   },
   {
     "name": "Firm Leader",
@@ -62,7 +62,7 @@
     "requiredTech": "Firm Organization",
     "cost": 160,
     "icon": "SwordmanAtlas_256",
-    "description": "Samurai - Elite melee unit for aggressive play. Like the Samurai in vanilla Civ."
+    "description": "Samurai - Elite melee unit for aggressive play. Movement: 2. Strength: 35. Very powerful combat unit. Requires 'Firm Organization' tech."
   },
   {
     "name": "Ultra Capo",
@@ -75,7 +75,7 @@
       "[+15]% Strength bonus for [Military] units within [2] tiles"
     ],
     "icon": "SwordmanAtlas_256",
-    "description": "General - Military leader providing combat bonuses to nearby units. Like a Great General in vanilla Civ."
+    "description": "General - Military leader providing [+15]% Strength bonuses to nearby Military units within 2 tiles. Movement: 2. Strength: 52. Great for supporting unit formations. Requires 'Ultra Coordination' tech."
   },
   {
     "name": "Set-Piece Specialist",
@@ -86,7 +86,7 @@
     "requiredTech": "Offside Trap",
     "cost": 80,
     "icon": "ArcherAtlas_256",
-    "description": "Archer - Ranged unit for distant attacks. Like the Archer in vanilla Civ."
+    "description": "Archer - Ranged unit for distant attacks. Movement: 2. Strength: 8. Ranged Strength: 14. Attacks from 2+ tiles away. Requires 'Offside Trap' tech."
   },
   {
     "name": "The Physio",
@@ -100,7 +100,7 @@
       "Uncapturable"
     ],
     "icon": "SettlerAtlas_256",
-    "description": "Medic - Support unit that heals adjacent military units. Like the Medic in vanilla Civ."
+    "description": "Medic - Support unit that heals adjacent military units by +15 HP and itself by +15 HP when healing. Movement: 2. Cost: 110. Uncapturable. Essential for keeping armies healthy. Requires 'Sports Science' tech."
   },
   {
     "name": "Sweeper Keeper",
@@ -113,7 +113,7 @@
       "[+33]% Strength <when defending>"
     ],
     "icon": "SwordmanAtlas_256",
-    "description": "Knight - Heavy defensive unit with high durability. Like the Knight in vanilla Civ."
+    "description": "Knight - Heavy defensive unit with [+33]% Strength when defending. Movement: 2. Strength: 26. Excellent for holding positions. Requires 'Sweeper Keeper School' tech."
   },
   {
     "name": "The Pundit",
@@ -126,7 +126,7 @@
       "Unbuildable"
     ],
     "icon": "SettlerAtlas_256",
-    "description": "Archaeologist - Culture-generating support unit. Like the Archaeologist in vanilla Civ."
+    "description": "Archaeologist - Culture-generating support unit. Movement: 2. Uncapturable. Generates culture to boost your club's legendary status. Requires 'Broadcast Rights' tech."
   },
   {
     "name": "Club Legend",
@@ -141,7 +141,7 @@
       "Uncapturable"
     ],
     "icon": "SettlerAtlas_256",
-    "description": "Great Artist - Generates cultural heritage and golden ages. Like Great People in vanilla Civ."
+    "description": "Great Artist - Generates cultural heritage and 8-turn Golden Ages. Can instantly construct Landmark improvements. Unbuildable and Uncapturable. Part of Great Person system."
   },
   {
     "name": "Master Tactician",
@@ -156,7 +156,7 @@
       "Uncapturable"
     ],
     "icon": "SettlerAtlas_256",
-    "description": "Great Scientist - Provides research bonuses and tactical knowledge. Like Great Scientists in vanilla Civ."
+    "description": "Great Scientist - Provides research bonuses and can instantly construct Academy improvements. Can hurry technology research. Unbuildable and Uncapturable. Part of Great Person system."
   },
   {
     "name": "Director of Football",
@@ -171,7 +171,7 @@
       "Uncapturable"
     ],
     "icon": "SettlerAtlas_256",
-    "description": "Great Merchant - Generates gold and trade routes. Like Great Merchants in vanilla Civ."
+    "description": "Great Merchant - Generates gold and trade routes. Can undertake trade missions with City-States for large gold rewards and Influence. Can construct Customs House improvements. Unbuildable and Uncapturable. Part of Great Person system."
   },
   {
     "name": "SS Booster",
@@ -256,7 +256,7 @@
       "Can pillage tiles <outside your borders>"
     ],
     "icon": "ScoutAtlas_256",
-    "description": "Scout Variant - Fast unit for scouting and pillaging. Stronger than Youth Prospect."
+    "description": "Scout Variant - Faster than Youth Prospect (Movement: 4). Strength: 6. Can pillage tiles outside your borders. Excellent for disrupting rival infrastructure. Requires 'Away Days' tech."
   },
   {
     "name": "Firm Capo",
@@ -271,7 +271,7 @@
       "Unbuildable"
     ],
     "icon": "SwordmanAtlas_256",
-    "description": "General Commander - Provides massive combat bonuses but cannot attack directly. Like a modified Great General."
+    "description": "General Commander - Provides [+25]% Strength bonus to nearby Military units within 2 tiles. Movement: 2. Strength: 45. Cannot attack directly but provides powerful support. Unbuildable. Requires 'The Firm' tech."
   },
   {
     "name": "Free-Kick Specialist",
@@ -285,7 +285,7 @@
       "[+1] Range"
     ],
     "icon": "ArcherAtlas_256",
-    "description": "Archer Variant - Extended-range unit specializing in long-distance shots. Like an upgraded Archer."
+    "description": "Archer Variant - Extended-range unit (Range: +1) specializing in long-distance attacks. Movement: 2. Strength: 10. Ranged Strength: 16. More powerful and further-reaching than regular Archers. Requires 'Terrace Chants' tech."
   },
   {
     "name": "Laptop Guru",
@@ -299,6 +299,6 @@
       "Unbuildable"
     ],
     "icon": "SettlerAtlas_256",
-    "description": "Spy - Steals tactical knowledge and reveals enemy positions. Like the Spy in vanilla Civ."
+    "description": "Spy - Steals tactical knowledge and reveals enemy positions. Can steal 250 Science points from enemy civilizations. Movement: 2. Cost: 200. Unbuildable. One-time use. Requires 'The Laptop Guru' tech."
   }
 ]

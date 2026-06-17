@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Full Time (Marathon)",
+    "modifiers": {
+      "scienceCostModifier": 2,
+      "productionCostModifier": 2,
+      "goldCostModifier": 2,
+      "cultCostModifier": 2,
+      "faithCostModifier": 2,
+      "unitCostModifier": 2,
+      "buildingCostModifier": 2,
+      "wonderCostModifier": 2,
+      "amazingFakeCostModifier": 2,
+      "improvementCostModifier": 2,
+      "researchCostModifier": 2,
+      "turns": 2
+    }
+  },
+  {
+    "name": "90 Minutes (Standard)",
+    "modifiers": {
+      "scienceCostModifier": 1,
+      "productionCostModifier": 1,
+      "goldCostModifier": 1,
+      "cultCostModifier": 1,
+      "faithCostModifier": 1,
+      "unitCostModifier": 1,
+      "buildingCostModifier": 1,
+      "wonderCostModifier": 1,
+      "amazingFakeCostModifier": 1,
+      "improvementCostModifier": 1,
+      "researchCostModifier": 1,
+      "turns": 1
+    }
+  },
+  {
+    "name": "Injury Time (Quick)",
+    "modifiers": {
+      "scienceCostModifier": 0.67,
+      "productionCostModifier": 0.67,
+      "goldCostModifier": 0.67,
+      "cultCostModifier": 0.67,
+      "faithCostModifier": 0.67,
+      "unitCostModifier": 0.67,
+      "buildingCostModifier": 0.67,
+      "wonderCostModifier": 0.67,
+      "amazingFakeCostModifier": 0.67,
+      "improvementCostModifier": 0.67,
+      "researchCostModifier": 0.67,
+      "turns": 0.67
+    }
+  },
+  {
+    "name": "Penalty Shootout (Blitz)",
+    "modifiers": {
+      "scienceCostModifier": 0.5,
+      "productionCostModifier": 0.5,
+      "goldCostModifier": 0.5,
+      "cultCostModifier": 0.5,
+      "faithCostModifier": 0.5,
+      "unitCostModifier": 0.5,
+      "buildingCostModifier": 0.5,
+      "wonderCostModifier": 0.5,
+      "amazingFakeCostModifier": 0.5,
+      "improvementCostModifier": 0.5,
+      "researchCostModifier": 0.5,
+      "turns": 0.5
+    }
+  }
+]
