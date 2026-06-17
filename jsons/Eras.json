@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Grassroots",
+    "researchAgreementCost": 100,
+    "startingSettlerCount": 1,
+    "startingWorkerCount": 1,
+    "startingMilitaryUnitCount": 1,
+    "baseUnitBuyCost": 50
+  }
+]
