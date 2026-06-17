@@ -4,7 +4,7 @@
     "requiredTech": "Sunday League",
     "cost": 40,
     "uniques": [
-      "+1 [Food]"
+      "[+1] [Food]"
     ]
   },
   {
@@ -12,7 +12,7 @@
     "requiredTech": "Local Hero",
     "cost": 60,
     "uniques": [
-      "+2 [Faith]" 
+      "[+2] [Faith]"
     ]
   },
   {
@@ -20,7 +20,7 @@
     "requiredTech": "Professionalism",
     "cost": 120,
     "uniques": [
-      "+3 [Science]"
+      "[+3] [Science]"
     ]
   },
   {
@@ -28,7 +28,7 @@
     "requiredTech": "Global Brand",
     "cost": 350,
     "uniques": [
-      "+5 [Gold]"
+      "[+5] [Gold]"
     ]
   }
 ]
