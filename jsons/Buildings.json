@@ -10,7 +10,8 @@
     "cost": 0,
     "uniques": [
       "Indicates the capital city"
-    ]
+    ],
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Dodgy Burger Van",
@@ -18,7 +19,8 @@
     "gold": 1,
     "cost": 40,
     "maintenance": 1,
-    "requiredTech": "Sunday League"
+    "requiredTech": "Sunday League",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Local Boozer",
@@ -26,7 +28,8 @@
     "happiness": 2,
     "cost": 60,
     "maintenance": 1,
-    "requiredTech": "Pub Meetups"
+    "requiredTech": "Pub Meetups",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Training Pitch",
@@ -36,14 +39,16 @@
     "requiredTech": "Basic Drills",
     "uniques": [
       "New [Military] units start with [15] XP [in this city]"
-    ]
+    ],
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Club Shop",
     "gold": 3,
     "cost": 100,
     "maintenance": 1,
-    "requiredTech": "Local Sponsorships"
+    "requiredTech": "Local Sponsorships",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Terraced End",
@@ -52,7 +57,8 @@
     "cityStrength": 2,
     "cost": 100,
     "maintenance": 1,
-    "requiredTech": "Away Days"
+    "requiredTech": "Away Days",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Hospitality Box",
@@ -60,14 +66,16 @@
     "happiness": 1,
     "cost": 150,
     "maintenance": 2,
-    "requiredTech": "Corporate Hospitality"
+    "requiredTech": "Corporate Hospitality",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "VAR Room",
     "science": 3,
     "cost": 160,
     "maintenance": 2,
-    "requiredTech": "Offside Trap"
+    "requiredTech": "Offside Trap",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Youth Academy",
@@ -75,7 +83,8 @@
     "production": 1,
     "cost": 170,
     "maintenance": 2,
-    "requiredTech": "Pro Coaching"
+    "requiredTech": "Pro Coaching",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Transfer Department",
@@ -83,7 +92,8 @@
     "science": 1,
     "cost": 210,
     "maintenance": 2,
-    "requiredTech": "Transfer Window"
+    "requiredTech": "Transfer Window",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Broadcast Studio",
@@ -91,7 +101,8 @@
     "science": 3,
     "cost": 240,
     "maintenance": 3,
-    "requiredTech": "Broadcast Rights"
+    "requiredTech": "Broadcast Rights",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Ultra Wall",
@@ -102,14 +113,16 @@
     "requiredTech": "Stadium Hostility",
     "uniques": [
       "[+33]% Strength for cities <when defending>"
-    ]
+    ],
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Analytics Department",
     "science": 4,
     "cost": 300,
     "maintenance": 3,
-    "requiredTech": "Analytics Department"
+    "requiredTech": "Analytics Department",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "State-of-the-Art Academy",
@@ -118,7 +131,8 @@
     "production": 2,
     "cost": 340,
     "maintenance": 3,
-    "requiredTech": "Elite Academies"
+    "requiredTech": "Elite Academies",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Security Office",
@@ -126,7 +140,8 @@
     "cityStrength": 6,
     "cost": 320,
     "maintenance": 3,
-    "requiredTech": "Security Theatre"
+    "requiredTech": "Security Theatre",
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "The FA Cup",
@@ -135,7 +150,8 @@
     "faith": 4,
     "happiness": 4,
     "cost": 300,
-    "requiredTech": "Away Days"
+    "requiredTech": "Away Days",
+    "icon": "WonderAtlas_256"
   },
   {
     "name": "The Invincibles Trophy",
@@ -146,7 +162,8 @@
     "requiredTech": "Total Football",
     "uniques": [
       "[+15]% Strength <for [All] units>"
-    ]
+    ],
+    "icon": "WonderAtlas_256"
   },
   {
     "name": "Apollo Program",
@@ -158,7 +175,8 @@
       "Triggers a global alert upon completion",
       "Only available <when [Scientific] Victory is enabled>",
       "Cannot be hurried"
-    ]
+    ],
+    "icon": "WonderAtlas_256"
   },
   {
     "name": "Spaceship Factory",
@@ -168,7 +186,8 @@
     "requiredTech": "Multi-Club Model",
     "uniques": [
       "[+50]% Production when constructing [Spaceship part] units [in this city]"
-    ]
+    ],
+    "icon": "BuildingAtlas_256"
   },
   {
     "name": "Utopia Project",
@@ -181,6 +200,7 @@
       "Triggers a Cultural Victory upon completion",
       "Only available <when [Cultural] Victory is enabled>",
       "Cannot be hurried"
-    ]
+    ],
+    "icon": "WonderAtlas_256"
   }
 ]
