@@ -17,7 +17,7 @@
     "techs": [
       {
         "name": "Local Sponsorships",
-        "cost": 35,
+        "cost": 150,
         "row": 1,
         "prerequisites": [
           "Sunday League"
@@ -26,7 +26,7 @@
       },
       {
         "name": "Basic Drills",
-        "cost": 35,
+        "cost": 150,
         "row": 2,
         "prerequisites": [
           "Sunday League"
@@ -35,7 +35,7 @@
       },
       {
         "name": "Pub Meetups",
-        "cost": 35,
+        "cost": 150,
         "row": 3,
         "prerequisites": [
           "Sunday League"
@@ -50,7 +50,7 @@
     "techs": [
       {
         "name": "Kit Deals",
-        "cost": 70,
+        "cost": 250,
         "row": 1,
         "prerequisites": [
           "Local Sponsorships"
@@ -59,7 +59,7 @@
       },
       {
         "name": "Pro Coaching",
-        "cost": 70,
+        "cost": 250,
         "row": 2,
         "prerequisites": [
           "Basic Drills"
@@ -68,7 +68,7 @@
       },
       {
         "name": "Away Days",
-        "cost": 70,
+        "cost": 250,
         "row": 3,
         "prerequisites": [
           "Pub Meetups"
@@ -83,7 +83,7 @@
     "techs": [
       {
         "name": "Corporate Hospitality",
-        "cost": 120,
+        "cost": 400,
         "row": 1,
         "prerequisites": [
           "Kit Deals"
@@ -92,7 +92,7 @@
       },
       {
         "name": "Offside Trap",
-        "cost": 120,
+        "cost": 400,
         "row": 2,
         "prerequisites": [
           "Pro Coaching"
@@ -101,7 +101,7 @@
       },
       {
         "name": "Pyro Culture",
-        "cost": 120,
+        "cost": 400,
         "row": 3,
         "prerequisites": [
           "Away Days"
@@ -116,7 +116,7 @@
     "techs": [
       {
         "name": "Transfer Window",
-        "cost": 175,
+        "cost": 550,
         "row": 1,
         "prerequisites": [
           "Corporate Hospitality"
@@ -125,7 +125,7 @@
       },
       {
         "name": "Park the Bus",
-        "cost": 175,
+        "cost": 550,
         "row": 2,
         "prerequisites": [
           "Offside Trap"
@@ -134,7 +134,7 @@
       },
       {
         "name": "Firm Organization",
-        "cost": 175,
+        "cost": 550,
         "row": 3,
         "prerequisites": [
           "Pyro Culture"
@@ -149,7 +149,7 @@
     "techs": [
       {
         "name": "Broadcast Rights",
-        "cost": 240,
+        "cost": 750,
         "row": 1,
         "prerequisites": [
           "Transfer Window"
@@ -158,7 +158,7 @@
       },
       {
         "name": "Set-Piece Laboratories",
-        "cost": 240,
+        "cost": 750,
         "row": 2,
         "prerequisites": [
           "Park the Bus"
@@ -167,7 +167,7 @@
       },
       {
         "name": "Stadium Hostility",
-        "cost": 240,
+        "cost": 750,
         "row": 3,
         "prerequisites": [
           "Firm Organization"
@@ -182,7 +182,7 @@
     "techs": [
       {
         "name": "Shirt Sales",
-        "cost": 320,
+        "cost": 950,
         "row": 1,
         "prerequisites": [
           "Broadcast Rights"
@@ -191,7 +191,7 @@
       },
       {
         "name": "Sports Science",
-        "cost": 320,
+        "cost": 950,
         "row": 2,
         "prerequisites": [
           "Set-Piece Laboratories"
@@ -200,7 +200,7 @@
       },
       {
         "name": "Sweeper Keeper School",
-        "cost": 320,
+        "cost": 950,
         "row": 3,
         "prerequisites": [
           "Stadium Hostility"
@@ -215,7 +215,7 @@
     "techs": [
       {
         "name": "Scouting Network",
-        "cost": 420,
+        "cost": 1200,
         "row": 1,
         "prerequisites": [
           "Shirt Sales"
@@ -224,7 +224,7 @@
       },
       {
         "name": "Pressing Triggers",
-        "cost": 420,
+        "cost": 1200,
         "row": 2,
         "prerequisites": [
           "Sports Science"
@@ -233,7 +233,7 @@
       },
       {
         "name": "Marching Columns",
-        "cost": 420,
+        "cost": 1200,
         "row": 3,
         "prerequisites": [
           "Sweeper Keeper School"
@@ -248,7 +248,7 @@
     "techs": [
       {
         "name": "Global Branding",
-        "cost": 540,
+        "cost": 1500,
         "row": 1,
         "prerequisites": [
           "Scouting Network"
@@ -257,7 +257,7 @@
       },
       {
         "name": "Gegenpressing",
-        "cost": 540,
+        "cost": 1500,
         "row": 2,
         "prerequisites": [
           "Pressing Triggers"
@@ -266,7 +266,7 @@
       },
       {
         "name": "Ultra Coordination",
-        "cost": 540,
+        "cost": 1500,
         "row": 3,
         "prerequisites": [
           "Marching Columns"
@@ -281,7 +281,7 @@
     "techs": [
       {
         "name": "Hospitality Suites",
-        "cost": 680,
+        "cost": 1850,
         "row": 1,
         "prerequisites": [
           "Global Branding"
@@ -290,7 +290,7 @@
       },
       {
         "name": "Total Football",
-        "cost": 680,
+        "cost": 1850,
         "row": 2,
         "prerequisites": [
           "Gegenpressing"
@@ -299,7 +299,7 @@
       },
       {
         "name": "Matchday Choreography",
-        "cost": 680,
+        "cost": 1850,
         "row": 3,
         "prerequisites": [
           "Ultra Coordination"
@@ -314,7 +314,7 @@
     "techs": [
       {
         "name": "Continental Tours",
-        "cost": 840,
+        "cost": 2300,
         "row": 1,
         "prerequisites": [
           "Hospitality Suites"
@@ -323,7 +323,7 @@
       },
       {
         "name": "Analytics Department",
-        "cost": 840,
+        "cost": 2300,
         "row": 2,
         "prerequisites": [
           "Total Football"
@@ -332,7 +332,7 @@
       },
       {
         "name": "Defensive Blocks",
-        "cost": 840,
+        "cost": 2300,
         "row": 3,
         "prerequisites": [
           "Matchday Choreography"
@@ -347,7 +347,7 @@
     "techs": [
       {
         "name": "Oil State Takeover",
-        "cost": 1020,
+        "cost": 2800,
         "row": 1,
         "prerequisites": [
           "Continental Tours"
@@ -356,7 +356,7 @@
       },
       {
         "name": "Elite Academies",
-        "cost": 1020,
+        "cost": 2800,
         "row": 2,
         "prerequisites": [
           "Analytics Department"
@@ -365,7 +365,7 @@
       },
       {
         "name": "Security Theatre",
-        "cost": 1020,
+        "cost": 2800,
         "row": 3,
         "prerequisites": [
           "Defensive Blocks"
@@ -380,7 +380,7 @@
     "techs": [
       {
         "name": "Global Franchise",
-        "cost": 1220,
+        "cost": 3400,
         "row": 1,
         "prerequisites": [
           "Oil State Takeover"
@@ -389,7 +389,7 @@
       },
       {
         "name": "Multi-Club Model",
-        "cost": 1220,
+        "cost": 3400,
         "row": 2,
         "prerequisites": [
           "Elite Academies"
@@ -398,7 +398,7 @@
       },
       {
         "name": "Fan Ownership Crackdown",
-        "cost": 1220,
+        "cost": 3400,
         "row": 3,
         "prerequisites": [
           "Security Theatre"
@@ -413,7 +413,7 @@
     "techs": [
       {
         "name": "Terrace Chants",
-        "cost": 1400,
+        "cost": 3900,
         "row": 3,
         "prerequisites": [
           "Stadium Hostility"
@@ -428,7 +428,7 @@
     "techs": [
       {
         "name": "Ultra Culture",
-        "cost": 1600,
+        "cost": 4300,
         "row": 3,
         "prerequisites": [
           "Terrace Chants"
@@ -443,7 +443,7 @@
     "techs": [
       {
         "name": "The Firm",
-        "cost": 1800,
+        "cost": 4700,
         "row": 3,
         "prerequisites": [
           "Ultra Culture"
@@ -452,7 +452,7 @@
       },
       {
         "name": "Data Analytics",
-        "cost": 1800,
+        "cost": 4700,
         "row": 2,
         "prerequisites": [
           "Analytics Department"
@@ -467,7 +467,7 @@
     "techs": [
       {
         "name": "The Laptop Guru",
-        "cost": 2000,
+        "cost": 5100,
         "row": 2,
         "prerequisites": [
           "Data Analytics"
