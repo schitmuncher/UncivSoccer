@@ -295,7 +295,7 @@
     "requiredTech": "The Laptop Guru",
     "uniques": [
       "Can undertake a spy mission",
-      "Can steal [250] [Science] from enemy civilizations <by expending this unit>",
+      "Can steal [250] [Science]",
       "Unbuildable"
     ],
     "icon": "SettlerAtlas_256",
