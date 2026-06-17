@@ -1,32 +1,186 @@
 [
   {
+    "name": "Palace",
+    "production": 2,
+    "science": 2,
+    "gold": 2,
+    "culture": 1,
+    "happiness": 2,
+    "cityStrength": 2.5,
+    "cost": 0,
+    "uniques": [
+      "Indicates the capital city"
+    ]
+  },
+  {
     "name": "Dodgy Burger Van",
-    "requiredTech": "Sunday League",
-    "cost": 40
+    "food": 2,
+    "gold": 1,
+    "cost": 40,
+    "maintenance": 1,
+    "requiredTech": "Sunday League"
   },
   {
     "name": "Local Boozer",
-    "requiredTech": "Pub Meetups",
-    "cost": 60
+    "culture": 1,
+    "happiness": 2,
+    "cost": 60,
+    "maintenance": 1,
+    "requiredTech": "Pub Meetups"
   },
   {
     "name": "Training Pitch",
+    "production": 1,
+    "cost": 80,
+    "maintenance": 1,
     "requiredTech": "Basic Drills",
-    "cost": 80
+    "uniques": [
+      "[+15]% XP gained from combat <for [Military] units trained in this city>"
+    ]
   },
   {
     "name": "Club Shop",
-    "requiredTech": "Local Sponsorships",
-    "cost": 100
+    "gold": 3,
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "Local Sponsorships"
+  },
+  {
+    "name": "Terraced End",
+    "culture": 2,
+    "happiness": 1,
+    "cityStrength": 2,
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "Away Days"
   },
   {
     "name": "Hospitality Box",
-    "requiredTech": "Corporate Hospitality",
-    "cost": 200
+    "gold": 4,
+    "happiness": 1,
+    "cost": 150,
+    "maintenance": 2,
+    "requiredTech": "Corporate Hospitality"
+  },
+  {
+    "name": "VAR Room",
+    "science": 3,
+    "cost": 160,
+    "maintenance": 2,
+    "requiredTech": "Offside Trap"
+  },
+  {
+    "name": "Youth Academy",
+    "culture": 2,
+    "production": 1,
+    "cost": 170,
+    "maintenance": 2,
+    "requiredTech": "Pro Coaching"
+  },
+  {
+    "name": "Transfer Department",
+    "gold": 5,
+    "science": 1,
+    "cost": 210,
+    "maintenance": 2,
+    "requiredTech": "Transfer Window"
+  },
+  {
+    "name": "Broadcast Studio",
+    "gold": 3,
+    "science": 3,
+    "cost": 240,
+    "maintenance": 3,
+    "requiredTech": "Broadcast Rights"
+  },
+  {
+    "name": "Ultra Wall",
+    "happiness": 2,
+    "cityStrength": 4,
+    "cost": 240,
+    "maintenance": 2,
+    "requiredTech": "Stadium Hostility",
+    "uniques": [
+      "[+33]% Strength for cities <when defending>"
+    ]
+  },
+  {
+    "name": "Analytics Department",
+    "science": 4,
+    "cost": 300,
+    "maintenance": 3,
+    "requiredTech": "Analytics Department"
   },
   {
     "name": "State-of-the-Art Academy",
+    "science": 3,
+    "culture": 4,
+    "production": 2,
+    "cost": 340,
+    "maintenance": 3,
+    "requiredTech": "Elite Academies"
+  },
+  {
+    "name": "Security Office",
+    "happiness": 2,
+    "cityStrength": 6,
+    "cost": 320,
+    "maintenance": 3,
+    "requiredTech": "Security Theatre"
+  },
+  {
+    "name": "The FA Cup",
+    "isWonder": true,
+    "culture": 4,
+    "faith": 4,
+    "happiness": 4,
+    "cost": 300,
+    "requiredTech": "Away Days"
+  },
+  {
+    "name": "The Invincibles Trophy",
+    "isWonder": true,
+    "culture": 3,
+    "happiness": 3,
+    "cost": 550,
     "requiredTech": "Total Football",
-    "cost": 300
+    "uniques": [
+      "[+15]% Strength <for [All] units>"
+    ]
+  },
+  {
+    "name": "Apollo Program",
+    "cost": 750,
+    "isNationalWonder": true,
+    "requiredTech": "Oil State Takeover",
+    "uniques": [
+      "Enables construction of Spaceship parts",
+      "Triggers a global alert upon completion",
+      "Only available <when [Scientific] Victory is enabled>",
+      "Cannot be hurried"
+    ]
+  },
+  {
+    "name": "Spaceship Factory",
+    "production": 3,
+    "maintenance": 3,
+    "cost": 360,
+    "requiredTech": "Multi-Club Model",
+    "uniques": [
+      "[+50]% Production when constructing [Spaceship part] units [in this city]"
+    ]
+  },
+  {
+    "name": "Utopia Project",
+    "cost": 1500,
+    "isNationalWonder": true,
+    "requiredTech": "Global Franchise",
+    "uniques": [
+      "Unavailable <when number of [Completed Policy branches] is less than [5]>",
+      "Triggers a global alert upon build start",
+      "Triggers a Cultural Victory upon completion",
+      "Only available <when [Cultural] Victory is enabled>",
+      "Cannot be hurried"
+    ]
   }
 ]

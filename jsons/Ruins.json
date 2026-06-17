@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "name": "discover old fanzines",
+    "notification": "We have discovered legendary terrace lore in the ruins! (+20 culture)",
+    "uniques": [
+      "Gain [20] [Culture] <(modified by game speed)>"
+    ],
+    "color": "#cf8ff7"
+  },
+  {
+    "name": "volunteers report for duty",
+    "notification": "A [Groundstaff] crew has joined us!",
+    "uniques": [
+      "Free [Groundstaff] found in the ruins",
+      "Unavailable <on [Prince] difficulty or higher>"
+    ],
+    "excludedDifficulties": [
+      "Prince",
+      "King",
+      "Emperor",
+      "Immortal",
+      "Deity"
+    ]
+  },
+  {
+    "name": "backers ready to invest",
+    "notification": "A [Chairman] has agreed to bankroll a new ground!",
+    "uniques": [
+      "Free [Chairman] found in the ruins",
+      "Unavailable <on [Prince] difficulty or higher>"
+    ],
+    "excludedDifficulties": [
+      "Warlord",
+      "Prince",
+      "King",
+      "Emperor",
+      "Immortal",
+      "Deity"
+    ]
+  },
+  {
+    "name": "your lad gets proper coaching",
+    "notification": "An old hardman taught our explorer a few tricks!",
+    "uniques": [
+      "[This Unit] gains [10] XP",
+      "Only available <after turn number [10]>"
+    ]
+  },
+  {
+    "name": "survivors add to the crowd",
+    "notification": "We found supporters in the ruins! Population added to [cityName].",
+    "uniques": [
+      "[+1] population in a random city"
+    ],
+    "color": "#81c784"
+  },
+  {
+    "name": "a tin full of transfer cash",
+    "notification": "",
+    "uniques": [
+      "Gain [50]-[100] [Gold] <(modified by game speed)>"
+    ],
+    "color": "#ffeb7f"
+  },
+  {
+    "name": "discover a forgotten drill",
+    "notification": "We have rediscovered the lost tactic of [techName] in the ruins!",
+    "uniques": [
+      "[1] free random researchable Tech(s) from the [Grassroots]"
+    ],
+    "color": "#7f7fff"
+  },
+  {
+    "name": "the lads find old gear",
+    "notification": "Our unit finds advanced terrace weaponry hidden in the ruins!",
+    "uniques": [
+      "[This Unit] upgrades for free including special upgrades"
+    ]
+  }
+]

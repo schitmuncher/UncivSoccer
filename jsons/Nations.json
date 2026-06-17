@@ -2,221 +2,603 @@
   {
     "name": "Arsenal",
     "leaderName": "Mikel Arteta",
-    "adjective": "Arsenal",
-    "innerColor": [255, 0, 0],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Emirates Stadium", "Highbury", "Ashburton Grove"]
+    "adjective": [
+      "Arsenal"
+    ],
+    "innerColor": [
+      255,
+      0,
+      0
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "The Invincibles",
+    "uniques": [
+      "[+15]% Strength <when defending> <for [All] units>"
+    ],
+    "cities": [
+      "Emirates Stadium",
+      "Highbury",
+      "Ashburton Grove"
+    ]
   },
   {
     "name": "Aston Villa",
     "leaderName": "Unai Emery",
-    "adjective": "Villa",
-    "innerColor": [103, 14, 54],
-    "outerColor": [149, 191, 229],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Villa Park", "Bodymoor Heath", "Trinity Road"]
+    "adjective": [
+      "Villa"
+    ],
+    "innerColor": [
+      103,
+      14,
+      54
+    ],
+    "outerColor": [
+      149,
+      191,
+      229
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "European Evenings",
+    "uniques": [
+      "[+1 Culture] [in all cities]"
+    ],
+    "cities": [
+      "Villa Park",
+      "Bodymoor Heath",
+      "Trinity Road"
+    ]
   },
   {
     "name": "Bournemouth",
     "leaderName": "Andoni Iraola",
-    "adjective": "Cherries",
-    "innerColor": [227, 6, 19],
-    "outerColor": [0, 0, 0],
-    "startBias": ["Grassland"],
+    "adjective": [
+      "Cherries"
+    ],
+    "innerColor": [
+      227,
+      6,
+      19
+    ],
+    "outerColor": [
+      0,
+      0,
+      0
+    ],
+    "startBias": [
+      "Grassland"
+    ],
     "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Vitality Stadium", "Dean Court", "Fitness First Stadium"]
+    "uniqueName": "Front-Foot Football",
+    "uniques": [
+      "[+15]% XP gained from combat <for [Military] units>"
+    ],
+    "cities": [
+      "Vitality Stadium",
+      "Dean Court",
+      "Fitness First Stadium"
+    ]
   },
   {
     "name": "Brentford",
     "leaderName": "Thomas Frank",
-    "adjective": "Bees",
-    "innerColor": [227, 6, 19],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Gtech Community Stadium", "Griffin Park", "Lionel Road"]
+    "adjective": [
+      "Bees"
+    ],
+    "innerColor": [
+      227,
+      6,
+      19
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Scientific",
+    "uniqueName": "Data Department",
+    "uniques": [
+      "[+1 Science] [in all cities]"
+    ],
+    "cities": [
+      "Gtech Community Stadium",
+      "Griffin Park",
+      "Lionel Road"
+    ]
   },
   {
     "name": "Brighton",
     "leaderName": "Fabian Hurzeler",
-    "adjective": "Seagulls",
-    "innerColor": [0, 87, 184],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Amex Stadium", "Withdean Stadium", "Goldstone Ground"]
+    "adjective": [
+      "Seagulls"
+    ],
+    "innerColor": [
+      0,
+      87,
+      184
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "preferredVictoryType": "Scientific",
+    "uniqueName": "Recruitment Machine",
+    "uniques": [
+      "[+1 Gold] [in all cities]"
+    ],
+    "cities": [
+      "Amex Stadium",
+      "Withdean Stadium",
+      "Goldstone Ground"
+    ]
   },
   {
     "name": "Chelsea",
     "leaderName": "Enzo Maresca",
-    "adjective": "Blues",
-    "innerColor": [3, 70, 148],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Stamford Bridge", "Cobham", "Kingsmeadow"]
+    "adjective": [
+      "Blues"
+    ],
+    "innerColor": [
+      3,
+      70,
+      148
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Scientific",
+    "uniqueName": "The Loan Army",
+    "uniques": [
+      "[-25]% maintenance costs <for [Land] units>"
+    ],
+    "cities": [
+      "Stamford Bridge",
+      "Cobham",
+      "Kingsmeadow"
+    ]
   },
   {
     "name": "Crystal Palace",
     "leaderName": "Oliver Glasner",
-    "adjective": "Eagles",
-    "innerColor": [193, 37, 56],
-    "outerColor": [27, 69, 143],
-    "startBias": ["Grassland"],
+    "adjective": [
+      "Eagles"
+    ],
+    "innerColor": [
+      193,
+      37,
+      56
+    ],
+    "outerColor": [
+      27,
+      69,
+      143
+    ],
+    "startBias": [
+      "Hill"
+    ],
     "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Selhurst Park", "Crystal Palace Park", "Copers Cope"]
+    "uniqueName": "Holmesdale Noise",
+    "uniques": [
+      "[+33]% Strength for cities <when defending>"
+    ],
+    "cities": [
+      "Selhurst Park",
+      "Crystal Palace Park",
+      "Copers Cope"
+    ]
   },
   {
     "name": "Everton",
     "leaderName": "Sean Dyche",
-    "adjective": "Toffees",
-    "innerColor": [0, 51, 153],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
+    "adjective": [
+      "Toffees"
+    ],
+    "innerColor": [
+      0,
+      51,
+      153
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Coast"
+    ],
     "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Goodison Park", "Bramley Moore Dock", "Finch Farm"]
+    "uniqueName": "Proper Centre-Halves",
+    "uniques": [
+      "[+10]% Strength <for [All] units>"
+    ],
+    "cities": [
+      "Goodison Park",
+      "Bramley Moore Dock",
+      "Finch Farm"
+    ]
   },
   {
     "name": "Fulham",
     "leaderName": "Marco Silva",
-    "adjective": "Cottagers",
-    "innerColor": [255, 255, 255],
-    "outerColor": [0, 0, 0],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Craven Cottage", "Motspur Park", "Riverside Stand"]
+    "adjective": [
+      "Cottagers"
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "outerColor": [
+      0,
+      0,
+      0
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Riverside Style",
+    "uniques": [
+      "[+1 Happiness] [in all cities]"
+    ],
+    "cities": [
+      "Craven Cottage",
+      "Motspur Park",
+      "Riverside Stand"
+    ]
   },
   {
     "name": "Ipswich Town",
     "leaderName": "Kieran McKenna",
-    "adjective": "Tractor Boys",
-    "innerColor": [0, 90, 160],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Portman Road", "Playford Road", "Cobbold Stand"]
+    "adjective": [
+      "Tractor Boys"
+    ],
+    "innerColor": [
+      0,
+      90,
+      160
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Plains"
+    ],
+    "preferredVictoryType": "Scientific",
+    "uniqueName": "Rapid Rise",
+    "uniques": [
+      "[+10]% growth [in capital]"
+    ],
+    "cities": [
+      "Portman Road",
+      "Playford Road",
+      "Cobbold Stand"
+    ]
   },
   {
     "name": "Leicester City",
     "leaderName": "Steve Cooper",
-    "adjective": "Foxes",
-    "innerColor": [0, 83, 160],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["King Power Stadium", "Filbert Street", "Seagrave"]
+    "adjective": [
+      "Foxes"
+    ],
+    "innerColor": [
+      0,
+      83,
+      160
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Miracle Season",
+    "uniques": [
+      "[+1 Production] [in all cities]"
+    ],
+    "cities": [
+      "King Power Stadium",
+      "Filbert Street",
+      "Seagrave"
+    ]
   },
   {
     "name": "Liverpool",
     "leaderName": "Arne Slot",
-    "adjective": "Reds",
-    "innerColor": [200, 16, 46],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
+    "adjective": [
+      "Reds"
+    ],
+    "innerColor": [
+      200,
+      16,
+      46
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Coast"
+    ],
     "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Anfield", "Melwood", "Kirkby"]
+    "uniqueName": "Heavy Metal Football",
+    "uniques": [
+      "[+15]% XP gained from combat <for [Military] units>"
+    ],
+    "cities": [
+      "Anfield",
+      "Melwood",
+      "Kirkby"
+    ]
   },
   {
     "name": "Manchester City",
     "leaderName": "Pep Guardiola",
-    "adjective": "City",
-    "innerColor": [108, 172, 228],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Etihad Stadium", "Maine Road", "City Football Academy"]
+    "adjective": [
+      "City"
+    ],
+    "innerColor": [
+      108,
+      172,
+      228
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Scientific",
+    "uniqueName": "Oil Money",
+    "uniques": [
+      "[+2 Gold] [in all cities]",
+      "[+1 Happiness] [in all cities]"
+    ],
+    "cities": [
+      "Etihad Stadium",
+      "Maine Road",
+      "City Football Academy"
+    ]
   },
   {
     "name": "Manchester United",
     "leaderName": "Ruben Amorim",
-    "adjective": "United",
-    "innerColor": [218, 41, 28],
-    "outerColor": [0, 0, 0],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Old Trafford", "Carrington", "The Cliff"]
+    "adjective": [
+      "United"
+    ],
+    "innerColor": [
+      218,
+      41,
+      28
+    ],
+    "outerColor": [
+      0,
+      0,
+      0
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Global Support",
+    "uniques": [
+      "[+2 Culture] [in capital]"
+    ],
+    "cities": [
+      "Old Trafford",
+      "Carrington",
+      "The Cliff"
+    ]
   },
   {
     "name": "Newcastle United",
     "leaderName": "Eddie Howe",
-    "adjective": "Magpies",
-    "innerColor": [0, 0, 0],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["St James Park", "Darsley Park", "Gallowgate"]
+    "adjective": [
+      "Magpies"
+    ],
+    "innerColor": [
+      0,
+      0,
+      0
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Hill"
+    ],
+    "preferredVictoryType": "Scientific",
+    "uniqueName": "New Riches",
+    "uniques": [
+      "Receive [+100]% Gold from Barbarian encampments and pillaging Cities"
+    ],
+    "cities": [
+      "St James Park",
+      "Darsley Park",
+      "Gallowgate"
+    ]
   },
   {
     "name": "Nottingham Forest",
     "leaderName": "Nuno Espirito Santo",
-    "adjective": "Forest",
-    "innerColor": [220, 40, 30],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
+    "adjective": [
+      "Forest"
+    ],
+    "innerColor": [
+      220,
+      40,
+      30
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Forest"
+    ],
     "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["City Ground", "Trent End", "Nigel Doughty Academy"]
+    "uniqueName": "European Heritage",
+    "uniques": [
+      "[+1 Production] [in all cities]"
+    ],
+    "cities": [
+      "City Ground",
+      "Trent End",
+      "Nigel Doughty Academy"
+    ]
   },
   {
     "name": "Southampton",
     "leaderName": "Russell Martin",
-    "adjective": "Saints",
-    "innerColor": [215, 25, 32],
-    "outerColor": [255, 255, 255],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["St Marys Stadium", "The Dell", "Staplewood"]
+    "adjective": [
+      "Saints"
+    ],
+    "innerColor": [
+      215,
+      25,
+      32
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Coast"
+    ],
+    "preferredVictoryType": "Scientific",
+    "uniqueName": "Production Line",
+    "uniques": [
+      "[+1 Science] [in all cities]"
+    ],
+    "cities": [
+      "St Marys Stadium",
+      "The Dell",
+      "Staplewood"
+    ]
   },
   {
     "name": "Tottenham Hotspur",
     "leaderName": "Ange Postecoglou",
-    "adjective": "Spurs",
-    "innerColor": [255, 255, 255],
-    "outerColor": [19, 34, 87],
-    "startBias": ["Grassland"],
-    "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Tottenham Hotspur Stadium", "White Hart Lane", "Hotspur Way"]
+    "adjective": [
+      "Spurs"
+    ],
+    "innerColor": [
+      255,
+      255,
+      255
+    ],
+    "outerColor": [
+      19,
+      34,
+      87
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "To Dare Is To Do",
+    "uniques": [
+      "[+1 Production] [in capital]",
+      "[+1 Culture] [in capital]"
+    ],
+    "cities": [
+      "Tottenham Hotspur Stadium",
+      "White Hart Lane",
+      "Hotspur Way"
+    ]
   },
   {
     "name": "West Ham United",
     "leaderName": "Julen Lopetegui",
-    "adjective": "Hammers",
-    "innerColor": [122, 38, 58],
-    "outerColor": [27, 177, 231],
-    "startBias": ["Grassland"],
+    "adjective": [
+      "Hammers"
+    ],
+    "innerColor": [
+      122,
+      38,
+      58
+    ],
+    "outerColor": [
+      27,
+      177,
+      231
+    ],
+    "startBias": [
+      "Coast"
+    ],
     "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["London Stadium", "Upton Park", "Rush Green"]
+    "uniqueName": "Proper Away Days",
+    "uniques": [
+      "[+1] Sight <for [{Military} {Land}] units>"
+    ],
+    "cities": [
+      "London Stadium",
+      "Upton Park",
+      "Rush Green"
+    ]
   },
   {
     "name": "Wolverhampton Wanderers",
     "leaderName": "Gary O Neil",
-    "adjective": "Wolves",
-    "innerColor": [253, 165, 15],
-    "outerColor": [0, 0, 0],
-    "startBias": ["Grassland"],
+    "adjective": [
+      "Wolves"
+    ],
+    "innerColor": [
+      253,
+      165,
+      15
+    ],
+    "outerColor": [
+      0,
+      0,
+      0
+    ],
+    "startBias": [
+      "Hill"
+    ],
     "preferredVictoryType": "Domination",
-    "uniques": [],
-    "cities": ["Molineux", "Compton Park", "Stan Cullis Stand"]
+    "uniqueName": "Counter-Attack Pack",
+    "uniques": [
+      "[+10]% Strength <for [All] units>"
+    ],
+    "cities": [
+      "Molineux",
+      "Compton Park",
+      "Stan Cullis Stand"
+    ]
   }
 ]

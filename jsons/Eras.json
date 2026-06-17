@@ -1,9 +1,109 @@
 [
   {
     "name": "Grassroots",
-    "startingTechs": ["Sunday League"],
-    "startingUnitTypes": ["Chairman", "Youth Prospect"],
+    "startingTechs": [
+      "Sunday League"
+    ],
+    "startingUnitTypes": [
+      "Chairman",
+      "Groundstaff",
+      "Youth Prospect"
+    ],
     "startPercent": 0,
+    "uniques": []
+  },
+  {
+    "name": "Non-League",
+    "startingTechs": [
+      "Sunday League",
+      "Local Sponsorships",
+      "Basic Drills",
+      "Pub Meetups"
+    ],
+    "startingUnitTypes": [
+      "Chairman",
+      "Groundstaff",
+      "Car Park Hardman"
+    ],
+    "startPercent": 20,
+    "uniques": []
+  },
+  {
+    "name": "Football League",
+    "startingTechs": [
+      "Sunday League",
+      "Kit Deals",
+      "Pro Coaching",
+      "Away Days",
+      "Corporate Hospitality",
+      "Offside Trap",
+      "Pyro Culture"
+    ],
+    "startingUnitTypes": [
+      "Chairman",
+      "Groundstaff",
+      "Stone Island Shithouse"
+    ],
+    "startPercent": 40,
+    "uniques": []
+  },
+  {
+    "name": "Premier Era",
+    "startingTechs": [
+      "Sunday League",
+      "Kit Deals",
+      "Pro Coaching",
+      "Away Days",
+      "Corporate Hospitality",
+      "Offside Trap",
+      "Pyro Culture",
+      "Transfer Window",
+      "Park the Bus",
+      "Firm Organization",
+      "Broadcast Rights",
+      "Set-Piece Laboratories",
+      "Stadium Hostility"
+    ],
+    "startingUnitTypes": [
+      "Chairman",
+      "Groundstaff",
+      "Firm Leader"
+    ],
+    "startPercent": 65,
+    "uniques": []
+  },
+  {
+    "name": "Super League",
+    "startingTechs": [
+      "Sunday League",
+      "Kit Deals",
+      "Pro Coaching",
+      "Away Days",
+      "Corporate Hospitality",
+      "Offside Trap",
+      "Pyro Culture",
+      "Transfer Window",
+      "Park the Bus",
+      "Firm Organization",
+      "Broadcast Rights",
+      "Set-Piece Laboratories",
+      "Stadium Hostility",
+      "Global Branding",
+      "Gegenpressing",
+      "Ultra Coordination",
+      "Hospitality Suites",
+      "Total Football",
+      "Matchday Choreography",
+      "Oil State Takeover",
+      "Elite Academies",
+      "Security Theatre"
+    ],
+    "startingUnitTypes": [
+      "Chairman",
+      "Groundstaff",
+      "Ultra Capo"
+    ],
+    "startPercent": 85,
     "uniques": []
   }
 ]

@@ -5,7 +5,7 @@
     "movement": 2,
     "cost": 80,
     "uniques": [
-      "Founds a new city"
+      "Founds a new city <by consuming this unit>"
     ]
   },
   {
@@ -13,14 +13,19 @@
     "unitType": "Civilian",
     "movement": 2,
     "cost": 50,
-    "uniques": []
+    "requiredTech": "Sunday League",
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+      "Automation is a primary action"
+    ]
   },
   {
     "name": "Youth Prospect",
     "unitType": "Scout",
     "movement": 3,
     "strength": 5,
-    "cost": 30
+    "cost": 30,
+    "requiredTech": "Sunday League"
   },
   {
     "name": "Car Park Hardman",
@@ -43,7 +48,163 @@
     "unitType": "Melee",
     "movement": 2,
     "strength": 35,
-    "requiredTech": "Ultra Culture",
-    "cost": 150
+    "requiredTech": "Firm Organization",
+    "cost": 160
+  },
+  {
+    "name": "Ultra Capo",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 52,
+    "requiredTech": "Ultra Coordination",
+    "cost": 280,
+    "uniques": [
+      "[+15]% Strength bonus for [Military] units within [2] tiles"
+    ]
+  },
+  {
+    "name": "Set-Piece Specialist",
+    "unitType": "Ranged",
+    "movement": 2,
+    "strength": 8,
+    "rangedStrength": 14,
+    "requiredTech": "Offside Trap",
+    "cost": 80
+  },
+  {
+    "name": "The Physio",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 110,
+    "requiredTech": "Sports Science",
+    "uniques": [
+      "All adjacent units heal [+15] HP when healing",
+      "[+15] HP when healing",
+      "Uncapturable"
+    ]
+  },
+  {
+    "name": "Sweeper Keeper",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 26,
+    "requiredTech": "Sweeper Keeper School",
+    "cost": 130,
+    "uniques": [
+      "[+33]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "The Pundit",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 120,
+    "requiredTech": "Broadcast Rights",
+    "uniques": [
+      "Uncapturable"
+    ]
+  },
+  {
+    "name": "Club Legend",
+    "unitType": "Civilian",
+    "movement": 2,
+    "uniques": [
+      "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+      "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+      "Is part of Great Person group [Artist]",
+      "Great Person - [Culture]",
+      "Unbuildable",
+      "Uncapturable"
+    ]
+  },
+  {
+    "name": "Master Tactician",
+    "unitType": "Civilian",
+    "movement": 2,
+    "uniques": [
+      "Can hurry technology research",
+      "Can instantly construct a [Academy] improvement <by consuming this unit>",
+      "Is part of Great Person group [Scientist]",
+      "Great Person - [Science]",
+      "Unbuildable",
+      "Uncapturable"
+    ]
+  },
+  {
+    "name": "Director of Football",
+    "unitType": "Civilian",
+    "movement": 2,
+    "uniques": [
+      "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+      "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+      "Is part of Great Person group [Merchant]",
+      "Great Person - [Gold]",
+      "Unbuildable",
+      "Uncapturable"
+    ]
+  },
+  {
+    "name": "SS Booster",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 500,
+    "requiredTech": "Oil State Takeover",
+    "uniques": [
+      "Spaceship part",
+      "Cannot be purchased",
+      "Only available <if [Apollo Program] is constructed>",
+      "Uncapturable",
+      "Can be added to [The Spaceship] in the Capital",
+      "Limited to [3] per Civilization",
+      "Only available <when [Scientific] Victory is enabled>"
+    ]
+  },
+  {
+    "name": "SS Cockpit",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 650,
+    "requiredTech": "Global Franchise",
+    "uniques": [
+      "Spaceship part",
+      "Cannot be purchased",
+      "Only available <if [Apollo Program] is constructed>",
+      "Uncapturable",
+      "Can be added to [The Spaceship] in the Capital",
+      "Limited to [1] per Civilization",
+      "Only available <when [Scientific] Victory is enabled>"
+    ]
+  },
+  {
+    "name": "SS Engine",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 650,
+    "requiredTech": "Multi-Club Model",
+    "uniques": [
+      "Spaceship part",
+      "Cannot be purchased",
+      "Only available <if [Apollo Program] is constructed>",
+      "Uncapturable",
+      "Can be added to [The Spaceship] in the Capital",
+      "Limited to [1] per Civilization",
+      "Only available <when [Scientific] Victory is enabled>"
+    ]
+  },
+  {
+    "name": "SS Stasis Chamber",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 650,
+    "requiredTech": "Fan Ownership Crackdown",
+    "uniques": [
+      "Spaceship part",
+      "Cannot be purchased",
+      "Only available <if [Apollo Program] is constructed>",
+      "Uncapturable",
+      "Can be added to [The Spaceship] in the Capital",
+      "Limited to [1] per Civilization",
+      "Only available <when [Scientific] Victory is enabled>"
+    ]
   }
 ]
