@@ -13,9 +13,7 @@
     "unitType": "Civilian",
     "movement": 2,
     "cost": 50,
-    "uniques": [
-      "Can build [Improvements]"
-    ]
+    "uniques": []
   },
   {
     "name": "Youth Prospect",
