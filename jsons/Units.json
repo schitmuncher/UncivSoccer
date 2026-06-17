@@ -11,10 +11,7 @@
     "movement": 2,
     "strength": 10,
     "requiredTech": "Sunday League",
-    "cost": 50,
-    "uniques": [
-      "[+15]% Strength <in [Friendly] territory>"
-    ]
+    "cost": 50
   },
   {
     "name": "Stone Island Shithouse",
@@ -22,9 +19,6 @@
     "movement": 2,
     "strength": 25,
     "requiredTech": "Local Hero",
-    "cost": 100,
-    "uniques": [
-      "[+25]% Strength <in [Enemy] territory>"
-    ]
+    "cost": 100
   }
 ]
