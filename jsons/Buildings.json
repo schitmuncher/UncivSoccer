@@ -446,7 +446,7 @@
     "cityStrength": 3,
     "cost": 170,
     "maintenance": 2,
-    "requiredTech": "The Offside Trap",
+    "requiredTech": "Offside Trap",
     "uniques": [
       "Enemy units that enter your territory have their movement points instantly reduced to zero for one turn"
     ],
