@@ -1,5 +1,7 @@
 {
   "name": "Proper Football",
-  "author": "Sam",
-  "description": "The ultimate shithouse football simulator."
+  "author": "Open Source Engineering",
+  "description": "Total conversion Sunday League to Super League simulator.",
+  "version": "1.0",
+  "shortDescription": "It's coming home."
 }
