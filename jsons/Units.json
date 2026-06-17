@@ -295,10 +295,9 @@
     "requiredTech": "The Laptop Guru",
     "uniques": [
       "Can undertake a spy mission",
-      "Can steal [250] [Science] from enemy civilizations <by expending this unit>",
       "Unbuildable"
     ],
     "icon": "SettlerAtlas_256",
-    "description": "Spy - Steals tactical knowledge and reveals enemy positions. Can steal 250 Science points from enemy civilizations. Movement: 2. Cost: 200. Unbuildable. One-time use. Requires 'The Laptop Guru' tech."
+    "description": "Spy - Steals tactical knowledge and reveals enemy positions. Can undertake spy missions with special bonuses. Movement: 2. Cost: 200. Unbuildable. One-time use. Requires 'The Laptop Guru' tech."
   }
 ]
