@@ -3,12 +3,14 @@
     "name": "Arsenal",
     "leaderName": "Mikel Arteta",
     "adjective": "Arsenal",
-    "cities": ["Emirates Stadium", "Highbury"]
-  },
-  {
-    "name": "Aston Villa",
-    "leaderName": "Unai Emery",
-    "adjective": "Villa",
-    "cities": ["Villa Park"]
+    "innerColor": [255, 0, 0],
+    "outerColor": [255, 255, 255],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+    "uniques": [],
+    "cities": [
+      "Emirates Stadium",
+      "Highbury"
+    ]
   }
 ]
