@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Domination",
+    "victoryScreenHeader": "Champions of the League",
+    "victoryString": "The world has succumbed to your tactical superiority! Your triumph will be remembered as long as men exist!",
+    "defeatString": "Your civilization has been overthrown, and your dreams of dominance are no more.",
+    "milestones": [
+      "Destroy all players"
+    ]
+  }
+]
