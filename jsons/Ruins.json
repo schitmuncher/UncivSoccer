@@ -59,5 +59,78 @@
     "uniques": [
       "[This Unit] upgrades for free including special upgrades"
     ]
+  },
+  {
+    "name": "legendary manager emerges from retirement",
+    "notification": "A legendary manager has come out of retirement to lead our club!",
+    "uniques": [
+      "Free [Master Tactician] found in the ruins"
+    ],
+    "color": "#ff6b6b"
+  },
+  {
+    "name": "local star returns from abroad",
+    "notification": "Our club legend returns from an international career!",
+    "uniques": [
+      "Free [Club Legend] found in the ruins"
+    ],
+    "color": "#4ecdc4"
+  },
+  {
+    "name": "transfer deal materializes",
+    "notification": "An unexpected signing has arrived at the training ground!",
+    "uniques": [
+      "Free [Stone Island Shithouse] found in the ruins"
+    ],
+    "color": "#ffe66d"
+  },
+  {
+    "name": "academy prospects excel",
+    "notification": "Young prospects from the academy are ready for first team!",
+    "uniques": [
+      "Free [Youth Prospect] found in the ruins"
+    ],
+    "color": "#95e1d3"
+  },
+  {
+    "name": "historic trophy discovered",
+    "notification": "We have unearthed one of our club's greatest trophies!",
+    "uniques": [
+      "Gain [75] [Culture] <(modified by game speed)>"
+    ],
+    "color": "#ffd700"
+  },
+  {
+    "name": "rival manager scandal",
+    "notification": "A scandal has weakened a rival manager! Diplomatic advantage gained.",
+    "uniques": [
+      "Gain [20] [Diplomatic Visibility] with random civilization"
+    ],
+    "color": "#e74c3c"
+  },
+  {
+    "name": "stadium blueprints uncovered",
+    "notification": "Ancient stadium designs inspire a new structure!",
+    "uniques": [
+      "Free [Training Pitch] building appears in the city of [cityName]"
+    ],
+    "color": "#a29bfe"
+  },
+  {
+    "name": "historic derby match record",
+    "notification": "Records of an epic derby victory inspire the team!",
+    "uniques": [
+      "Gain [15] [Combat Experience] for all military units"
+    ],
+    "color": "#ff7675"
+  },
+  {
+    "name": "philanthropist investor",
+    "notification": "A wealthy philanthropist wants to invest in the club!",
+    "uniques": [
+      "Gain [100]-[200] [Gold] <(modified by game speed)>",
+      "Free [Chairman] found in the ruins"
+    ],
+    "color": "#fdcb6e"
   }
 ]

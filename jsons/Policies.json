@@ -306,5 +306,317 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Tactical Innovation",
+    "era": "Football League",
+    "priorities": {
+      "Neutral": 20,
+      "Cultural": 5,
+      "Diplomatic": 0,
+      "Domination": 15,
+      "Scientific": 25
+    },
+    "uniques": [
+      "[+2 Science] [in all cities]",
+      "[-50]% Tech cost of techs in the [Football League] era [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Formation Study",
+        "uniques": [
+          "[+1 Science] [in capital]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Video Analysis",
+        "uniques": [
+          "[+15]% Science [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Set-Piece Mastery",
+        "uniques": [
+          "[+20]% Production when building [Military] units [in all cities]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Formation Study"
+        ]
+      },
+      {
+        "name": "Counter-Attack Drills",
+        "uniques": [
+          "[+10]% Strength <for [All] units> <when defending>"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Video Analysis"
+        ]
+      },
+      {
+        "name": "Tactical Innovation Complete",
+        "uniques": [
+          "[+2 Science] [in all cities]",
+          "[+10]% Strength <for [All] units>"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "International Ambition",
+    "era": "Premier Era",
+    "priorities": {
+      "Neutral": 5,
+      "Cultural": 15,
+      "Diplomatic": 25,
+      "Domination": 5,
+      "Scientific": 15
+    },
+    "uniques": [
+      "[+3 Gold] from Trade Routes [in all cities]",
+      "[+1 Culture] [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "European Tour",
+        "uniques": [
+          "[+1 Culture] [in all cities]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Continental Sponsorships",
+        "uniques": [
+          "[+2 Gold] from Trade Routes [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "International Players",
+        "uniques": [
+          "[+2 Diplomatic Visibility] with all civilizations"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "European Tour"
+        ]
+      },
+      {
+        "name": "Global Merchandise",
+        "uniques": [
+          "[+20]% Gold [in all cities]"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Continental Sponsorships"
+        ]
+      },
+      {
+        "name": "International Ambition Complete",
+        "uniques": [
+          "[+3 Gold] from Trade Routes [in all cities]",
+          "[+2 Diplomatic Visibility] with all civilizations"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Community Roots",
+    "era": "Grassroots",
+    "priorities": {
+      "Neutral": 15,
+      "Cultural": 25,
+      "Diplomatic": 15,
+      "Domination": 0,
+      "Scientific": 5
+    },
+    "uniques": [
+      "[+3 Happiness] [in all cities]",
+      "[+1 Culture] [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Free Entry Days",
+        "uniques": [
+          "[+2 Happiness] [in capital]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Local Community Programs",
+        "uniques": [
+          "[+1 Culture] [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Charity Matches",
+        "uniques": [
+          "[+1 Happiness] [in all cities]",
+          "[+1 Culture] [in all cities]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Free Entry Days"
+        ]
+      },
+      {
+        "name": "Fan Engagement",
+        "uniques": [
+          "[+2 Happiness] per [2] population [in all cities]"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Local Community Programs"
+        ]
+      },
+      {
+        "name": "Community Roots Complete",
+        "uniques": [
+          "[+4 Happiness] [in all cities]",
+          "[+2 Culture] [in all cities]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Financial Fair Play",
+    "era": "Premier Era",
+    "priorities": {
+      "Neutral": 10,
+      "Cultural": 5,
+      "Diplomatic": 25,
+      "Domination": 0,
+      "Scientific": 10
+    },
+    "uniques": [
+      "[+15]% Gold [in all cities]",
+      "[+1 Diplomatic Visibility] with all civilizations"
+    ],
+    "policies": [
+      {
+        "name": "Salary Cap Regulation",
+        "uniques": [
+          "[+10]% Gold [in all cities]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Revenue Sharing",
+        "uniques": [
+          "[+1 Gold] from Trade Routes [in all cities]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Balanced Budget",
+        "uniques": [
+          "[+2 Gold] [in all cities]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Salary Cap Regulation"
+        ]
+      },
+      {
+        "name": "Transparency Protocol",
+        "uniques": [
+          "[+2 Diplomatic Visibility] with all civilizations"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Revenue Sharing"
+        ]
+      },
+      {
+        "name": "Financial Fair Play Complete",
+        "uniques": [
+          "[+20]% Gold [in all cities]",
+          "[+2 Diplomatic Visibility] with all civilizations"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stadium Legacy",
+    "era": "Football League",
+    "priorities": {
+      "Neutral": 15,
+      "Cultural": 25,
+      "Diplomatic": 10,
+      "Domination": 0,
+      "Scientific": 5
+    },
+    "uniques": [
+      "[+4 Culture] [in all cities]",
+      "[+15]% Culture [in all cities]"
+    ],
+    "policies": [
+      {
+        "name": "Historic Ground Preservation",
+        "uniques": [
+          "[+2 Culture] [in capital]"
+        ],
+        "row": 1,
+        "column": 1
+      },
+      {
+        "name": "Stadium Monument",
+        "uniques": [
+          "[+3 Culture] [in capital]"
+        ],
+        "row": 1,
+        "column": 3
+      },
+      {
+        "name": "Capacity Expansion",
+        "uniques": [
+          "[+2 Production] [in capital]",
+          "[+1 Happiness] [in all cities]"
+        ],
+        "row": 2,
+        "column": 2,
+        "requires": [
+          "Historic Ground Preservation"
+        ]
+      },
+      {
+        "name": "Iconic Moments Exhibition",
+        "uniques": [
+          "[+4 Culture] [in capital]"
+        ],
+        "row": 2,
+        "column": 4,
+        "requires": [
+          "Stadium Monument"
+        ]
+      },
+      {
+        "name": "Stadium Legacy Complete",
+        "uniques": [
+          "[+5 Culture] [in all cities]",
+          "[+25]% Culture [in all cities]"
+        ]
+      }
+    ]
   }
 ]

@@ -202,5 +202,194 @@
       "Cannot be hurried"
     ],
     "icon": "WonderAtlas_256"
+  },
+  {
+    "name": "Medical Center",
+    "gold": 1,
+    "maintenance": 1,
+    "science": 1,
+    "requiredTech": "Sports Science",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[This Unit] heals [50] HP <when above [50] HP> <when defending>"
+    ]
+  },
+  {
+    "name": "Analytics Office",
+    "science": 4,
+    "gold": 1,
+    "cost": 250,
+    "maintenance": 2,
+    "requiredTech": "Analytics Department",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+15]% Science in all cities"
+    ]
+  },
+  {
+    "name": "Tactical War Room",
+    "science": 2,
+    "production": 1,
+    "cost": 150,
+    "maintenance": 1,
+    "requiredTech": "Set-Piece Laboratories",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "New [Military] units start with [35] XP [in this city]"
+    ]
+  },
+  {
+    "name": "Museum of Legends",
+    "culture": 5,
+    "happiness": 2,
+    "cost": 200,
+    "maintenance": 1,
+    "requiredTech": "Global Branding",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+5] Culture in all cities",
+      "[+25]% Culture [in all cities]"
+    ]
+  },
+  {
+    "name": "Broadcasting Studio",
+    "gold": 3,
+    "culture": 2,
+    "cost": 120,
+    "maintenance": 1,
+    "requiredTech": "Broadcast Rights",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+1] Gold from Great Merchant points",
+      "Provides [3] Culture per Trade Route"
+    ]
+  },
+  {
+    "name": "Youth Development Center",
+    "production": 2,
+    "science": 1,
+    "happiness": 1,
+    "cost": 180,
+    "maintenance": 1,
+    "requiredTech": "Elite Academies",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+25]% Great People generation",
+      "New [Civilian] units start with [5] XP [in this city]"
+    ]
+  },
+  {
+    "name": "Sponsorship Office",
+    "gold": 6,
+    "cost": 140,
+    "maintenance": 2,
+    "requiredTech": "Corporate Hospitality",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+30]% Gold from international trade routes",
+      "[+2] Gold per Trade Route"
+    ]
+  },
+  {
+    "name": "Elite Coaching Staff",
+    "science": 3,
+    "production": 1,
+    "cost": 200,
+    "maintenance": 2,
+    "requiredTech": "Pro Coaching",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "New [Military] units start with [20] XP [in this city]",
+      "[+10]% Production when building [Military] units"
+    ]
+  },
+  {
+    "name": "Merchandise Factory",
+    "gold": 4,
+    "production": 2,
+    "cost": 160,
+    "maintenance": 1,
+    "requiredTech": "Shirt Sales",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+2] Gold from culture",
+      "Provides [2] Culture per Trade Route"
+    ]
+  },
+  {
+    "name": "Media Center",
+    "culture": 3,
+    "gold": 2,
+    "cost": 130,
+    "maintenance": 1,
+    "requiredTech": "Global Branding",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+1] Tourism from culture",
+      "[+20]% Culture [in all cities]"
+    ]
+  },
+  {
+    "name": "Stadium Hospitality Suite",
+    "happiness": 3,
+    "gold": 4,
+    "cost": 170,
+    "maintenance": 2,
+    "requiredTech": "Hospitality Suites",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+30]% Gold from all sources",
+      "[+2] Happiness [in all cities]"
+    ]
+  },
+  {
+    "name": "Training Grounds Expansion",
+    "production": 3,
+    "cost": 100,
+    "maintenance": 1,
+    "requiredTech": "Basic Drills",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+15]% Production when building [Military] units"
+    ]
+  },
+  {
+    "name": "Scouting Lodge",
+    "production": 1,
+    "science": 2,
+    "cost": 90,
+    "maintenance": 1,
+    "requiredTech": "Scouting Network",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+20]% Experience gain for non-combat units",
+      "[+1] Science in all cities"
+    ]
+  },
+  {
+    "name": "Stadium Security",
+    "happiness": 1,
+    "cityStrength": 3,
+    "cost": 110,
+    "maintenance": 1,
+    "requiredTech": "Security Theatre",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+25]% City Defense",
+      "[+2] Happiness when [2] Happiness below [0]"
+    ]
+  },
+  {
+    "name": "Ultra Support Center",
+    "culture": 4,
+    "happiness": 2,
+    "cost": 150,
+    "maintenance": 1,
+    "requiredTech": "Ultra Coordination",
+    "icon": "BuildingAtlas_256",
+    "uniques": [
+      "[+3] Culture in all cities",
+      "[+2] Happiness in all cities"
+    ]
   }
 ]
