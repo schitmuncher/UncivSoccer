@@ -6,17 +6,27 @@
   },
   {
     "name": "Local Boozer",
-    "requiredTech": "Local Hero",
+    "requiredTech": "Pub Meetups",
     "cost": 60
   },
   {
-    "name": "Training Academy",
-    "requiredTech": "Professionalism",
-    "cost": 120
+    "name": "Training Pitch",
+    "requiredTech": "Basic Drills",
+    "cost": 80
+  },
+  {
+    "name": "Club Shop",
+    "requiredTech": "Local Sponsorships",
+    "cost": 100
   },
   {
     "name": "Hospitality Box",
-    "requiredTech": "Global Brand",
-    "cost": 350
+    "requiredTech": "Corporate Hospitality",
+    "cost": 200
+  },
+  {
+    "name": "State-of-the-Art Academy",
+    "requiredTech": "Total Football",
+    "cost": 300
   }
 ]
