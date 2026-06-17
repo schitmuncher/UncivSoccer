@@ -3,7 +3,10 @@
     "name": "Groundstaff",
     "unitType": "Civilian",
     "movement": 2,
-    "cost": 50
+    "cost": 50,
+    "uniques": [
+      "Founds a new city"
+    ]
   },
   {
     "name": "Car Park Hardman",
