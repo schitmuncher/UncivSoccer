@@ -1,43 +1,71 @@
 [
   {
-    "name": "Sunday League",
+    "columnNumber": 0,
     "era": "Grassroots",
-    "cost": 20,
-    "column": 0,
-    "row": 1,
-    "uniques": []
+    "techCost": 20,
+    "buildingCost": 40,
+    "wonderCost": 80,
+    "techs": [
+      {
+        "name": "Sunday League",
+        "row": 1,
+        "cost": 20,
+        "uniques": []
+      }
+    ]
   },
   {
-    "name": "Local Hero",
+    "columnNumber": 1,
     "era": "Grassroots",
-    "cost": 40,
-    "column": 1,
-    "row": 1,
-    "prerequisites": [
-      "Sunday League"
-    ],
-    "uniques": []
+    "techCost": 40,
+    "buildingCost": 60,
+    "wonderCost": 120,
+    "techs": [
+      {
+        "name": "Local Hero",
+        "row": 1,
+        "cost": 40,
+        "prerequisites": [
+          "Sunday League"
+        ],
+        "uniques": []
+      }
+    ]
   },
   {
-    "name": "Professionalism",
+    "columnNumber": 2,
     "era": "Grassroots",
-    "cost": 90,
-    "column": 2,
-    "row": 1,
-    "prerequisites": [
-      "Local Hero"
-    ],
-    "uniques": []
+    "techCost": 90,
+    "buildingCost": 120,
+    "wonderCost": 200,
+    "techs": [
+      {
+        "name": "Professionalism",
+        "row": 1,
+        "cost": 90,
+        "prerequisites": [
+          "Local Hero"
+        ],
+        "uniques": []
+      }
+    ]
   },
   {
-    "name": "Global Brand",
+    "columnNumber": 3,
     "era": "Grassroots",
-    "cost": 150,
-    "column": 3,
-    "row": 1,
-    "prerequisites": [
-      "Professionalism"
-    ],
-    "uniques": []
+    "techCost": 150,
+    "buildingCost": 350,
+    "wonderCost": 500,
+    "techs": [
+      {
+        "name": "Global Brand",
+        "row": 1,
+        "cost": 150,
+        "prerequisites": [
+          "Professionalism"
+        ],
+        "uniques": []
+      }
+    ]
   }
 ]
