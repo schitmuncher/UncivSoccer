@@ -2,33 +2,21 @@
   {
     "name": "Dodgy Burger Van",
     "requiredTech": "Sunday League",
-    "cost": 40,
-    "uniques": [
-      "+1 [Food]"
-    ]
+    "cost": 40
   },
   {
     "name": "Local Boozer",
     "requiredTech": "Local Hero",
-    "cost": 60,
-    "uniques": [
-      "+2 [Faith]"
-    ]
+    "cost": 60
   },
   {
     "name": "Training Academy",
     "requiredTech": "Professionalism",
-    "cost": 120,
-    "uniques": [
-      "+3 [Science]"
-    ]
+    "cost": 120
   },
   {
     "name": "Hospitality Box",
     "requiredTech": "Global Brand",
-    "cost": 350,
-    "uniques": [
-      "+5 [Gold]"
-    ]
+    "cost": 350
   }
 ]
