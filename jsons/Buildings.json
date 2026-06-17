@@ -220,7 +220,9 @@
     "maintenance": 2,
     "requiredTech": "Analytics Department",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+15]% Science in all cities"
+    ]
   },
   {
     "name": "Tactical War Room",
@@ -242,7 +244,10 @@
     "maintenance": 1,
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+5] Culture in all cities",
+      "[+25]% Culture [in all cities]"
+    ]
   },
   {
     "name": "Broadcasting Studio",
@@ -252,7 +257,10 @@
     "maintenance": 1,
     "requiredTech": "Broadcast Rights",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+1] Gold from Great Merchant points",
+      "Provides [3] Culture per Trade Route"
+    ]
   },
   {
     "name": "Youth Development Center",
@@ -264,6 +272,7 @@
     "requiredTech": "Elite Academies",
     "icon": "BuildingAtlas_256",
     "uniques": [
+      "[+25]% Great People generation",
       "New [Civilian] units start with [5] XP [in this city]"
     ]
   },
@@ -274,7 +283,10 @@
     "maintenance": 2,
     "requiredTech": "Corporate Hospitality",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+30]% Gold from international trade routes",
+      "[+2] Gold per Trade Route"
+    ]
   },
   {
     "name": "Elite Coaching Staff",
@@ -285,7 +297,8 @@
     "requiredTech": "Pro Coaching",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "New [Military] units start with [20] XP [in this city]"
+      "New [Military] units start with [20] XP [in this city]",
+      "[+10]% Production when building [Military] units"
     ]
   },
   {
@@ -296,7 +309,10 @@
     "maintenance": 1,
     "requiredTech": "Shirt Sales",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+2] Gold from culture",
+      "Provides [2] Culture per Trade Route"
+    ]
   },
   {
     "name": "Media Center",
@@ -306,7 +322,10 @@
     "maintenance": 1,
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+1] Tourism from culture",
+      "[+20]% Culture [in all cities]"
+    ]
   },
   {
     "name": "Stadium Hospitality Suite",
@@ -316,7 +335,10 @@
     "maintenance": 2,
     "requiredTech": "Hospitality Suites",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+30]% Gold from all sources",
+      "[+2] Happiness [in all cities]"
+    ]
   },
   {
     "name": "Training Grounds Expansion",
@@ -325,7 +347,9 @@
     "maintenance": 1,
     "requiredTech": "Basic Drills",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+15]% Production when building [Military] units"
+    ]
   },
   {
     "name": "Scouting Lodge",
@@ -335,7 +359,10 @@
     "maintenance": 1,
     "requiredTech": "Scouting Network",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+20]% Experience gain for non-combat units",
+      "[+1] Science in all cities"
+    ]
   },
   {
     "name": "Stadium Security",
@@ -345,7 +372,10 @@
     "maintenance": 1,
     "requiredTech": "Security Theatre",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+25]% City Defense",
+      "[+2] Happiness when [2] Happiness below [0]"
+    ]
   },
   {
     "name": "Ultra Support Center",
@@ -355,7 +385,10 @@
     "maintenance": 1,
     "requiredTech": "Ultra Coordination",
     "icon": "BuildingAtlas_256",
-    "uniques": []
+    "uniques": [
+      "[+3] Culture in all cities",
+      "[+2] Happiness in all cities"
+    ]
   },
   {
     "name": "Minibus Depot",
