@@ -2,70 +2,35 @@
   {
     "columnNumber": 0,
     "era": "Grassroots",
-    "techCost": 20,
-    "buildingCost": 40,
-    "wonderCost": 80,
     "techs": [
-      {
-        "name": "Sunday League",
-        "row": 1,
-        "cost": 20,
-        "uniques": []
-      }
+      { "name": "Sunday League", "cost": 0, "row": 1, "uniques": [] }
     ]
   },
   {
     "columnNumber": 1,
     "era": "Grassroots",
-    "techCost": 40,
-    "buildingCost": 60,
-    "wonderCost": 120,
     "techs": [
-      {
-        "name": "Local Hero",
-        "row": 1,
-        "cost": 40,
-        "prerequisites": [
-          "Sunday League"
-        ],
-        "uniques": []
-      }
+      { "name": "Local Sponsorships", "cost": 40, "row": 0, "prerequisites": ["Sunday League"], "uniques": [] },
+      { "name": "Basic Drills", "cost": 40, "row": 1, "prerequisites": ["Sunday League"], "uniques": [] },
+      { "name": "Pub Meetups", "cost": 40, "row": 2, "prerequisites": ["Sunday League"], "uniques": [] }
     ]
   },
   {
     "columnNumber": 2,
     "era": "Grassroots",
-    "techCost": 90,
-    "buildingCost": 120,
-    "wonderCost": 200,
     "techs": [
-      {
-        "name": "Professionalism",
-        "row": 1,
-        "cost": 90,
-        "prerequisites": [
-          "Local Hero"
-        ],
-        "uniques": []
-      }
+      { "name": "Corporate Hospitality", "cost": 100, "row": 0, "prerequisites": ["Local Sponsorships"], "uniques": [] },
+      { "name": "Pro Coaching", "cost": 100, "row": 1, "prerequisites": ["Basic Drills"], "uniques": [] },
+      { "name": "Away Days", "cost": 100, "row": 2, "prerequisites": ["Pub Meetups"], "uniques": [] }
     ]
   },
   {
     "columnNumber": 3,
     "era": "Grassroots",
-    "techCost": 150,
-    "buildingCost": 350,
-    "wonderCost": 500,
     "techs": [
-      {
-        "name": "Global Brand",
-        "row": 1,
-        "cost": 150,
-        "prerequisites": [
-          "Professionalism"
-        ],
-        "uniques": []
-      }
+      { "name": "Global Brand", "cost": 250, "row": 0, "prerequisites": ["Corporate Hospitality"], "uniques": [] },
+      { "name": "Total Football", "cost": 250, "row": 1, "prerequisites": ["Pro Coaching"], "uniques": [] },
+      { "name": "Ultra Culture", "cost": 250, "row": 2, "prerequisites": ["Away Days"], "uniques": [] }
     ]
   }
 ]
