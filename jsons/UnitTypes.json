@@ -1,14 +1,18 @@
 [
   {
-    "name": "Melee"
+    "name": "Melee",
+    "movementType": "Land"
   },
   {
-    "name": "Civilian"
+    "name": "Civilian",
+    "movementType": "Land"
   },
   {
-    "name": "Scout"
+    "name": "Scout",
+    "movementType": "Land"
   },
   {
-    "name": "Ranged"
+    "name": "Ranged",
+    "movementType": "Land"
   }
 ]
