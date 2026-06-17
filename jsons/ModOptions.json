@@ -3,5 +3,9 @@
   "constants": {
     "maxCityWorkRadius": 3,
     "startingEra": "Grassroots"
-  }
+  },
+  "difficultiesToRemove": ["*"],
+  "ruinsToRemove": ["*"],
+  "victoryTypesToRemove": ["*"],
+  "globalUniquesToRemove": ["*"]
 }
