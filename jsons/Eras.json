@@ -6,6 +6,7 @@
     ],
     "startingSettlerUnit": "Chairman",
     "startingWorkerCount": 0,
+    "startingMilitaryUnit": "",
     "startPercent": 0,
     "uniques": []
   },
@@ -20,6 +21,7 @@
     "startingSettlerUnit": "Chairman",
     "startingWorkerCount": 1,
     "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "",
     "startPercent": 20,
     "uniques": []
   },
