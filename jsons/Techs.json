@@ -15,5 +15,25 @@
     "prerequisites": [
       "Sunday League"
     ]
+  },
+  {
+    "name": "Professionalism",
+    "era": "Grassroots",
+    "cost": 90,
+    "column": 2,
+    "row": 1,
+    "prerequisites": [
+      "Local Hero"
+    ]
+  },
+  {
+    "name": "Global Brand",
+    "era": "Grassroots",
+    "cost": 150,
+    "column": 3,
+    "row": 1,
+    "prerequisites": [
+      "Professionalism"
+    ]
   }
 ]
