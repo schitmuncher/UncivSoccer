@@ -1,4 +1,5 @@
 {
+  "modName": "Proper Football",
   "isBaseRuleset": true,
   "constants": {
     "maxCityWorkRadius": 3,
@@ -7,5 +8,7 @@
   "difficultiesToRemove": ["*"],
   "ruinsToRemove": ["*"],
   "victoryTypesToRemove": ["*"],
-  "globalUniquesToRemove": ["*"]
+  "globalUniquesToRemove": ["*"],
+  "unitTypesToRemove": ["*"],
+  "unitClassesToRemove": ["*"]
 }
