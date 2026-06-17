@@ -7,7 +7,8 @@
     "uniques": [
       "[+5]% Strength <for [All] units>",
       "[+15]% Production when constructing [All] wonders [in all cities]"
-    ]
+    ],
+    "icon": "GreatArtistAtlas_256"
   },
   {
     "name": "Master Tactician",
@@ -17,7 +18,8 @@
     "uniques": [
       "[+15]% Science [in all cities]",
       "[+1 Science] [in all cities]"
-    ]
+    ],
+    "icon": "GreatScientistAtlas_256"
   },
   {
     "name": "Scout Master",
@@ -27,7 +29,8 @@
     "uniques": [
       "[+20]% Experience gain for non-combat units",
       "[+1] Sight <for [{Land}] units>"
-    ]
+    ],
+    "icon": "GreatGeneralAtlas_256"
   },
   {
     "name": "Media Mogul",
@@ -37,7 +40,8 @@
     "uniques": [
       "[+30]% Tourism from culture",
       "[+2 Culture] [in all cities]"
-    ]
+    ],
+    "icon": "GreatMerchantAtlas_256"
   },
   {
     "name": "Physio Legend",
@@ -47,7 +51,8 @@
     "uniques": [
       "[This Unit] heals [100] HP <when above [50] HP>",
       "[+10]% Healing for all friendly units"
-    ]
+    ],
+    "icon": "GreatScientistAtlas_256"
   },
   {
     "name": "Director of Football",
@@ -57,7 +62,8 @@
     "uniques": [
       "[+25]% Great People generation",
       "[+2 Production] [in all cities]"
-    ]
+    ],
+    "icon": "GreatMerchantAtlas_256"
   },
   {
     "name": "Club Legend",
@@ -68,7 +74,8 @@
       "[+5 Culture] [in capital]",
       "[+25]% Culture [in all cities]",
       "[+3] Diplomatic Visibility with all civilizations"
-    ]
+    ],
+    "icon": "GreatArtistAtlas_256"
   },
   {
     "name": "Super League Billionaire",
@@ -78,7 +85,8 @@
     "uniques": [
       "[+50]% Gold [in all cities]",
       "[+5 Gold] [in all cities]"
-    ]
+    ],
+    "icon": "GreatMerchantAtlas_256"
   },
   {
     "name": "Grassroots Mentor",
@@ -88,7 +96,8 @@
     "uniques": [
       "[+20]% Production towards [Civilian] units [in all cities]",
       "[+1 Happiness] [in all cities]"
-    ]
+    ],
+    "icon": "GreatScientistAtlas_256"
   },
   {
     "name": "International Star",
@@ -98,6 +107,7 @@
     "uniques": [
       "[+3 Diplomatic Visibility] with all civilizations",
       "[+4 Culture] [in capital]"
-    ]
+    ],
+    "icon": "GreatArtistAtlas_256"
   }
 ]
