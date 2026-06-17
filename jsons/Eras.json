@@ -4,11 +4,10 @@
     "startingTechs": [
       "Sunday League"
     ],
-    "startingUnitTypes": [
-      "Chairman",
-      "Groundstaff",
-      "Youth Prospect"
-    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Youth Prospect",
     "startPercent": 0,
     "uniques": []
   },
@@ -20,11 +19,10 @@
       "Basic Drills",
       "Pub Meetups"
     ],
-    "startingUnitTypes": [
-      "Chairman",
-      "Groundstaff",
-      "Car Park Hardman"
-    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Car Park Hardman",
     "startPercent": 20,
     "uniques": []
   },
@@ -39,11 +37,10 @@
       "Offside Trap",
       "Pyro Culture"
     ],
-    "startingUnitTypes": [
-      "Chairman",
-      "Groundstaff",
-      "Stone Island Shithouse"
-    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Stone Island Shithouse",
     "startPercent": 40,
     "uniques": []
   },
@@ -64,11 +61,10 @@
       "Set-Piece Laboratories",
       "Stadium Hostility"
     ],
-    "startingUnitTypes": [
-      "Chairman",
-      "Groundstaff",
-      "Firm Leader"
-    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Firm Leader",
     "startPercent": 65,
     "uniques": []
   },
@@ -98,11 +94,10 @@
       "Elite Academies",
       "Security Theatre"
     ],
-    "startingUnitTypes": [
-      "Chairman",
-      "Groundstaff",
-      "Ultra Capo"
-    ],
+    "startingSettlerUnit": "Chairman",
+    "startingWorkerCount": 1,
+    "startingWorkerUnit": "Groundstaff",
+    "startingMilitaryUnit": "Ultra Capo",
     "startPercent": 85,
     "uniques": []
   }
