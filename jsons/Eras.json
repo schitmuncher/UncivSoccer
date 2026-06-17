@@ -3,6 +3,11 @@
     "name": "Grassroots",
     "researchAgreementCost": 100,
     "baseUnitBuyCost": 50,
-    "startPercent": 0
+    "startPercent": 0,
+    "startingSettlerCount": 1,
+    "startingSettlerUnit": "Groundstaff",
+    "startingWorkerCount": 0,
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "Car Park Hardman"
   }
 ]
