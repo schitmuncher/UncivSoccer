@@ -391,5 +391,89 @@
       "[+3] Culture in all cities",
       "[+2] Happiness in all cities"
     ]
+  },
+  {
+    "name": "Minibus Depot",
+    "production": 1,
+    "cost": 140,
+    "maintenance": 1,
+    "requiredTech": "Away Days",
+    "uniques": [
+      "[+1] Movement <for [All] units> <in this city>"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Megaphone Stand",
+    "happiness": 1,
+    "cityStrength": 5,
+    "cost": 160,
+    "maintenance": 2,
+    "requiredTech": "Terrace Chants",
+    "uniques": [
+      "Enemy units lose [5] HP at the end of their turn <within [1] tiles>",
+      "[+20]% Strength <when defending> <in this city>"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Pyro Stash",
+    "faith": 4,
+    "happiness": -1,
+    "cost": 180,
+    "maintenance": 2,
+    "requiredTech": "Ultra Culture",
+    "uniques": [
+      "[+3] Faith in all cities"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Tactics Board",
+    "science": 3,
+    "production": 1,
+    "cost": 150,
+    "maintenance": 2,
+    "requiredTech": "Terrace Chants",
+    "uniques": [
+      "[+15]% Science in all cities"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "High-Line Defense",
+    "science": 2,
+    "cityStrength": 3,
+    "cost": 170,
+    "maintenance": 2,
+    "requiredTech": "The Offside Trap",
+    "uniques": [
+      "Enemy units that enter your territory have their movement points instantly reduced to zero for one turn"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "Cryo-Chambers",
+    "science": 2,
+    "cost": 190,
+    "maintenance": 2,
+    "requiredTech": "Gegenpressing",
+    "uniques": [
+      "All military units heal [+50] HP when in this city"
+    ],
+    "icon": "BuildingAtlas_256"
+  },
+  {
+    "name": "xG Server Room",
+    "isWonder": true,
+    "science": 5,
+    "production": 2,
+    "cost": 800,
+    "requiredTech": "Data Analytics",
+    "uniques": [
+      "[+15]% Strength <against civilizations in lower eras>",
+      "[+50]% Science in all cities"
+    ],
+    "icon": "WonderAtlas_256"
   }
 ]

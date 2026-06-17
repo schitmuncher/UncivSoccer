@@ -224,5 +224,55 @@
       "Only available <when [Scientific] Victory is enabled>"
     ],
     "icon": "SettlerAtlas_256"
+  },
+  {
+    "name": "Coach Voyager",
+    "unitType": "Scout",
+    "movement": 4,
+    "strength": 6,
+    "cost": 45,
+    "requiredTech": "Away Days",
+    "uniques": [
+      "Can pillage tiles <outside your borders>"
+    ],
+    "icon": "ScoutAtlas_256"
+  },
+  {
+    "name": "Firm Capo",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 45,
+    "requiredTech": "The Firm",
+    "cost": 320,
+    "uniques": [
+      "[+25]% Strength bonus for [Military] units within [2] tiles",
+      "Cannot attack"
+    ],
+    "icon": "SwordmanAtlas_256"
+  },
+  {
+    "name": "Free-Kick Specialist",
+    "unitType": "Ranged",
+    "movement": 2,
+    "strength": 10,
+    "rangedStrength": 16,
+    "requiredTech": "Terrace Chants",
+    "cost": 95,
+    "uniques": [
+      "[+1] Range"
+    ],
+    "icon": "ArcherAtlas_256"
+  },
+  {
+    "name": "Laptop Guru",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 200,
+    "requiredTech": "The Laptop Guru",
+    "uniques": [
+      "Can undertake a spy mission",
+      "Can steal [250] [Science] from enemy civilizations <by expending this unit>"
+    ],
+    "icon": "SettlerAtlas_256"
   }
 ]

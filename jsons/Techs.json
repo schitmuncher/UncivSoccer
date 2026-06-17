@@ -406,5 +406,74 @@
         "uniques": []
       }
     ]
+  },
+  {
+    "columnNumber": 13,
+    "era": "Super League",
+    "techs": [
+      {
+        "name": "Terrace Chants",
+        "cost": 1400,
+        "row": 3,
+        "prerequisites": [
+          "Stadium Hostility"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 14,
+    "era": "Super League",
+    "techs": [
+      {
+        "name": "Ultra Culture",
+        "cost": 1600,
+        "row": 3,
+        "prerequisites": [
+          "Terrace Chants"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 15,
+    "era": "Super League",
+    "techs": [
+      {
+        "name": "The Firm",
+        "cost": 1800,
+        "row": 3,
+        "prerequisites": [
+          "Ultra Culture"
+        ],
+        "uniques": []
+      },
+      {
+        "name": "Data Analytics",
+        "cost": 1800,
+        "row": 2,
+        "prerequisites": [
+          "Analytics Department"
+        ],
+        "uniques": []
+      }
+    ]
+  },
+  {
+    "columnNumber": 16,
+    "era": "Super League",
+    "techs": [
+      {
+        "name": "The Laptop Guru",
+        "cost": 2000,
+        "row": 2,
+        "prerequisites": [
+          "Data Analytics"
+        ],
+        "uniques": []
+      }
+    ]
   }
 ]
