@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Sunday League",
+    "era": "Grassroots",
+    "cost": 20,
+    "column": 0,
+    "row": 1
+  },
+  {
+    "name": "Local Hero",
+    "era": "Grassroots",
+    "cost": 40,
+    "column": 1,
+    "row": 1,
+    "prerequisites": [
+      "Sunday League"
+    ]
+  }
+]
