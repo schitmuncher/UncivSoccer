@@ -1,0 +1,11 @@
+{
+  "modName": "Proper Football",
+  "modVersion": "1.0.0",
+  "lastUpdated": "2026-06-18",
+  "author": "schitmuncher",
+  "modUrl": "https://github.com/schitmuncher/UncivSoccer",
+  "defaultBranch": "main",
+  "constants": {
+    "maxCityWorkRadius": 3
+  }
+}
