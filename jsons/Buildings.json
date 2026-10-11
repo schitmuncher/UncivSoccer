@@ -96,15 +96,6 @@
     "icon": "BuildingAtlas_256"
   },
   {
-    "name": "Broadcast Studio",
-    "gold": 3,
-    "science": 3,
-    "cost": 240,
-    "maintenance": 3,
-    "requiredTech": "Broadcast Rights",
-    "icon": "BuildingAtlas_256"
-  },
-  {
     "name": "Ultra Wall",
     "happiness": 2,
     "cityStrength": 4,
@@ -212,7 +203,8 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "[This Unit] heals [50] HP <when above [50] HP> <when defending>"
-    ]
+    ],
+    "cost": 150
   },
   {
     "name": "Analytics Office",
@@ -390,6 +382,28 @@
     "uniques": [
       "[+3] Culture in all cities",
       "[+2] Happiness in all cities"
+    ]
+  },
+  {
+    "name": "Wembley Stadium",
+    "cost": 800,
+    "requiredTech": "Global Branding",
+    "icon": "BuildingAtlas_256",
+    "isWonder": true,
+    "uniques": [
+      "[+15]% Culture [in all cities]",
+      "[+3] Culture [in capital]"
+    ]
+  },
+  {
+    "name": "The Anfield Roar",
+    "cost": 700,
+    "requiredTech": "Stadium Hostility",
+    "icon": "BuildingAtlas_256",
+    "isWonder": true,
+    "uniques": [
+      "[+10]% Strength for cities <when defending>",
+      "[+2 Happiness] [in all cities]"
     ]
   }
 ]

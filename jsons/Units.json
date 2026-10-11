@@ -224,5 +224,87 @@
       "Only available <when [Scientific] Victory is enabled>"
     ],
     "icon": "SettlerAtlas_256"
+  },
+  {
+    "name": "Big Fat Dave",
+    "unitType": "Melee",
+    "movement": 1,
+    "strength": 40,
+    "cost": 200,
+    "requiredTech": "Firm Organization",
+    "uniques": [
+      "[+33]% Strength <when defending>"
+    ],
+    "icon": "SwordmanAtlas_256"
+  },
+  {
+    "name": "Bottle Thrower",
+    "unitType": "Ranged",
+    "movement": 2,
+    "strength": 6,
+    "rangedStrength": 18,
+    "cost": 60,
+    "requiredTech": "Pub Meetups",
+    "icon": "ArcherAtlas_256"
+  },
+  {
+    "name": "Flare Sniper",
+    "unitType": "Ranged",
+    "movement": 2,
+    "strength": 8,
+    "rangedStrength": 22,
+    "cost": 110,
+    "requiredTech": "Pyro Culture",
+    "icon": "ArcherAtlas_256"
+  },
+  {
+    "name": "Pyro Yob",
+    "unitType": "Ranged",
+    "movement": 2,
+    "strength": 10,
+    "rangedStrength": 28,
+    "cost": 150,
+    "requiredTech": "Stadium Hostility",
+    "icon": "ArcherAtlas_256"
+  },
+  {
+    "name": "Moped Lads",
+    "unitType": "Scout",
+    "movement": 4,
+    "strength": 10,
+    "cost": 70,
+    "requiredTech": "Away Days",
+    "icon": "ScoutAtlas_256"
+  },
+  {
+    "name": "Riot Van",
+    "unitType": "Melee",
+    "movement": 3,
+    "strength": 30,
+    "cost": 190,
+    "requiredTech": "Security Theatre",
+    "icon": "SwordmanAtlas_256"
+  },
+  {
+    "name": "Away Coach",
+    "unitType": "Civilian",
+    "movement": 4,
+    "cost": 120,
+    "requiredTech": "Away Days",
+    "icon": "SettlerAtlas_256"
+  },
+  {
+    "name": "The Gaffer",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 240,
+    "uniques": [
+      "[+15]% Strength bonus for [Military] units within [2] tiles",
+      "Is part of Great Person group [General]",
+      "Great Person - [Military]",
+      "Unbuildable",
+      "Uncapturable"
+    ],
+    "icon": "SettlerAtlas_256"
   }
 ]
