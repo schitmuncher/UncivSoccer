@@ -321,7 +321,7 @@
   },
   {
     "name": "Leicester City",
-    "leaderName": "Steve Cooper",
+    "leaderName": "Russell Martin",
     "adjective": [
       "Foxes"
     ],
@@ -514,7 +514,7 @@
   },
   {
     "name": "Southampton",
-    "leaderName": "Russell Martin",
+    "leaderName": "Tonda Eckert",
     "adjective": [
       "Saints"
     ],
@@ -579,7 +579,7 @@
   },
   {
     "name": "West Ham United",
-    "leaderName": "Julen Lopetegui",
+    "leaderName": "Nuno Espirito Santo",
     "adjective": [
       "Hammers"
     ],
@@ -611,7 +611,7 @@
   },
   {
     "name": "Wolverhampton Wanderers",
-    "leaderName": "Gary O Neil",
+    "leaderName": "Cesar Peixoto",
     "adjective": [
       "Wolves"
     ],
@@ -643,7 +643,7 @@
   },
   {
     "name": "Blackburn Rovers",
-    "leaderName": "John Eustace",
+    "leaderName": "Tony Mowbray",
     "adjective": [
       "Rovers"
     ],
@@ -675,7 +675,7 @@
   },
   {
     "name": "Bristol City",
-    "leaderName": "Liam Manning",
+    "leaderName": "Michael Skubala",
     "adjective": [
       "Robins"
     ],
@@ -707,7 +707,7 @@
   },
   {
     "name": "Burnley",
-    "leaderName": "Scott Parker",
+    "leaderName": "Nicky Hayen",
     "adjective": [
       "Clarets"
     ],
@@ -739,7 +739,7 @@
   },
   {
     "name": "Cardiff City",
-    "leaderName": "Erol Bulut",
+    "leaderName": "Brian Barry-Murphy",
     "adjective": [
       "Bluebirds"
     ],
@@ -803,7 +803,7 @@
   },
   {
     "name": "Derby County",
-    "leaderName": "Paul Warne",
+    "leaderName": "John Eustace",
     "adjective": [
       "Rams"
     ],
@@ -899,7 +899,7 @@
   },
   {
     "name": "Luton Town",
-    "leaderName": "Rob Edwards",
+    "leaderName": "Jack Wilshere",
     "adjective": [
       "Hatters"
     ],
@@ -931,7 +931,7 @@
   },
   {
     "name": "Middlesbrough",
-    "leaderName": "Michael Carrick",
+    "leaderName": "Kim Hellberg",
     "adjective": [
       "Boro"
     ],
@@ -963,7 +963,7 @@
   },
   {
     "name": "Millwall",
-    "leaderName": "Neil Harris",
+    "leaderName": "Alex Neil",
     "adjective": [
       "Lions"
     ],
@@ -996,7 +996,7 @@
   },
   {
     "name": "Norwich City",
-    "leaderName": "Johannes Hoff Thorup",
+    "leaderName": "Philippe Clement",
     "adjective": [
       "Canaries"
     ],
@@ -1028,7 +1028,7 @@
   },
   {
     "name": "Oxford United",
-    "leaderName": "Des Buckingham",
+    "leaderName": "Aaron Ramsey",
     "adjective": [
       "U's"
     ],
@@ -1060,7 +1060,7 @@
   },
   {
     "name": "Plymouth Argyle",
-    "leaderName": "Wayne Rooney",
+    "leaderName": "Tom Cleverley",
     "adjective": [
       "Pilgrims"
     ],
@@ -1156,7 +1156,7 @@
   },
   {
     "name": "Queens Park Rangers",
-    "leaderName": "Marti Cifuentes",
+    "leaderName": "Julien Stephan",
     "adjective": [
       "R's"
     ],
@@ -1220,7 +1220,7 @@
   },
   {
     "name": "Sheffield Wednesday",
-    "leaderName": "Danny Rohl",
+    "leaderName": "Henrik Pedersen",
     "adjective": [
       "Owls"
     ],
@@ -1252,7 +1252,7 @@
   },
   {
     "name": "Stoke City",
-    "leaderName": "Steven Schumacher",
+    "leaderName": "Mark Robins",
     "adjective": [
       "Potters"
     ],
@@ -1316,7 +1316,7 @@
   },
   {
     "name": "Swansea City",
-    "leaderName": "Luke Williams",
+    "leaderName": "Vitor Matos",
     "adjective": [
       "Swans"
     ],
@@ -1348,7 +1348,7 @@
   },
   {
     "name": "Watford",
-    "leaderName": "Tom Cleverley",
+    "leaderName": "Alessio Dionisi",
     "adjective": [
       "Hornets"
     ],
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "West Bromwich Albion",
-    "leaderName": "Carlos Corberan",
+    "leaderName": "James Morrison",
     "adjective": [
       "Baggies"
     ],
@@ -1413,7 +1413,7 @@
   },
   {
     "name": "Barnsley",
-    "leaderName": "Darrell Clarke",
+    "leaderName": "Daniel Stendel",
     "adjective": [
       "Tykes"
     ],
@@ -1477,7 +1477,7 @@
   },
   {
     "name": "Blackpool",
-    "leaderName": "Neil Critchley",
+    "leaderName": "Ian Evatt",
     "adjective": [
       "Seasiders"
     ],
@@ -1509,7 +1509,7 @@
   },
   {
     "name": "Bolton Wanderers",
-    "leaderName": "Ian Evatt",
+    "leaderName": "Steven Schumacher",
     "adjective": [
       "Wanderers"
     ],
@@ -1541,7 +1541,7 @@
   },
   {
     "name": "Bristol Rovers",
-    "leaderName": "Matt Taylor",
+    "leaderName": "Steve Evans",
     "adjective": [
       "Gas"
     ],
@@ -1573,7 +1573,7 @@
   },
   {
     "name": "Burton Albion",
-    "leaderName": "Mark Robinson",
+    "leaderName": "Gary Bowyer",
     "adjective": [
       "Brewers"
     ],
@@ -1605,7 +1605,7 @@
   },
   {
     "name": "Cambridge United",
-    "leaderName": "Garry Monk",
+    "leaderName": "Neil Harris",
     "adjective": [
       "U's"
     ],
@@ -1669,7 +1669,7 @@
   },
   {
     "name": "Crawley Town",
-    "leaderName": "Scott Lindsey",
+    "leaderName": "Colin Kazim-Richards",
     "adjective": [
       "Reds"
     ],
@@ -1701,7 +1701,7 @@
   },
   {
     "name": "Exeter City",
-    "leaderName": "Gary Caldwell",
+    "leaderName": "Matt Taylor",
     "adjective": [
       "Grecians"
     ],
@@ -1733,7 +1733,7 @@
   },
   {
     "name": "Huddersfield Town",
-    "leaderName": "Michael Duff",
+    "leaderName": "Martin Drury",
     "adjective": [
       "Terriers"
     ],
@@ -1797,7 +1797,7 @@
   },
   {
     "name": "Lincoln City",
-    "leaderName": "Michael Skubala",
+    "leaderName": "Chris Cohen & Tom Shaw",
     "adjective": [
       "Imps"
     ],
@@ -1861,7 +1861,7 @@
   },
   {
     "name": "Northampton Town",
-    "leaderName": "Jon Brady",
+    "leaderName": "Chris Hogg",
     "adjective": [
       "Cobblers"
     ],
@@ -1893,7 +1893,7 @@
   },
   {
     "name": "Peterborough United",
-    "leaderName": "Darren Ferguson",
+    "leaderName": "Luke Williams",
     "adjective": [
       "Posh"
     ],
@@ -1926,7 +1926,7 @@
   },
   {
     "name": "Reading",
-    "leaderName": "Ruben Selles",
+    "leaderName": "Leam Richardson",
     "adjective": [
       "Royals"
     ],
@@ -1958,7 +1958,7 @@
   },
   {
     "name": "Rotherham United",
-    "leaderName": "Steve Evans",
+    "leaderName": "Alex Bruce",
     "adjective": [
       "Millers"
     ],
@@ -1990,7 +1990,7 @@
   },
   {
     "name": "Shrewsbury Town",
-    "leaderName": "Paul Hurst",
+    "leaderName": "Gavin Cowan",
     "adjective": [
       "Shrews"
     ],
@@ -2054,7 +2054,7 @@
   },
   {
     "name": "Stockport County",
-    "leaderName": "Dave Challinor",
+    "leaderName": "Jimmy McNulty",
     "adjective": [
       "Hatters"
     ],
@@ -2086,7 +2086,7 @@
   },
   {
     "name": "Wigan Athletic",
-    "leaderName": "Shaun Maloney",
+    "leaderName": "Gary Caldwell",
     "adjective": [
       "Latics"
     ],
@@ -2151,7 +2151,7 @@
   },
   {
     "name": "Wycombe Wanderers",
-    "leaderName": "Matt Bloomfield",
+    "leaderName": "Michael Duff",
     "adjective": [
       "Chairboys"
     ],
@@ -2375,7 +2375,7 @@
   },
   {
     "name": "Cheltenham Town",
-    "leaderName": "Michael Flynn",
+    "leaderName": "Steve Cotterill",
     "adjective": [
       "Robins"
     ],
@@ -2535,7 +2535,7 @@
   },
   {
     "name": "Fleetwood Town",
-    "leaderName": "Charlie Adam",
+    "leaderName": "Matt Lawlor",
     "adjective": [
       "Cod Army"
     ],
@@ -2568,7 +2568,7 @@
   },
   {
     "name": "Gillingham",
-    "leaderName": "Mark Bonner",
+    "leaderName": "Gareth Ainsworth",
     "adjective": [
       "Gills"
     ],
@@ -2664,7 +2664,7 @@
   },
   {
     "name": "Milton Keynes Dons",
-    "leaderName": "Mike Williamson",
+    "leaderName": "Paul Warne",
     "adjective": [
       "Dons"
     ],
@@ -2728,7 +2728,7 @@
   },
   {
     "name": "Newport County",
-    "leaderName": "Nelson Jardim",
+    "leaderName": "Hayden Mullins",
     "adjective": [
       "Exiles"
     ],
@@ -2760,7 +2760,7 @@
   },
   {
     "name": "Notts County",
-    "leaderName": "Stuart Maynard",
+    "leaderName": "Martin Paterson",
     "adjective": [
       "Magpies"
     ],
@@ -2792,7 +2792,7 @@
   },
   {
     "name": "Port Vale",
-    "leaderName": "Darren Moore",
+    "leaderName": "Jon Brady",
     "adjective": [
       "Valiants"
     ],
@@ -2824,7 +2824,7 @@
   },
   {
     "name": "Salford City",
-    "leaderName": "Karl Robinson",
+    "leaderName": "Peter Cklamovski",
     "adjective": [
       "Ammies"
     ],
@@ -2857,7 +2857,7 @@
   },
   {
     "name": "Swindon Town",
-    "leaderName": "Mark Kennedy",
+    "leaderName": "Ian Holloway",
     "adjective": [
       "Robins"
     ],
@@ -2889,7 +2889,7 @@
   },
   {
     "name": "Tranmere Rovers",
-    "leaderName": "Nigel Adkins",
+    "leaderName": "Darrell Clarke",
     "adjective": [
       "Super White Army"
     ],
@@ -2921,7 +2921,7 @@
   },
   {
     "name": "Walsall",
-    "leaderName": "Mat Sadler",
+    "leaderName": "Lee Grant",
     "adjective": [
       "Saddlers"
     ],
