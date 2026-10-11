@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Pundit",
+    "color": [
+      70,
+      130,
+      200
+    ],
+    "science": 3,
+    "greatPersonPoints": {
+      "Scientist": 3
+    },
+    "uniques": []
+  },
+  {
+    "name": "Fan",
+    "color": [
+      200,
+      90,
+      160
+    ],
+    "culture": 3,
+    "greatPersonPoints": {
+      "Artist": 3
+    },
+    "uniques": []
+  },
+  {
+    "name": "Accountant",
+    "color": [
+      220,
+      180,
+      40
+    ],
+    "gold": 3,
+    "greatPersonPoints": {
+      "Merchant": 3
+    },
+    "uniques": []
+  },
+  {
+    "name": "Groundstaff",
+    "color": [
+      90,
+      150,
+      80
+    ],
+    "production": 2,
+    "uniques": []
+  }
+]

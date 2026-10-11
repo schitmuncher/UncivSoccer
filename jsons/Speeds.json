@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Quick",
+    "modifier": 0.67,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 20,
+        "untilTurn": 200
+      },
+      {
+        "yearsPerTurn": 5,
+        "untilTurn": 400
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 10000
+      }
+    ],
+    "uniques": []
+  },
+  {
+    "name": "Standard",
+    "modifier": 1.0,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 20,
+        "untilTurn": 200
+      },
+      {
+        "yearsPerTurn": 5,
+        "untilTurn": 400
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 10000
+      }
+    ],
+    "uniques": []
+  },
+  {
+    "name": "Epic",
+    "modifier": 1.5,
+    "startYear": -4000,
+    "turns": [
+      {
+        "yearsPerTurn": 20,
+        "untilTurn": 200
+      },
+      {
+        "yearsPerTurn": 5,
+        "untilTurn": 400
+      },
+      {
+        "yearsPerTurn": 1,
+        "untilTurn": 10000
+      }
+    ],
+    "uniques": []
+  }
+]
