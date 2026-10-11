@@ -198,14 +198,14 @@
       "Eagles"
     ],
     "innerColor": [
-      193,
-      37,
-      56
+      211,
+      102,
+      115
     ],
     "outerColor": [
-      27,
-      69,
-      143
+      24,
+      53,
+      105
     ],
     "startBias": [
       "Hill"
@@ -390,9 +390,9 @@
       "City"
     ],
     "innerColor": [
-      108,
-      172,
-      228
+      94,
+      148,
+      196
     ],
     "outerColor": [
       255,
@@ -598,9 +598,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Proper Away Days",
-    "uniques": [
-      "[+1] Sight <for [{Military} {Land}] units>"
-    ],
+    "uniques": [],
     "cities": [
       "London Stadium",
       "Upton Park",
@@ -776,9 +774,9 @@
       "Sky Blues"
     ],
     "innerColor": [
-      135,
-      206,
-      235
+      99,
+      149,
+      169
     ],
     "outerColor": [
       255,
@@ -886,9 +884,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Marching On Together",
-    "uniques": [
-      "[+1] Sight <for [{Military} {Land}] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Elland Road",
       "Thorp Arch",
@@ -984,7 +980,7 @@
     "uniqueName": "No One Likes Us",
     "uniques": [
       "[+10]% Strength <for [All] units>",
-      "[+5]% Strength for [All] units"
+      "+[5]% Strength <for [All] units>"
     ],
     "cities": [
       "The Den",
@@ -1528,9 +1524,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Trotters March",
-    "uniques": [
-      "[+1] Sight <for [{Military} {Land}] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Toughsheet Community Stadium",
       "Lostock",
@@ -3007,7 +3001,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "1874 Northwich"
+      "1874 Northwich Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3035,7 +3029,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Atherton Collieries"
+      "Atherton Collieries Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3063,7 +3057,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Bootle"
+      "Bootle Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3091,7 +3085,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Chasetown"
+      "Chasetown Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3119,7 +3113,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Clitheroe"
+      "Clitheroe Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3147,7 +3141,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Congleton Town"
+      "Congleton Town Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3175,7 +3169,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Hanley Town"
+      "Hanley Town Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3203,7 +3197,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Kidsgrove Athletic"
+      "Kidsgrove Athletic Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3231,7 +3225,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Lichfield City"
+      "Lichfield City Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3259,7 +3253,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Lower Breck"
+      "Lower Breck Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3287,7 +3281,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Mossley"
+      "Mossley Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3315,7 +3309,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Newcastle Town"
+      "Newcastle Town Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3343,7 +3337,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Padiham"
+      "Padiham Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3371,7 +3365,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Prescot Cables"
+      "Prescot Cables Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3399,7 +3393,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Runcorn Linnets"
+      "Runcorn Linnets Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3427,7 +3421,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Shifnal Town"
+      "Shifnal Town Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3455,7 +3449,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Stafford Rangers"
+      "Stafford Rangers Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3483,7 +3477,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Stalybridge Celtic"
+      "Stalybridge Celtic Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3511,7 +3505,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Vauxhall Motors"
+      "Vauxhall Motors Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3539,7 +3533,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Witton Albion"
+      "Witton Albion Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
@@ -3567,7 +3561,7 @@
     "uniqueName": "Non-League Pride",
     "uniques": [],
     "cities": [
-      "Wythenshawe"
+      "Wythenshawe Ground"
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"

@@ -121,7 +121,6 @@
     "movement": 2,
     "uniques": [
       "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-      "Can instantly construct a [Landmark] improvement <by consuming this unit>",
       "Is part of Great Person group [Artist]",
       "Great Person - [Culture]",
       "Unbuildable",
@@ -135,7 +134,6 @@
     "movement": 2,
     "uniques": [
       "Can hurry technology research",
-      "Can instantly construct a [Academy] improvement <by consuming this unit>",
       "Is part of Great Person group [Scientist]",
       "Great Person - [Science]",
       "Unbuildable",
@@ -149,7 +147,6 @@
     "movement": 2,
     "uniques": [
       "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-      "Can instantly construct a [Customs house] improvement <by consuming this unit>",
       "Is part of Great Person group [Merchant]",
       "Great Person - [Gold]",
       "Unbuildable",

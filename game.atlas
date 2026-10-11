@@ -1,0 +1,2028 @@
+game.png
+size: 2048,2432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UnitIcons/Chairman
+  rotate: false
+  xy: 0,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Groundstaff
+  rotate: false
+  xy: 128,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Youth Prospect
+  rotate: false
+  xy: 256,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Car Park Hardman
+  rotate: false
+  xy: 384,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Stone Island Shithouse
+  rotate: false
+  xy: 512,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Firm Leader
+  rotate: false
+  xy: 640,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Ultra Capo
+  rotate: false
+  xy: 768,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Set-Piece Specialist
+  rotate: false
+  xy: 896,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/The Physio
+  rotate: false
+  xy: 1024,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Sweeper Keeper
+  rotate: false
+  xy: 1152,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/The Pundit
+  rotate: false
+  xy: 1280,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Club Legend
+  rotate: false
+  xy: 1408,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Master Tactician
+  rotate: false
+  xy: 1536,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Director of Football
+  rotate: false
+  xy: 1664,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/SS Booster
+  rotate: false
+  xy: 1792,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/SS Cockpit
+  rotate: false
+  xy: 1920,0
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/SS Engine
+  rotate: false
+  xy: 0,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/SS Stasis Chamber
+  rotate: false
+  xy: 128,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Big Fat Dave
+  rotate: false
+  xy: 256,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Bottle Thrower
+  rotate: false
+  xy: 384,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Flare Sniper
+  rotate: false
+  xy: 512,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Pyro Yob
+  rotate: false
+  xy: 640,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Moped Lads
+  rotate: false
+  xy: 768,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Riot Van
+  rotate: false
+  xy: 896,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/Away Coach
+  rotate: false
+  xy: 1024,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+UnitIcons/The Gaffer
+  rotate: false
+  xy: 1152,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Palace
+  rotate: false
+  xy: 1280,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Dodgy Burger Van
+  rotate: false
+  xy: 1408,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Local Boozer
+  rotate: false
+  xy: 1536,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Training Pitch
+  rotate: false
+  xy: 1664,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Club Shop
+  rotate: false
+  xy: 1792,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Terraced End
+  rotate: false
+  xy: 1920,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Hospitality Box
+  rotate: false
+  xy: 0,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/VAR Room
+  rotate: false
+  xy: 128,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Youth Academy
+  rotate: false
+  xy: 256,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Transfer Department
+  rotate: false
+  xy: 384,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Ultra Wall
+  rotate: false
+  xy: 512,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Data Analytics Suite
+  rotate: false
+  xy: 640,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/State-of-the-Art Academy
+  rotate: false
+  xy: 768,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Security Office
+  rotate: false
+  xy: 896,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/The FA Cup
+  rotate: false
+  xy: 1024,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/The Invincibles Trophy
+  rotate: false
+  xy: 1152,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Apollo Program
+  rotate: false
+  xy: 1280,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Spaceship Factory
+  rotate: false
+  xy: 1408,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Utopia Project
+  rotate: false
+  xy: 1536,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Medical Center
+  rotate: false
+  xy: 1664,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Analytics Office
+  rotate: false
+  xy: 1792,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Tactical War Room
+  rotate: false
+  xy: 1920,256
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Museum of Legends
+  rotate: false
+  xy: 0,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Broadcasting Studio
+  rotate: false
+  xy: 128,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Youth Development Center
+  rotate: false
+  xy: 256,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Sponsorship Office
+  rotate: false
+  xy: 384,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Elite Coaching Staff
+  rotate: false
+  xy: 512,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Merchandise Factory
+  rotate: false
+  xy: 640,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Media Center
+  rotate: false
+  xy: 768,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Stadium Hospitality Suite
+  rotate: false
+  xy: 896,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Training Grounds Expansion
+  rotate: false
+  xy: 1024,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Scouting Lodge
+  rotate: false
+  xy: 1152,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Stadium Security
+  rotate: false
+  xy: 1280,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Ultra Support Center
+  rotate: false
+  xy: 1408,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/Wembley Stadium
+  rotate: false
+  xy: 1536,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+BuildingIcons/The Anfield Roar
+  rotate: false
+  xy: 1664,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Arsenal
+  rotate: false
+  xy: 1792,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Aston Villa
+  rotate: false
+  xy: 1920,384
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Bournemouth
+  rotate: false
+  xy: 0,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Brentford
+  rotate: false
+  xy: 128,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Brighton
+  rotate: false
+  xy: 256,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Chelsea
+  rotate: false
+  xy: 384,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Crystal Palace
+  rotate: false
+  xy: 512,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Everton
+  rotate: false
+  xy: 640,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Fulham
+  rotate: false
+  xy: 768,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Ipswich Town
+  rotate: false
+  xy: 896,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Leicester City
+  rotate: false
+  xy: 1024,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Liverpool
+  rotate: false
+  xy: 1152,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Manchester City
+  rotate: false
+  xy: 1280,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Manchester United
+  rotate: false
+  xy: 1408,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Newcastle United
+  rotate: false
+  xy: 1536,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Nottingham Forest
+  rotate: false
+  xy: 1664,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Southampton
+  rotate: false
+  xy: 1792,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Tottenham Hotspur
+  rotate: false
+  xy: 1920,512
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/West Ham United
+  rotate: false
+  xy: 0,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Wolverhampton Wanderers
+  rotate: false
+  xy: 128,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Blackburn Rovers
+  rotate: false
+  xy: 256,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Bristol City
+  rotate: false
+  xy: 384,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Burnley
+  rotate: false
+  xy: 512,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Cardiff City
+  rotate: false
+  xy: 640,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Coventry City
+  rotate: false
+  xy: 768,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Derby County
+  rotate: false
+  xy: 896,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Hull City
+  rotate: false
+  xy: 1024,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Leeds United
+  rotate: false
+  xy: 1152,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Luton Town
+  rotate: false
+  xy: 1280,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Middlesbrough
+  rotate: false
+  xy: 1408,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Millwall
+  rotate: false
+  xy: 1536,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Norwich City
+  rotate: false
+  xy: 1664,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Oxford United
+  rotate: false
+  xy: 1792,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Plymouth Argyle
+  rotate: false
+  xy: 1920,640
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Portsmouth
+  rotate: false
+  xy: 0,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Preston North End
+  rotate: false
+  xy: 128,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Queens Park Rangers
+  rotate: false
+  xy: 256,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Sheffield United
+  rotate: false
+  xy: 384,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Sheffield Wednesday
+  rotate: false
+  xy: 512,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Stoke City
+  rotate: false
+  xy: 640,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Sunderland
+  rotate: false
+  xy: 768,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Swansea City
+  rotate: false
+  xy: 896,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Watford
+  rotate: false
+  xy: 1024,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/West Bromwich Albion
+  rotate: false
+  xy: 1152,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Barnsley
+  rotate: false
+  xy: 1280,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Birmingham City
+  rotate: false
+  xy: 1408,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Blackpool
+  rotate: false
+  xy: 1536,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Bolton Wanderers
+  rotate: false
+  xy: 1664,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Bristol Rovers
+  rotate: false
+  xy: 1792,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Burton Albion
+  rotate: false
+  xy: 1920,768
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Cambridge United
+  rotate: false
+  xy: 0,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Charlton Athletic
+  rotate: false
+  xy: 128,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Crawley Town
+  rotate: false
+  xy: 256,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Exeter City
+  rotate: false
+  xy: 384,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Huddersfield Town
+  rotate: false
+  xy: 512,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Leyton Orient
+  rotate: false
+  xy: 640,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Lincoln City
+  rotate: false
+  xy: 768,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Mansfield Town
+  rotate: false
+  xy: 896,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Northampton Town
+  rotate: false
+  xy: 1024,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Peterborough United
+  rotate: false
+  xy: 1152,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Reading
+  rotate: false
+  xy: 1280,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Rotherham United
+  rotate: false
+  xy: 1408,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Shrewsbury Town
+  rotate: false
+  xy: 1536,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Stevenage
+  rotate: false
+  xy: 1664,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Stockport County
+  rotate: false
+  xy: 1792,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Wigan Athletic
+  rotate: false
+  xy: 1920,896
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Wrexham
+  rotate: false
+  xy: 0,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Wycombe Wanderers
+  rotate: false
+  xy: 128,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Accrington Stanley
+  rotate: false
+  xy: 256,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/AFC Wimbledon
+  rotate: false
+  xy: 384,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Barrow
+  rotate: false
+  xy: 512,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Bradford City
+  rotate: false
+  xy: 640,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Bromley
+  rotate: false
+  xy: 768,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Carlisle United
+  rotate: false
+  xy: 896,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Cheltenham Town
+  rotate: false
+  xy: 1024,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Chesterfield
+  rotate: false
+  xy: 1152,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Colchester United
+  rotate: false
+  xy: 1280,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Crewe Alexandra
+  rotate: false
+  xy: 1408,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Doncaster Rovers
+  rotate: false
+  xy: 1536,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Fleetwood Town
+  rotate: false
+  xy: 1664,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Gillingham
+  rotate: false
+  xy: 1792,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Grimsby Town
+  rotate: false
+  xy: 1920,1024
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Harrogate Town
+  rotate: false
+  xy: 0,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Milton Keynes Dons
+  rotate: false
+  xy: 128,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Morecambe
+  rotate: false
+  xy: 256,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Newport County
+  rotate: false
+  xy: 384,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Notts County
+  rotate: false
+  xy: 512,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Port Vale
+  rotate: false
+  xy: 640,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Salford City
+  rotate: false
+  xy: 768,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Swindon Town
+  rotate: false
+  xy: 896,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Tranmere Rovers
+  rotate: false
+  xy: 1024,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Walsall
+  rotate: false
+  xy: 1152,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Nantwich Town FC
+  rotate: false
+  xy: 1280,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/1874 Northwich
+  rotate: false
+  xy: 1408,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Atherton Collieries
+  rotate: false
+  xy: 1536,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Bootle
+  rotate: false
+  xy: 1664,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Chasetown
+  rotate: false
+  xy: 1792,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Clitheroe
+  rotate: false
+  xy: 1920,1152
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Congleton Town
+  rotate: false
+  xy: 0,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Hanley Town
+  rotate: false
+  xy: 128,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Kidsgrove Athletic
+  rotate: false
+  xy: 256,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Lichfield City
+  rotate: false
+  xy: 384,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Lower Breck
+  rotate: false
+  xy: 512,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Mossley
+  rotate: false
+  xy: 640,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Newcastle Town
+  rotate: false
+  xy: 768,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Padiham
+  rotate: false
+  xy: 896,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Prescot Cables
+  rotate: false
+  xy: 1024,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Runcorn Linnets
+  rotate: false
+  xy: 1152,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Shifnal Town
+  rotate: false
+  xy: 1280,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Stafford Rangers
+  rotate: false
+  xy: 1408,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Stalybridge Celtic
+  rotate: false
+  xy: 1536,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Vauxhall Motors
+  rotate: false
+  xy: 1664,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Witton Albion
+  rotate: false
+  xy: 1792,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+NationIcons/Wythenshawe
+  rotate: false
+  xy: 1920,1280
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Mikel Arteta
+  rotate: false
+  xy: 0,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Unai Emery
+  rotate: false
+  xy: 128,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Marco Rose
+  rotate: false
+  xy: 256,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Keith Andrews
+  rotate: false
+  xy: 384,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Fabian Hurzeler
+  rotate: false
+  xy: 512,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Xabi Alonso
+  rotate: false
+  xy: 640,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Pierre Sage
+  rotate: false
+  xy: 768,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/David Moyes
+  rotate: false
+  xy: 896,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Alvaro Arbeloa
+  rotate: false
+  xy: 1024,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Gary O'Neil
+  rotate: false
+  xy: 1152,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Russell Martin
+  rotate: false
+  xy: 1280,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Andoni Iraola
+  rotate: false
+  xy: 1408,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Enzo Maresca
+  rotate: false
+  xy: 1536,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Michael Carrick
+  rotate: false
+  xy: 1664,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Matthias Jaissle
+  rotate: false
+  xy: 1792,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Oliver Glasner
+  rotate: false
+  xy: 1920,1408
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Tonda Eckert
+  rotate: false
+  xy: 0,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Roberto De Zerbi
+  rotate: false
+  xy: 128,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Nuno Espirito Santo
+  rotate: false
+  xy: 256,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Cesar Peixoto
+  rotate: false
+  xy: 384,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Tony Mowbray
+  rotate: false
+  xy: 512,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Michael Skubala
+  rotate: false
+  xy: 640,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Nicky Hayen
+  rotate: false
+  xy: 768,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Brian Barry-Murphy
+  rotate: false
+  xy: 896,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Frank Lampard
+  rotate: false
+  xy: 1024,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/John Eustace
+  rotate: false
+  xy: 1152,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Sergej Jakirovic
+  rotate: false
+  xy: 1280,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Daniel Farke
+  rotate: false
+  xy: 1408,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Jack Wilshere
+  rotate: false
+  xy: 1536,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Kim Hellberg
+  rotate: false
+  xy: 1664,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Alex Neil
+  rotate: false
+  xy: 1792,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Philippe Clement
+  rotate: false
+  xy: 1920,1536
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Aaron Ramsey
+  rotate: false
+  xy: 0,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Tom Cleverley
+  rotate: false
+  xy: 128,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/John Mousinho
+  rotate: false
+  xy: 256,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Brian Clough
+  rotate: false
+  xy: 384,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Julien Stephan
+  rotate: false
+  xy: 512,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Chris Wilder
+  rotate: false
+  xy: 640,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Henrik Pedersen
+  rotate: false
+  xy: 768,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Mark Robins
+  rotate: false
+  xy: 896,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Regis Le Bris
+  rotate: false
+  xy: 1024,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Vitor Matos
+  rotate: false
+  xy: 1152,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Alessio Dionisi
+  rotate: false
+  xy: 1280,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/James Morrison
+  rotate: false
+  xy: 1408,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Daniel Stendel
+  rotate: false
+  xy: 1536,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Chris Davies
+  rotate: false
+  xy: 1664,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Ian Evatt
+  rotate: false
+  xy: 1792,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Steven Schumacher
+  rotate: false
+  xy: 1920,1664
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Steve Evans
+  rotate: false
+  xy: 0,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Gary Bowyer
+  rotate: false
+  xy: 128,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Neil Harris
+  rotate: false
+  xy: 256,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Nathan Jones
+  rotate: false
+  xy: 384,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Colin Kazim-Richards
+  rotate: false
+  xy: 512,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Matt Taylor
+  rotate: false
+  xy: 640,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Martin Drury
+  rotate: false
+  xy: 768,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Richie Wellens
+  rotate: false
+  xy: 896,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Chris Cohen & Tom Shaw
+  rotate: false
+  xy: 1024,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Nigel Clough
+  rotate: false
+  xy: 1152,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Chris Hogg
+  rotate: false
+  xy: 1280,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Luke Williams
+  rotate: false
+  xy: 1408,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Leam Richardson
+  rotate: false
+  xy: 1536,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Alex Bruce
+  rotate: false
+  xy: 1664,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Gavin Cowan
+  rotate: false
+  xy: 1792,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Alex Revell
+  rotate: false
+  xy: 1920,1792
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Jimmy McNulty
+  rotate: false
+  xy: 0,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Gary Caldwell
+  rotate: false
+  xy: 128,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Phil Parkinson
+  rotate: false
+  xy: 256,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Michael Duff
+  rotate: false
+  xy: 384,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/John Doolan
+  rotate: false
+  xy: 512,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Johnnie Jackson
+  rotate: false
+  xy: 640,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Stephen Clemence
+  rotate: false
+  xy: 768,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Graham Alexander
+  rotate: false
+  xy: 896,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Andy Woodman
+  rotate: false
+  xy: 1024,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Paul Simpson
+  rotate: false
+  xy: 1152,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Steve Cotterill
+  rotate: false
+  xy: 1280,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Paul Cook
+  rotate: false
+  xy: 1408,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Danny Cowley
+  rotate: false
+  xy: 1536,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Lee Bell
+  rotate: false
+  xy: 1664,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Grant McCann
+  rotate: false
+  xy: 1792,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Matt Lawlor
+  rotate: false
+  xy: 1920,1920
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Gareth Ainsworth
+  rotate: false
+  xy: 0,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/David Artell
+  rotate: false
+  xy: 128,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Simon Weaver
+  rotate: false
+  xy: 256,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Paul Warne
+  rotate: false
+  xy: 384,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Derek Adams
+  rotate: false
+  xy: 512,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Hayden Mullins
+  rotate: false
+  xy: 640,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Martin Paterson
+  rotate: false
+  xy: 768,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Jon Brady
+  rotate: false
+  xy: 896,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Peter Cklamovski
+  rotate: false
+  xy: 1024,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Ian Holloway
+  rotate: false
+  xy: 1152,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Darrell Clarke
+  rotate: false
+  xy: 1280,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Lee Grant
+  rotate: false
+  xy: 1408,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Ritchie Sutton
+  rotate: false
+  xy: 1536,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Bill Shankly
+  rotate: false
+  xy: 1664,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Bob Paisley
+  rotate: false
+  xy: 1792,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Herbert Chapman
+  rotate: false
+  xy: 1920,2048
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Don Revie
+  rotate: false
+  xy: 0,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Matt Busby
+  rotate: false
+  xy: 128,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Jock Stein
+  rotate: false
+  xy: 256,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Bill Nicholson
+  rotate: false
+  xy: 384,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Alf Ramsey
+  rotate: false
+  xy: 512,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Sir Alex Ferguson
+  rotate: false
+  xy: 640,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Kenny Dalglish
+  rotate: false
+  xy: 768,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Arsene Wenger
+  rotate: false
+  xy: 896,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Johan Cruyff
+  rotate: false
+  xy: 1024,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Bobby Robson
+  rotate: false
+  xy: 1152,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Howard Wilkinson
+  rotate: false
+  xy: 1280,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Terry Venables
+  rotate: false
+  xy: 1408,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Harry Redknapp
+  rotate: false
+  xy: 1536,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Dave Bassett
+  rotate: false
+  xy: 1664,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Graham Taylor
+  rotate: false
+  xy: 1792,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/Lawrie McMenemy
+  rotate: false
+  xy: 1920,2176
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
+LeaderIcons/George Graham
+  rotate: false
+  xy: 0,2304
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1

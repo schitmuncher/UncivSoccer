@@ -108,7 +108,7 @@
     "icon": "BuildingAtlas_256"
   },
   {
-    "name": "Analytics Department",
+    "name": "Data Analytics Suite",
     "science": 4,
     "cost": 300,
     "maintenance": 3,
@@ -201,9 +201,7 @@
     "science": 1,
     "requiredTech": "Sports Science",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[This Unit] heals [50] HP <when above [50] HP> <when defending>"
-    ],
+    "uniques": [],
     "cost": 150
   },
   {
@@ -215,7 +213,7 @@
     "requiredTech": "Analytics Department",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+15]% Science in all cities"
+      "+[15]% Science [in all cities]"
     ]
   },
   {
@@ -239,8 +237,8 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+5] Culture in all cities",
-      "[+25]% Culture [in all cities]"
+      "[+5 Culture] [in all cities]",
+      "+[25]% Culture [in all cities]"
     ]
   },
   {
@@ -252,8 +250,7 @@
     "requiredTech": "Broadcast Rights",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+1] Gold from Great Merchant points",
-      "Provides [3] Culture per Trade Route"
+      "[+3 Culture] from each Trade Route"
     ]
   },
   {
@@ -266,7 +263,7 @@
     "requiredTech": "Elite Academies",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+25]% Great People generation",
+      "+[25]% great person generation [in all cities]",
       "New [Civilian] units start with [5] XP [in this city]"
     ]
   },
@@ -278,8 +275,7 @@
     "requiredTech": "Corporate Hospitality",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+30]% Gold from international trade routes",
-      "[+2] Gold per Trade Route"
+      "[+2 Gold] from each Trade Route"
     ]
   },
   {
@@ -292,7 +288,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "New [Military] units start with [20] XP [in this city]",
-      "[+10]% Production when building [Military] units"
+      "+[10]% Production when constructing [Military] units [in all cities]"
     ]
   },
   {
@@ -305,7 +301,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "[+2] Gold from culture",
-      "Provides [2] Culture per Trade Route"
+      "[+2 Culture] from each Trade Route"
     ]
   },
   {
@@ -317,8 +313,7 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+1] Tourism from culture",
-      "[+20]% Culture [in all cities]"
+      "+[20]% Culture [in all cities]"
     ]
   },
   {
@@ -330,8 +325,7 @@
     "requiredTech": "Hospitality Suites",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+30]% Gold from all sources",
-      "[+2] Happiness [in all cities]"
+      "[+2 Happiness] [in all cities]"
     ]
   },
   {
@@ -342,7 +336,7 @@
     "requiredTech": "Basic Drills",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+15]% Production when building [Military] units"
+      "+[15]% Production when constructing [Military] units [in all cities]"
     ]
   },
   {
@@ -354,8 +348,7 @@
     "requiredTech": "Scouting Network",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+20]% Experience gain for non-combat units",
-      "[+1] Science in all cities"
+      "[+1 Science] [in all cities]"
     ]
   },
   {
@@ -366,10 +359,7 @@
     "maintenance": 1,
     "requiredTech": "Security Theatre",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+25]% City Defense",
-      "[+2] Happiness when [2] Happiness below [0]"
-    ]
+    "uniques": []
   },
   {
     "name": "Ultra Support Center",
@@ -380,8 +370,8 @@
     "requiredTech": "Ultra Coordination",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+3] Culture in all cities",
-      "[+2] Happiness in all cities"
+      "[+3 Culture] [in all cities]",
+      "[+2 Happiness] [in all cities]"
     ]
   },
   {
@@ -391,8 +381,8 @@
     "icon": "BuildingAtlas_256",
     "isWonder": true,
     "uniques": [
-      "[+15]% Culture [in all cities]",
-      "[+3] Culture [in capital]"
+      "+[15]% Culture [in all cities]",
+      "[+3 Culture] [in capital]"
     ]
   },
   {

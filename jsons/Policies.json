@@ -201,17 +201,13 @@
     "policies": [
       {
         "name": "Pub Conspiracy",
-        "uniques": [
-          "Units in cities cost no Maintenance"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Coach Convoys",
-        "uniques": [
-          "[+1] Sight <for [{Military} {Land}] units>"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
@@ -318,8 +314,7 @@
       "Scientific": 25
     },
     "uniques": [
-      "[+2 Science] [in all cities]",
-      "[-50]% Tech cost of techs in the [Football League] era [in all cities]"
+      "[+2 Science] [in all cities]"
     ],
     "policies": [
       {
@@ -333,7 +328,7 @@
       {
         "name": "Video Analysis",
         "uniques": [
-          "[+15]% Science [in all cities]"
+          "+[15]% Science [in all cities]"
         ],
         "row": 1,
         "column": 3
@@ -341,7 +336,7 @@
       {
         "name": "Set-Piece Mastery",
         "uniques": [
-          "[+20]% Production when building [Military] units [in all cities]"
+          "+[20]% Production when constructing [Military] units [in all cities]"
         ],
         "row": 2,
         "column": 2,
@@ -380,7 +375,7 @@
       "Scientific": 15
     },
     "uniques": [
-      "[+3 Gold] from Trade Routes [in all cities]",
+      "[+3 Gold] from each Trade Route",
       "[+1 Culture] [in all cities]"
     ],
     "policies": [
@@ -395,16 +390,14 @@
       {
         "name": "Continental Sponsorships",
         "uniques": [
-          "[+2 Gold] from Trade Routes [in all cities]"
+          "[+2 Gold] from each Trade Route"
         ],
         "row": 1,
         "column": 3
       },
       {
         "name": "International Players",
-        "uniques": [
-          "[+2 Diplomatic Visibility] with all civilizations"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -414,7 +407,7 @@
       {
         "name": "Global Merchandise",
         "uniques": [
-          "[+20]% Gold [in all cities]"
+          "+[20]% Gold [in all cities]"
         ],
         "row": 2,
         "column": 4,
@@ -425,8 +418,7 @@
       {
         "name": "International Ambition Complete",
         "uniques": [
-          "[+3 Gold] from Trade Routes [in all cities]",
-          "[+2 Diplomatic Visibility] with all civilizations"
+          "[+3 Gold] from each Trade Route"
         ]
       }
     ]
@@ -505,14 +497,13 @@
       "Scientific": 10
     },
     "uniques": [
-      "[+15]% Gold [in all cities]",
-      "[+1 Diplomatic Visibility] with all civilizations"
+      "+[15]% Gold [in all cities]"
     ],
     "policies": [
       {
         "name": "Salary Cap Regulation",
         "uniques": [
-          "[+10]% Gold [in all cities]"
+          "+[10]% Gold [in all cities]"
         ],
         "row": 1,
         "column": 1
@@ -520,7 +511,7 @@
       {
         "name": "Revenue Sharing",
         "uniques": [
-          "[+1 Gold] from Trade Routes [in all cities]"
+          "[+1 Gold] from each Trade Route"
         ],
         "row": 1,
         "column": 3
@@ -538,9 +529,7 @@
       },
       {
         "name": "Transparency Protocol",
-        "uniques": [
-          "[+2 Diplomatic Visibility] with all civilizations"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -550,8 +539,7 @@
       {
         "name": "Financial Fair Play Complete",
         "uniques": [
-          "[+20]% Gold [in all cities]",
-          "[+2 Diplomatic Visibility] with all civilizations"
+          "+[20]% Gold [in all cities]"
         ]
       }
     ]
@@ -568,7 +556,7 @@
     },
     "uniques": [
       "[+4 Culture] [in all cities]",
-      "[+15]% Culture [in all cities]"
+      "+[15]% Culture [in all cities]"
     ],
     "policies": [
       {
@@ -614,7 +602,7 @@
         "name": "Stadium Legacy Complete",
         "uniques": [
           "[+5 Culture] [in all cities]",
-          "[+25]% Culture [in all cities]"
+          "+[25]% Culture [in all cities]"
         ]
       }
     ]

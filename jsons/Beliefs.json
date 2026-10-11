@@ -1,11 +1,11 @@
 [
   {
-    "name": "Total Football",
+    "name": "Total Football Doctrine",
     "type": "Follower",
     "uniques": [
       "[+2 Science] [in all cities]",
       "[+1 Culture] [in all cities]",
-      "New [Military] units start with [15] XP"
+      "New [Military] units start with [15] XP [in all cities]"
     ]
   },
   {
@@ -22,7 +22,6 @@
     "type": "Follower",
     "uniques": [
       "[+15]% Strength <for [All] units> <when defending>",
-      "Units heal [5] HP when killing an enemy unit",
       "[+1 Gold] [in all cities]"
     ]
   },
@@ -30,9 +29,9 @@
     "name": "Possession Philosophy",
     "type": "Follower",
     "uniques": [
-      "[+20]% Gold [in all cities]",
+      "+[20]% Gold [in all cities]",
       "[+1 Science] [in all cities]",
-      "[+15]% Culture [in all cities]"
+      "+[15]% Culture [in all cities]"
     ]
   },
   {
@@ -50,7 +49,7 @@
     "uniques": [
       "[+25]% Strength for cities <when defending>",
       "[+2 Happiness] [in all cities]",
-      "New [Military] units start with [20] XP"
+      "New [Military] units start with [20] XP [in all cities]"
     ]
   },
   {
@@ -58,8 +57,7 @@
     "type": "Follower",
     "uniques": [
       "[+20]% Strength <for [All] units>",
-      "[+10]% Production when building [Military] units [in all cities]",
-      "Units gain [1] XP from kills"
+      "+[10]% Production when constructing [Military] units [in all cities]"
     ]
   },
   {
@@ -67,17 +65,15 @@
     "type": "Follower",
     "uniques": [
       "[+3 Culture] [in all cities]",
-      "[+2 Happiness] [in all cities]",
-      "Units in cities cost no Maintenance"
+      "[+2 Happiness] [in all cities]"
     ]
   },
   {
     "name": "Elite Academy Doctrine",
     "type": "Follower",
     "uniques": [
-      "[+25]% Great People generation",
-      "[+2 Science] [in all cities]",
-      "New [Military] units start with [25] XP"
+      "+[25]% great person generation [in all cities]",
+      "[+2 Science] [in all cities]"
     ]
   },
   {
@@ -85,8 +81,7 @@
     "type": "Follower",
     "uniques": [
       "[+3 Gold] [in all cities]",
-      "[+20]% Gold [in all cities]",
-      "[+1 Diplomatic Visibility] with all civilizations"
+      "+[20]% Gold [in all cities]"
     ]
   }
 ]
