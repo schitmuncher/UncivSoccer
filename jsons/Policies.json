@@ -214,7 +214,7 @@
       {
         "name": "Firm Discipline",
         "uniques": [
-          "[+10]% Strength <for [All] units>"
+          "[+10]% Strength"
         ],
         "row": 2,
         "column": 2,
@@ -236,7 +236,7 @@
       {
         "name": "Terrace Mentality Complete",
         "uniques": [
-          "[+15]% Strength <for [All] units>"
+          "[+15]% Strength"
         ]
       }
     ]
@@ -328,7 +328,7 @@
       {
         "name": "Video Analysis",
         "uniques": [
-          "+[15]% Science [in all cities]"
+          "[+15]% [Science] [in all cities]"
         ],
         "row": 1,
         "column": 3
@@ -336,7 +336,7 @@
       {
         "name": "Set-Piece Mastery",
         "uniques": [
-          "+[20]% Production when constructing [Military] units [in all cities]"
+          "[+20]% Production when constructing [Military] units [in all cities]"
         ],
         "row": 2,
         "column": 2,
@@ -359,7 +359,7 @@
         "name": "Tactical Innovation Complete",
         "uniques": [
           "[+2 Science] [in all cities]",
-          "[+10]% Strength <for [All] units>"
+          "[+10]% Strength"
         ]
       }
     ]
@@ -407,7 +407,7 @@
       {
         "name": "Global Merchandise",
         "uniques": [
-          "+[20]% Gold [in all cities]"
+          "[+20]% [Gold] [in all cities]"
         ],
         "row": 2,
         "column": 4,
@@ -497,13 +497,13 @@
       "Scientific": 10
     },
     "uniques": [
-      "+[15]% Gold [in all cities]"
+      "[+15]% [Gold] [in all cities]"
     ],
     "policies": [
       {
         "name": "Salary Cap Regulation",
         "uniques": [
-          "+[10]% Gold [in all cities]"
+          "[+10]% [Gold] [in all cities]"
         ],
         "row": 1,
         "column": 1
@@ -539,7 +539,7 @@
       {
         "name": "Financial Fair Play Complete",
         "uniques": [
-          "+[20]% Gold [in all cities]"
+          "[+20]% [Gold] [in all cities]"
         ]
       }
     ]
@@ -556,7 +556,7 @@
     },
     "uniques": [
       "[+4 Culture] [in all cities]",
-      "+[15]% Culture [in all cities]"
+      "[+15]% [Culture] [in all cities]"
     ],
     "policies": [
       {
@@ -602,7 +602,7 @@
         "name": "Stadium Legacy Complete",
         "uniques": [
           "[+5 Culture] [in all cities]",
-          "+[25]% Culture [in all cities]"
+          "[+25]% [Culture] [in all cities]"
         ]
       }
     ]

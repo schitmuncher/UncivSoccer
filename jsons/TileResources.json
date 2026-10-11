@@ -20,7 +20,7 @@
     ]
   },
   {
-    "name": "Broadcast Rights",
+    "name": "Broadcast Deal",
     "resourceType": "Strategic",
     "gold": 3,
     "production": 1,
@@ -39,7 +39,7 @@
     "science": 1,
     "gold": 1,
     "uniques": [
-      "+[15]% Science [in all cities]"
+      "[+15]% [Science] [in all cities]"
     ]
   },
   {
@@ -57,7 +57,7 @@
     "production": 2,
     "happiness": 1,
     "uniques": [
-      "+[10]% Production when constructing [Military] units [in all cities]"
+      "[+10]% Production when constructing [Military] units [in all cities]"
     ]
   },
   {
@@ -76,7 +76,7 @@
     "culture": 3,
     "happiness": 3,
     "uniques": [
-      "+[50]% Culture [in capital]",
+      "[+50]% [Culture] [in capital]",
       "[+3 Culture] from each Trade Route"
     ]
   },
@@ -103,7 +103,7 @@
     "culture": 4,
     "happiness": 3,
     "uniques": [
-      "+[25]% great person generation [in all cities]"
+      "[+25]% Great Person generation [in all cities]"
     ]
   },
   {

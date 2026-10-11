@@ -245,7 +245,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Proper Centre-Halves",
     "uniques": [
-      "[+10]% Strength <for [All] units>"
+      "[+10]% Strength"
     ],
     "cities": [
       "Goodison Park",
@@ -629,7 +629,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Counter-Attack Pack",
     "uniques": [
-      "[+10]% Strength <for [All] units>"
+      "[+10]% Strength"
     ],
     "cities": [
       "Molineux",
@@ -661,7 +661,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Lancashire Steel",
     "uniques": [
-      "[+10]% Strength <for [All] units>"
+      "[+10]% Strength"
     ],
     "cities": [
       "Ewood Park",
@@ -979,8 +979,8 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "No One Likes Us",
     "uniques": [
-      "[+10]% Strength <for [All] units>",
-      "+[5]% Strength <for [All] units>"
+      "[+10]% Strength",
+      "[+5]% Strength"
     ],
     "cities": [
       "The Den",
@@ -1429,7 +1429,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Oakwell Fight",
     "uniques": [
-      "[+10]% Strength <for [All] units>"
+      "[+10]% Strength"
     ],
     "cities": [
       "Oakwell",
@@ -1747,7 +1747,7 @@
     "preferredVictoryType": "Scientific",
     "uniqueName": "Terrier Tenacity",
     "uniques": [
-      "[+10]% Strength <for [All] units>"
+      "[+10]% Strength"
     ],
     "cities": [
       "John Smiths Stadium",
@@ -2357,7 +2357,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Border Battalion",
     "uniques": [
-      "[+10]% Strength <for [All] units>"
+      "[+10]% Strength"
     ],
     "cities": [
       "Brunton Park",
@@ -2614,7 +2614,7 @@
     "preferredVictoryType": "Domination",
     "uniqueName": "Mariner Resolve",
     "uniques": [
-      "[+10]% Strength <for [All] units>"
+      "[+10]% Strength"
     ],
     "cities": [
       "Blundell Park",

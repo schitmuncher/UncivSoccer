@@ -152,7 +152,7 @@
     "cost": 550,
     "requiredTech": "Total Football",
     "uniques": [
-      "[+15]% Strength <for [All] units>"
+      "[+15]% Strength"
     ],
     "icon": "WonderAtlas_256"
   },
@@ -213,7 +213,7 @@
     "requiredTech": "Analytics Department",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "+[15]% Science [in all cities]"
+      "[+15]% [Science] [in all cities]"
     ]
   },
   {
@@ -238,7 +238,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "[+5 Culture] [in all cities]",
-      "+[25]% Culture [in all cities]"
+      "[+25]% [Culture] [in all cities]"
     ]
   },
   {
@@ -263,7 +263,7 @@
     "requiredTech": "Elite Academies",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "+[25]% great person generation [in all cities]",
+      "[+25]% Great Person generation [in all cities]",
       "New [Civilian] units start with [5] XP [in this city]"
     ]
   },
@@ -288,7 +288,7 @@
     "icon": "BuildingAtlas_256",
     "uniques": [
       "New [Military] units start with [20] XP [in this city]",
-      "+[10]% Production when constructing [Military] units [in all cities]"
+      "[+10]% Production when constructing [Military] units [in all cities]"
     ]
   },
   {
@@ -300,7 +300,6 @@
     "requiredTech": "Shirt Sales",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+2] Gold from culture",
       "[+2 Culture] from each Trade Route"
     ]
   },
@@ -313,7 +312,7 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "+[20]% Culture [in all cities]"
+      "[+20]% [Culture] [in all cities]"
     ]
   },
   {
@@ -336,7 +335,7 @@
     "requiredTech": "Basic Drills",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "+[15]% Production when constructing [Military] units [in all cities]"
+      "[+15]% Production when constructing [Military] units [in all cities]"
     ]
   },
   {
@@ -381,7 +380,7 @@
     "icon": "BuildingAtlas_256",
     "isWonder": true,
     "uniques": [
-      "+[15]% Culture [in all cities]",
+      "[+15]% [Culture] [in all cities]",
       "[+3 Culture] [in capital]"
     ]
   },
