@@ -2983,5 +2983,593 @@
     ],
     "icon": "CivAtlas_256",
     "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "1874 Northwich",
+    "leaderName": "Bill Shankly",
+    "adjective": [
+      "1874 Northwich"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "1874 Northwich"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Atherton Collieries",
+    "leaderName": "Bob Paisley",
+    "adjective": [
+      "Atherton Collieries"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Atherton Collieries"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Bootle",
+    "leaderName": "Herbert Chapman",
+    "adjective": [
+      "Bootle"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Bootle"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Chasetown",
+    "leaderName": "Don Revie",
+    "adjective": [
+      "Chasetown"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Chasetown"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Clitheroe",
+    "leaderName": "Matt Busby",
+    "adjective": [
+      "Clitheroe"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Clitheroe"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Congleton Town",
+    "leaderName": "Jock Stein",
+    "adjective": [
+      "Congleton Town"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Congleton Town"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Hanley Town",
+    "leaderName": "Bill Nicholson",
+    "adjective": [
+      "Hanley Town"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Hanley Town"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Kidsgrove Athletic",
+    "leaderName": "Alf Ramsey",
+    "adjective": [
+      "Kidsgrove Athletic"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Kidsgrove Athletic"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Lichfield City",
+    "leaderName": "Sir Alex Ferguson",
+    "adjective": [
+      "Lichfield City"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Lichfield City"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Lower Breck",
+    "leaderName": "Brian Clough",
+    "adjective": [
+      "Lower Breck"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Lower Breck"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Mossley",
+    "leaderName": "Kenny Dalglish",
+    "adjective": [
+      "Mossley"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Mossley"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Newcastle Town",
+    "leaderName": "Arsene Wenger",
+    "adjective": [
+      "Newcastle Town"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Newcastle Town"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Padiham",
+    "leaderName": "Johan Cruyff",
+    "adjective": [
+      "Padiham"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Padiham"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Prescot Cables",
+    "leaderName": "Bobby Robson",
+    "adjective": [
+      "Prescot Cables"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Prescot Cables"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Runcorn Linnets",
+    "leaderName": "Howard Wilkinson",
+    "adjective": [
+      "Runcorn Linnets"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Runcorn Linnets"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Shifnal Town",
+    "leaderName": "Terry Venables",
+    "adjective": [
+      "Shifnal Town"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Shifnal Town"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Stafford Rangers",
+    "leaderName": "Harry Redknapp",
+    "adjective": [
+      "Stafford Rangers"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Stafford Rangers"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Stalybridge Celtic",
+    "leaderName": "Dave Bassett",
+    "adjective": [
+      "Stalybridge Celtic"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Stalybridge Celtic"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Vauxhall Motors",
+    "leaderName": "Graham Taylor",
+    "adjective": [
+      "Vauxhall Motors"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Vauxhall Motors"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Witton Albion",
+    "leaderName": "Lawrie McMenemy",
+    "adjective": [
+      "Witton Albion"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Witton Albion"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
+  },
+  {
+    "name": "Wythenshawe",
+    "leaderName": "George Graham",
+    "adjective": [
+      "Wythenshawe"
+    ],
+    "innerColor": [
+      60,
+      60,
+      60
+    ],
+    "outerColor": [
+      255,
+      255,
+      255
+    ],
+    "startBias": [
+      "Grassland"
+    ],
+    "preferredVictoryType": "Cultural",
+    "uniqueName": "Non-League Pride",
+    "uniques": [],
+    "cities": [
+      "Wythenshawe"
+    ],
+    "icon": "CivAtlas_256",
+    "leaderIcon": "LeaderAtlas_256"
   }
 ]
