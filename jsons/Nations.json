@@ -20,9 +20,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "The Invincibles",
-    "uniques": [
-      "[+15]% Strength <when defending> <for [All] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Emirates Stadium",
       "Highbury",
@@ -52,9 +50,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "European Evenings",
-    "uniques": [
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Villa Park",
       "Bodymoor Heath",
@@ -84,9 +80,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Front-Foot Football",
-    "uniques": [
-      "[+15]% XP gained from combat <for [Military] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Vitality Stadium",
       "Dean Court",
@@ -116,9 +110,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Data Department",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Gtech Community Stadium",
       "Griffin Park",
@@ -148,9 +140,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Recruitment Machine",
-    "uniques": [
-      "[+1 Gold] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Amex Stadium",
       "Withdean Stadium",
@@ -180,9 +170,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "The Loan Army",
-    "uniques": [
-      "[-25]% maintenance costs <for [Land] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Stamford Bridge",
       "Cobham",
@@ -212,9 +200,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Holmesdale Noise",
-    "uniques": [
-      "[+33]% Strength for cities <when defending>"
-    ],
+    "uniques": [],
     "cities": [
       "Selhurst Park",
       "Crystal Palace Park",
@@ -244,9 +230,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Proper Centre-Halves",
-    "uniques": [
-      "[+10]% Strength"
-    ],
+    "uniques": [],
     "cities": [
       "Goodison Park",
       "Bramley Moore Dock",
@@ -276,9 +260,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Riverside Style",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Craven Cottage",
       "Motspur Park",
@@ -308,9 +290,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Rapid Rise",
-    "uniques": [
-      "[+10]% growth [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Portman Road",
       "Playford Road",
@@ -340,9 +320,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Miracle Season",
-    "uniques": [
-      "[+1 Production] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "King Power Stadium",
       "Filbert Street",
@@ -372,9 +350,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Heavy Metal Football",
-    "uniques": [
-      "[+15]% XP gained from combat <for [Military] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Anfield",
       "Melwood",
@@ -404,10 +380,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Oil Money",
-    "uniques": [
-      "[+2 Gold] [in all cities]",
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Etihad Stadium",
       "Maine Road",
@@ -437,9 +410,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Fergie Time",
-    "uniques": [
-      "[+2 Culture] [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Old Trafford",
       "Carrington",
@@ -469,9 +440,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "New Riches",
-    "uniques": [
-      "Receive [+100]% Gold from Barbarian encampments and pillaging Cities"
-    ],
+    "uniques": [],
     "cities": [
       "St James Park",
       "Darsley Park",
@@ -501,9 +470,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "European Heritage",
-    "uniques": [
-      "[+1 Production] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "City Ground",
       "Trent End",
@@ -533,9 +500,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Production Line",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "St Marys Stadium",
       "The Dell",
@@ -565,10 +530,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "To Dare Is To Do",
-    "uniques": [
-      "[+1 Production] [in capital]",
-      "[+1 Culture] [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Tottenham Hotspur Stadium",
       "White Hart Lane",
@@ -628,9 +590,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Counter-Attack Pack",
-    "uniques": [
-      "[+10]% Strength"
-    ],
+    "uniques": [],
     "cities": [
       "Molineux",
       "Compton Park",
@@ -660,9 +620,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Lancashire Steel",
-    "uniques": [
-      "[+10]% Strength"
-    ],
+    "uniques": [],
     "cities": [
       "Ewood Park",
       "Brockhall",
@@ -692,9 +650,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Ashton Gate Roar",
-    "uniques": [
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Ashton Gate",
       "Failand",
@@ -724,9 +680,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Turf Moor Resolve",
-    "uniques": [
-      "[+15]% Strength <when defending> <for [All] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Turf Moor",
       "Gawthorpe",
@@ -756,9 +710,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "South Wales Surge",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Cardiff City Stadium",
       "House of Sport",
@@ -788,9 +740,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Sky Blue Revival",
-    "uniques": [
-      "[+10]% growth [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Coventry Building Society Arena",
       "Ryton",
@@ -820,9 +770,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Pride Park Pulse",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Pride Park Stadium",
       "Moor Farm",
@@ -852,9 +800,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Tiger Counter",
-    "uniques": [
-      "[+15]% XP gained from combat <for [Military] units>"
-    ],
+    "uniques": [],
     "cities": [
       "MKM Stadium",
       "Bishop Burton",
@@ -914,9 +860,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Kenilworth Grit",
-    "uniques": [
-      "[+33]% Strength for cities <when defending>"
-    ],
+    "uniques": [],
     "cities": [
       "Kenilworth Road",
       "The Brache",
@@ -946,9 +890,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Riverside Rebuild",
-    "uniques": [
-      "[+1 Production] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Riverside Stadium",
       "Rockliffe Park",
@@ -978,10 +920,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "No One Likes Us",
-    "uniques": [
-      "[+10]% Strength",
-      "[+5]% Strength"
-    ],
+    "uniques": [],
     "cities": [
       "The Den",
       "Calmont Road",
@@ -1011,9 +950,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Delia's Feast",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Carrow Road",
       "Colney",
@@ -1043,9 +980,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Dreaming Spires",
-    "uniques": [
-      "[+2 Culture] [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Kassam Stadium",
       "Oxford United Training Centre",
@@ -1075,9 +1010,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Green Army",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Home Park",
       "Harpers Park",
@@ -1107,9 +1040,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Fratton Noise",
-    "uniques": [
-      "[+15]% Strength <when defending> <for [All] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Fratton Park",
       "Copnor Road",
@@ -1139,9 +1070,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Deepdale Tradition",
-    "uniques": [
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Deepdale",
       "Euxton",
@@ -1171,9 +1100,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Loftus Lightning",
-    "uniques": [
-      "[+10]% growth [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Loftus Road",
       "Heston",
@@ -1203,9 +1130,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Steel City Edge",
-    "uniques": [
-      "[+15]% XP gained from combat <for [Military] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Bramall Lane",
       "Shirecliffe",
@@ -1235,9 +1160,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Hillsborough Echo",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Hillsborough",
       "Middlewood Road",
@@ -1267,9 +1190,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Cold Tuesday Nights",
-    "uniques": [
-      "[+33]% Strength for cities <when defending>"
-    ],
+    "uniques": [],
     "cities": [
       "bet365 Stadium",
       "Clayton Wood",
@@ -1299,9 +1220,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Wearside Youth",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Stadium of Light",
       "Academy of Light",
@@ -1331,9 +1250,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Swansea Way",
-    "uniques": [
-      "[+1 Production] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Swansea.com Stadium",
       "Fairwood",
@@ -1363,10 +1280,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Vicarage Swarm",
-    "uniques": [
-      "[+2 Gold] [in all cities]",
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Vicarage Road",
       "London Colney",
@@ -1396,9 +1310,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Boing Boing Resilience",
-    "uniques": [
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "The Hawthorns",
       "Walsall Training Ground",
@@ -1428,9 +1340,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Oakwell Fight",
-    "uniques": [
-      "[+10]% Strength"
-    ],
+    "uniques": [],
     "cities": [
       "Oakwell",
       "Barnsley FC Training Ground",
@@ -1460,9 +1370,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Second City Reboot",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "St Andrews",
       "Wast Hills",
@@ -1492,9 +1400,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Seaside Energy",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Bloomfield Road",
       "Squires Gate",
@@ -1554,9 +1460,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Pirate Press",
-    "uniques": [
-      "[+15]% XP gained from combat <for [Military] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Memorial Stadium",
       "The Quarters",
@@ -1586,9 +1490,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Brewers Backbone",
-    "uniques": [
-      "[+33]% Strength for cities <when defending>"
-    ],
+    "uniques": [],
     "cities": [
       "Pirelli Stadium",
       "St Georges Park",
@@ -1618,9 +1520,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Fenland Thinking",
-    "uniques": [
-      "[+2 Culture] [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Abbey Stadium",
       "Bentley Road",
@@ -1650,9 +1550,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Valley Voice",
-    "uniques": [
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "The Valley",
       "Sparrows Lane",
@@ -1682,9 +1580,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Red Devils Rise",
-    "uniques": [
-      "[+10]% growth [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Broadfield Stadium",
       "The People’s Pension Stadium",
@@ -1714,9 +1610,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "St James Spirit",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "St James Park",
       "Cliff Hill",
@@ -1746,9 +1640,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Terrier Tenacity",
-    "uniques": [
-      "[+10]% Strength"
-    ],
+    "uniques": [],
     "cities": [
       "John Smiths Stadium",
       "Canalside",
@@ -1778,9 +1670,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "East End Flow",
-    "uniques": [
-      "[+1 Production] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Brisbane Road",
       "The Matchroom Stadium",
@@ -1810,9 +1700,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Impish Innovation",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Sincil Bank",
       "Riseholme",
@@ -1842,9 +1730,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Stag Charge",
-    "uniques": [
-      "[+15]% XP gained from combat <for [Military] units>"
-    ],
+    "uniques": [],
     "cities": [
       "One Call Stadium",
       "Radcliffe Gate",
@@ -1874,9 +1760,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Cobblers Craft",
-    "uniques": [
-      "[+1 Production] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Sixfields Stadium",
       "Moulton College",
@@ -1906,10 +1790,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Posh Precision",
-    "uniques": [
-      "[+2 Gold] [in all cities]",
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "London Road",
       "Idverde Training Ground",
@@ -1939,9 +1820,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Royal Recovery",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Select Car Leasing Stadium",
       "Bearwood Park",
@@ -1971,9 +1850,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Miller's Grit",
-    "uniques": [
-      "[+33]% Strength for cities <when defending>"
-    ],
+    "uniques": [],
     "cities": [
       "AESSEAL New York Stadium",
       "Roundwood",
@@ -2003,9 +1880,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Salop Discipline",
-    "uniques": [
-      "[-25]% maintenance costs <for [Land] units>"
-    ],
+    "uniques": [],
     "cities": [
       "New Meadow",
       "Sundorne Castle",
@@ -2035,9 +1910,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Lamex Lift",
-    "uniques": [
-      "[+10]% growth [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Lamex Stadium",
       "Shephalbury Park",
@@ -2067,9 +1940,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "County Climb",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Edgeley Park",
       "Carrington Lane",
@@ -2099,9 +1970,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "DW Determination",
-    "uniques": [
-      "[+1 Production] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "DW Stadium",
       "Christopher Park",
@@ -2131,10 +2000,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Welcome to Wrexham",
-    "uniques": [
-      "[+2 Gold] [in all cities]",
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Racecourse Ground",
       "Colliers Park",
@@ -2164,9 +2030,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Chairboy Charge",
-    "uniques": [
-      "[+15]% Strength <when defending> <for [All] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Adams Park",
       "Harlington",
@@ -2196,9 +2060,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Wham Wall",
-    "uniques": [
-      "[+33]% Strength for cities <when defending>"
-    ],
+    "uniques": [],
     "cities": [
       "Wham Stadium",
       "Moorhead Sports",
@@ -2228,9 +2090,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Phoenix Spirit",
-    "uniques": [
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Plough Lane",
       "Roehampton Vale",
@@ -2260,9 +2120,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Furness Fortitude",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Holker Street",
       "Furness Building Society Stadium",
@@ -2292,9 +2150,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Valley Parade Voice",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Valley Parade",
       "Woodhouse Grove",
@@ -2324,9 +2180,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Raven Rise",
-    "uniques": [
-      "[+10]% growth [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Hayes Lane",
       "Bromley FC Training Ground",
@@ -2356,9 +2210,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Border Battalion",
-    "uniques": [
-      "[+10]% Strength"
-    ],
+    "uniques": [],
     "cities": [
       "Brunton Park",
       "Creighton Rugby Club",
@@ -2388,9 +2240,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Whaddon Workrate",
-    "uniques": [
-      "[-25]% maintenance costs <for [Land] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Whaddon Road",
       "Cheltenham FC Training Ground",
@@ -2420,9 +2270,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Spireite Spark",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "SMH Group Stadium",
       "Proact Stadium",
@@ -2452,9 +2300,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Essex Structure",
-    "uniques": [
-      "[+1 Production] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Colchester Community Stadium",
       "Florence Park",
@@ -2484,9 +2330,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Railway Academy",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Alexandra Stadium",
       "Reaseheath",
@@ -2516,9 +2360,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Keepmoat Momentum",
-    "uniques": [
-      "[+15]% XP gained from combat <for [Military] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Eco-Power Stadium",
       "Cantley Park",
@@ -2548,10 +2390,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Highbury Hustle",
-    "uniques": [
-      "[+2 Gold] [in all cities]",
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Highbury Stadium",
       "Poolfoot Farm",
@@ -2581,9 +2420,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Priestfield Pulse",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Priestfield Stadium",
       "Be Priestfield Training Ground",
@@ -2613,9 +2450,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Mariner Resolve",
-    "uniques": [
-      "[+10]% Strength"
-    ],
+    "uniques": [],
     "cities": [
       "Blundell Park",
       "Cheapside",
@@ -2645,9 +2480,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Spa Town Calm",
-    "uniques": [
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Wetherby Road",
       "Rossett Sports Centre",
@@ -2677,9 +2510,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Grid System",
-    "uniques": [
-      "[+1 Production] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Stadium MK",
       "Woughton on the Green",
@@ -2709,9 +2540,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Bay Breeze",
-    "uniques": [
-      "[+2 Culture] [in capital]"
-    ],
+    "uniques": [],
     "cities": [
       "Mazuma Mobile Stadium",
       "Christie Park",
@@ -2741,9 +2570,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Exile Endurance",
-    "uniques": [
-      "[+33]% Strength for cities <when defending>"
-    ],
+    "uniques": [],
     "cities": [
       "Rodney Parade",
       "Spytty Park",
@@ -2773,9 +2600,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Meadow Lane Method",
-    "uniques": [
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Meadow Lane",
       "Clifton Training Ground",
@@ -2805,9 +2630,7 @@
     ],
     "preferredVictoryType": "Domination",
     "uniqueName": "Vale Valour",
-    "uniques": [
-      "[+15]% Strength <when defending> <for [All] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Vale Park",
       "Clayton Wood",
@@ -2837,10 +2660,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "Class of 92",
-    "uniques": [
-      "[+2 Gold] [in all cities]",
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Moor Lane",
       "Partington Sports Village",
@@ -2870,9 +2690,7 @@
     ],
     "preferredVictoryType": "Scientific",
     "uniqueName": "County Ground Craft",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "County Ground",
       "Beversbrook",
@@ -2902,9 +2720,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Prenton Pride",
-    "uniques": [
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "Prenton Park",
       "Solar Campus",
@@ -2934,9 +2750,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "Saddlers Shape",
-    "uniques": [
-      "[-25]% maintenance costs <for [Land] units>"
-    ],
+    "uniques": [],
     "cities": [
       "Bescot Stadium",
       "Banks's Stadium",
@@ -2966,10 +2780,7 @@
     ],
     "preferredVictoryType": "Cultural",
     "uniqueName": "The Dabber's Pride",
-    "uniques": [
-      "[+1 Culture] [in all cities]",
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "cities": [
       "The Weaver Stadium",
       "Kingsley Fields",

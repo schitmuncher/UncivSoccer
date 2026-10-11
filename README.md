@@ -1,1 +1,310 @@
 # UncivSoccer
+## Effects removed for compatibility
+
+These effects were removed because Unciv's in-game checker rejected them. They can be re-added one at a time once they have been tested in the game.
+
+### Beliefs.json
+- Total Football Doctrine: [+2 Science] [in all cities]
+- Total Football Doctrine: [+1 Culture] [in all cities]
+- Total Football Doctrine: New [Military] units start with [15] XP [in all cities]
+- Defensive Wall Philosophy: [+1 Happiness] [in all cities]
+- Counter-Attack Philosophy: [+1 Gold] [in all cities]
+- Possession Philosophy: [+20]% [Gold] [in all cities]
+- Possession Philosophy: [+1 Science] [in all cities]
+- Possession Philosophy: [+15]% [Culture] [in all cities]
+- 4-3-3 Formation: [+1 Production] [in all cities]
+- 4-3-3 Formation: [+1 Culture] [in all cities]
+- 5-3-2 Formation: [+2 Happiness] [in all cities]
+- 5-3-2 Formation: New [Military] units start with [20] XP [in all cities]
+- High-Pressure Philosophy: [+10]% Production when constructing [Military] units [in all cities]
+- Terrace Culture Belief: [+3 Culture] [in all cities]
+- Terrace Culture Belief: [+2 Happiness] [in all cities]
+- Elite Academy Doctrine: [+2 Science] [in all cities]
+- Commercial Success Belief: [+3 Gold] [in all cities]
+- Commercial Success Belief: [+20]% [Gold] [in all cities]
+
+### Buildings.json
+- Ultra Wall: [+33]% Strength for cities <when defending>
+- The Invincibles Trophy: [+15]% Strength
+- Analytics Office: [+15]% [Science] [in all cities]
+- Tactical War Room: New [Military] units start with [35] XP [in this city]
+- Museum of Legends: [+5 Culture] [in all cities]
+- Broadcasting Studio: [+3 Culture] from each Trade Route
+- Youth Development Center: New [Civilian] units start with [5] XP [in this city]
+- Sponsorship Office: [+2 Gold] from each Trade Route
+- Elite Coaching Staff: New [Military] units start with [20] XP [in this city]
+- Elite Coaching Staff: [+10]% Production when constructing [Military] units [in all cities]
+- Merchandise Factory: [+2 Culture] from each Trade Route
+- Media Center: [+20]% [Culture] [in all cities]
+- Stadium Hospitality Suite: [+2 Happiness] [in all cities]
+- Training Grounds Expansion: [+15]% Production when constructing [Military] units [in all cities]
+- Scouting Lodge: [+1 Science] [in all cities]
+- Ultra Support Center: [+3 Culture] [in all cities]
+- Ultra Support Center: [+2 Happiness] [in all cities]
+- Wembley Stadium: [+15]% [Culture] [in all cities]
+- Wembley Stadium: [+3 Culture] [in capital]
+- The Anfield Roar: [+10]% Strength for cities <when defending>
+- The Anfield Roar: [+2 Happiness] [in all cities]
+
+### GlobalUniques.json
+- GlobalUniques: [-75]% growth [in all cities] <when between [-10] and [-1] [Happiness]>
+- GlobalUniques: Nullifies Growth [in all cities] <when below [-10] [Happiness]>
+- GlobalUniques: [-50]% [Production] [in all cities] <when below [-10] [Happiness]>
+- GlobalUniques: [-33]% Strength <for [All] units> <when below [-10] [Happiness]>
+- GlobalUniques: Cannot build [Chairman] units <when below [-10] [Happiness]>
+- GlobalUniques: Rebel units may spawn <when below [-20] [Happiness]>
+- GlobalUniques: [-1] Sight <for [Embarked] units>
+
+### Nations.json
+- Arsenal: [+15]% Strength <when defending> <for [All] units>
+- Aston Villa: [+1 Culture] [in all cities]
+- Bournemouth: [+15]% XP gained from combat <for [Military] units>
+- Brentford: [+1 Science] [in all cities]
+- Brighton: [+1 Gold] [in all cities]
+- Chelsea: [-25]% maintenance costs <for [Land] units>
+- Crystal Palace: [+33]% Strength for cities <when defending>
+- Everton: [+10]% Strength
+- Fulham: [+1 Happiness] [in all cities]
+- Ipswich Town: [+10]% growth [in capital]
+- Leicester City: [+1 Production] [in all cities]
+- Liverpool: [+15]% XP gained from combat <for [Military] units>
+- Manchester City: [+2 Gold] [in all cities]
+- Manchester City: [+1 Happiness] [in all cities]
+- Manchester United: [+2 Culture] [in capital]
+- Newcastle United: Receive [+100]% Gold from Barbarian encampments and pillaging Cities
+- Nottingham Forest: [+1 Production] [in all cities]
+- Southampton: [+1 Science] [in all cities]
+- Tottenham Hotspur: [+1 Production] [in capital]
+- Tottenham Hotspur: [+1 Culture] [in capital]
+- Wolverhampton Wanderers: [+10]% Strength
+- Blackburn Rovers: [+10]% Strength
+- Bristol City: [+1 Culture] [in all cities]
+- Burnley: [+15]% Strength <when defending> <for [All] units>
+- Cardiff City: [+1 Science] [in all cities]
+- Coventry City: [+10]% growth [in capital]
+- Derby County: [+1 Happiness] [in all cities]
+- Hull City: [+15]% XP gained from combat <for [Military] units>
+- Luton Town: [+33]% Strength for cities <when defending>
+- Middlesbrough: [+1 Production] [in all cities]
+- Millwall: [+10]% Strength
+- Millwall: [+5]% Strength
+- Norwich City: [+1 Science] [in all cities]
+- Oxford United: [+2 Culture] [in capital]
+- Plymouth Argyle: [+1 Happiness] [in all cities]
+- Portsmouth: [+15]% Strength <when defending> <for [All] units>
+- Preston North End: [+1 Culture] [in all cities]
+- Queens Park Rangers: [+10]% growth [in capital]
+- Sheffield United: [+15]% XP gained from combat <for [Military] units>
+- Sheffield Wednesday: [+1 Happiness] [in all cities]
+- Stoke City: [+33]% Strength for cities <when defending>
+- Sunderland: [+1 Science] [in all cities]
+- Swansea City: [+1 Production] [in all cities]
+- Watford: [+2 Gold] [in all cities]
+- Watford: [+1 Happiness] [in all cities]
+- West Bromwich Albion: [+1 Culture] [in all cities]
+- Barnsley: [+10]% Strength
+- Birmingham City: [+1 Science] [in all cities]
+- Blackpool: [+1 Happiness] [in all cities]
+- Bristol Rovers: [+15]% XP gained from combat <for [Military] units>
+- Burton Albion: [+33]% Strength for cities <when defending>
+- Cambridge United: [+2 Culture] [in capital]
+- Charlton Athletic: [+1 Culture] [in all cities]
+- Crawley Town: [+10]% growth [in capital]
+- Exeter City: [+1 Happiness] [in all cities]
+- Huddersfield Town: [+10]% Strength
+- Leyton Orient: [+1 Production] [in all cities]
+- Lincoln City: [+1 Science] [in all cities]
+- Mansfield Town: [+15]% XP gained from combat <for [Military] units>
+- Northampton Town: [+1 Production] [in all cities]
+- Peterborough United: [+2 Gold] [in all cities]
+- Peterborough United: [+1 Happiness] [in all cities]
+- Reading: [+1 Happiness] [in all cities]
+- Rotherham United: [+33]% Strength for cities <when defending>
+- Shrewsbury Town: [-25]% maintenance costs <for [Land] units>
+- Stevenage: [+10]% growth [in capital]
+- Stockport County: [+1 Science] [in all cities]
+- Wigan Athletic: [+1 Production] [in all cities]
+- Wrexham: [+2 Gold] [in all cities]
+- Wrexham: [+1 Happiness] [in all cities]
+- Wycombe Wanderers: [+15]% Strength <when defending> <for [All] units>
+- Accrington Stanley: [+33]% Strength for cities <when defending>
+- AFC Wimbledon: [+1 Culture] [in all cities]
+- Barrow: [+1 Science] [in all cities]
+- Bradford City: [+1 Happiness] [in all cities]
+- Bromley: [+10]% growth [in capital]
+- Carlisle United: [+10]% Strength
+- Cheltenham Town: [-25]% maintenance costs <for [Land] units>
+- Chesterfield: [+1 Science] [in all cities]
+- Colchester United: [+1 Production] [in all cities]
+- Crewe Alexandra: [+1 Science] [in all cities]
+- Doncaster Rovers: [+15]% XP gained from combat <for [Military] units>
+- Fleetwood Town: [+2 Gold] [in all cities]
+- Fleetwood Town: [+1 Happiness] [in all cities]
+- Gillingham: [+1 Happiness] [in all cities]
+- Grimsby Town: [+10]% Strength
+- Harrogate Town: [+1 Culture] [in all cities]
+- Milton Keynes Dons: [+1 Production] [in all cities]
+- Morecambe: [+2 Culture] [in capital]
+- Newport County: [+33]% Strength for cities <when defending>
+- Notts County: [+1 Culture] [in all cities]
+- Port Vale: [+15]% Strength <when defending> <for [All] units>
+- Salford City: [+2 Gold] [in all cities]
+- Salford City: [+1 Happiness] [in all cities]
+- Swindon Town: [+1 Science] [in all cities]
+- Tranmere Rovers: [+1 Happiness] [in all cities]
+- Walsall: [-25]% maintenance costs <for [Land] units>
+- Nantwich Town FC: [+1 Culture] [in all cities]
+- Nantwich Town FC: [+1 Happiness] [in all cities]
+
+### Policies.json
+- Matchday Traditions: [+2 Culture] [in capital]
+- Club Colours: [+1 Happiness] per [10] population [in all cities]
+- Banner Wall: [+15]% Production when constructing [All] wonders [in all cities]
+- Inherited Songs: [+2 Food] [in capital]
+- Full Terrace: [+1 Gold, +1 Happiness] per [2] population [in capital]
+- Matchday Traditions Complete: [+15]% growth [in all cities]
+- Matchday Traditions Complete: [+2 Food] [in all cities]
+- Youth Academy Focus: [+1 Production] [in all cities]
+- Youth Academy Focus: [+5]% growth [in all cities]
+- Schoolboy Intake: [+10]% growth [in capital]
+- Five-a-Side Courts: [+1 Culture] [in all cities]
+- Scholarship Pathway: [+1 Science] [in all cities]
+- Reserve Team Minutes: [+15]% XP gained from combat <for [Military] units>
+- Youth Academy Focus Complete: [+1 Production] [in all cities]
+- Youth Academy Focus Complete: [+1 Science] [in all cities]
+- Commercial Empire: [+1 Gold] [in all cities]
+- Commercial Empire: [-50]% Gold cost of acquiring tiles [in all cities]
+- Merch Tables: [+1 Gold] [in capital]
+- Naming Rights: [+1 Happiness] [in all cities]
+- Corporate Boxes: [+2 Gold] [in capital]
+- Global Kit Sales: [+1 Culture] [in all cities]
+- Commercial Empire Complete: [+2 Gold] [in all cities]
+- Terrace Mentality: [+15]% XP gained from combat <for [Military] units>
+- Terrace Mentality: [+1 Happiness] [in all cities]
+- Firm Discipline: [+10]% Strength
+- Pyro Smokescreen: [+33]% Strength for cities <when defending>
+- Terrace Mentality Complete: [+15]% Strength
+- Sugar Daddy Takeover: [+2 Gold] [in capital]
+- Sugar Daddy Takeover: [+1 Happiness] [in capital]
+- Private Jet Recruitment: [+1 Science] [in capital]
+- Agent Network: [+2 Gold] [in all cities]
+- Luxury Training Camps: [+1 Happiness] [in all cities]
+- Commercial Synergy: [+1 Production] [in all cities]
+- Sugar Daddy Takeover Complete: [+1 Gold] [in all cities]
+- Sugar Daddy Takeover Complete: [+1 Science] [in all cities]
+- Tactical Innovation: [+2 Science] [in all cities]
+- Formation Study: [+1 Science] [in capital]
+- Video Analysis: [+15]% [Science] [in all cities]
+- Set-Piece Mastery: [+20]% Production when constructing [Military] units [in all cities]
+- Counter-Attack Drills: [+10]% Strength <for [All] units> <when defending>
+- Tactical Innovation Complete: [+2 Science] [in all cities]
+- Tactical Innovation Complete: [+10]% Strength
+- International Ambition: [+3 Gold] from each Trade Route
+- International Ambition: [+1 Culture] [in all cities]
+- European Tour: [+1 Culture] [in all cities]
+- Continental Sponsorships: [+2 Gold] from each Trade Route
+- Global Merchandise: [+20]% [Gold] [in all cities]
+- International Ambition Complete: [+3 Gold] from each Trade Route
+- Community Roots: [+3 Happiness] [in all cities]
+- Community Roots: [+1 Culture] [in all cities]
+- Free Entry Days: [+2 Happiness] [in capital]
+- Local Community Programs: [+1 Culture] [in all cities]
+- Charity Matches: [+1 Happiness] [in all cities]
+- Charity Matches: [+1 Culture] [in all cities]
+- Fan Engagement: [+2 Happiness] per [2] population [in all cities]
+- Community Roots Complete: [+4 Happiness] [in all cities]
+- Community Roots Complete: [+2 Culture] [in all cities]
+- Financial Fair Play: [+15]% [Gold] [in all cities]
+- Salary Cap Regulation: [+10]% [Gold] [in all cities]
+- Revenue Sharing: [+1 Gold] from each Trade Route
+- Balanced Budget: [+2 Gold] [in all cities]
+- Financial Fair Play Complete: [+20]% [Gold] [in all cities]
+- Stadium Legacy: [+4 Culture] [in all cities]
+- Stadium Legacy: [+15]% [Culture] [in all cities]
+- Historic Ground Preservation: [+2 Culture] [in capital]
+- Stadium Monument: [+3 Culture] [in capital]
+- Capacity Expansion: [+2 Production] [in capital]
+- Capacity Expansion: [+1 Happiness] [in all cities]
+- Iconic Moments Exhibition: [+4 Culture] [in capital]
+- Stadium Legacy Complete: [+5 Culture] [in all cities]
+
+### Terrains.json
+- Lakes: Fresh water
+- Hill: Rough terrain
+- Hill: [+5] Strength for cities built on this terrain
+- Hill: Has an elevation of [1] for visibility calculations
+- Mountain: Rough terrain
+- Mountain: Has an elevation of [2] for visibility calculations
+- Forest: Rough terrain
+- Forest: Vegetation
+- Marsh: Vegetation
+
+### TileResources.json
+- Stadium Capacity: [+2 Happiness] [in all cities]
+- Tactical Database: [+15]% [Science] [in all cities]
+- Sponsorship Deal: [+1 Gold] from each Trade Route
+- Training Facilities: [+10]% Production when constructing [Military] units [in all cities]
+- Fan Merchandise: [+2 Culture] from each Trade Route
+- Historic Trophy: [+50]% [Culture] [in capital]
+- Historic Trophy: [+3 Culture] from each Trade Route
+- Terraced Stands: [+1 Culture] [in all cities]
+- Passionate Fanbase: [+2 Culture] [in all cities]
+- International Reputation: [+3 Gold] from each Trade Route
+- International Reputation: [+4 Culture] from each Trade Route
+
+### Units.json
+- Chairman: Founds a new city <by consuming this unit>
+- Groundstaff: Can build [Land] improvements on tiles
+- Groundstaff: Automation is a primary action
+- Ultra Capo: [+15]% Strength bonus for [Military] units within [2] tiles
+- The Physio: All adjacent units heal [+15] HP when healing
+- The Physio: [+15] HP when healing
+- The Physio: Uncapturable
+- Sweeper Keeper: [+33]% Strength <when defending>
+- The Pundit: Uncapturable
+- Club Legend: Empire enters a [8]-turn Golden Age <by consuming this unit>
+- Club Legend: Is part of Great Person group [Artist]
+- Club Legend: Great Person - [Culture]
+- Club Legend: Unbuildable
+- Club Legend: Uncapturable
+- Master Tactician: Can hurry technology research
+- Master Tactician: Is part of Great Person group [Scientist]
+- Master Tactician: Great Person - [Science]
+- Master Tactician: Unbuildable
+- Master Tactician: Uncapturable
+- Director of Football: Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence
+- Director of Football: Is part of Great Person group [Merchant]
+- Director of Football: Great Person - [Gold]
+- Director of Football: Unbuildable
+- Director of Football: Uncapturable
+- SS Booster: Spaceship part
+- SS Booster: Cannot be purchased
+- SS Booster: Only available <if [Apollo Program] is constructed>
+- SS Booster: Uncapturable
+- SS Booster: Can be added to [The Spaceship] in the Capital
+- SS Booster: Limited to [3] per Civilization
+- SS Cockpit: Spaceship part
+- SS Cockpit: Cannot be purchased
+- SS Cockpit: Only available <if [Apollo Program] is constructed>
+- SS Cockpit: Uncapturable
+- SS Cockpit: Can be added to [The Spaceship] in the Capital
+- SS Cockpit: Limited to [1] per Civilization
+- SS Engine: Spaceship part
+- SS Engine: Cannot be purchased
+- SS Engine: Only available <if [Apollo Program] is constructed>
+- SS Engine: Uncapturable
+- SS Engine: Can be added to [The Spaceship] in the Capital
+- SS Engine: Limited to [1] per Civilization
+- SS Stasis Chamber: Spaceship part
+- SS Stasis Chamber: Cannot be purchased
+- SS Stasis Chamber: Only available <if [Apollo Program] is constructed>
+- SS Stasis Chamber: Uncapturable
+- SS Stasis Chamber: Can be added to [The Spaceship] in the Capital
+- SS Stasis Chamber: Limited to [1] per Civilization
+- Big Fat Dave: [+33]% Strength <when defending>
+- The Gaffer: [+15]% Strength bonus for [Military] units within [2] tiles
+- The Gaffer: Is part of Great Person group [General]
+- The Gaffer: Great Person - [Military]
+- The Gaffer: Unbuildable
+- The Gaffer: Uncapturable
+

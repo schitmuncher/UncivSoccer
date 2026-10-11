@@ -33,9 +33,7 @@
       171,
       169
     ],
-    "uniques": [
-      "Fresh water"
-    ]
+    "uniques": []
   },
   {
     "name": "Grassland",
@@ -110,11 +108,7 @@
       "Desert",
       "Snow"
     ],
-    "uniques": [
-      "Rough terrain",
-      "[+5] Strength for cities built on this terrain",
-      "Has an elevation of [1] for visibility calculations"
-    ]
+    "uniques": []
   },
   {
     "name": "Mountain",
@@ -133,10 +127,7 @@
       "Tundra",
       "Snow"
     ],
-    "uniques": [
-      "Rough terrain",
-      "Has an elevation of [2] for visibility calculations"
-    ]
+    "uniques": []
   },
   {
     "name": "Forest",
@@ -153,10 +144,7 @@
       "Grassland",
       "Hill"
     ],
-    "uniques": [
-      "Rough terrain",
-      "Vegetation"
-    ]
+    "uniques": []
   },
   {
     "name": "Marsh",
@@ -168,9 +156,7 @@
     "occursOn": [
       "Grassland"
     ],
-    "uniques": [
-      "Vegetation"
-    ]
+    "uniques": []
   },
   {
     "name": "Flood plains",

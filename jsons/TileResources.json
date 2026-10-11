@@ -15,9 +15,7 @@
     "name": "Stadium Capacity",
     "resourceType": "Strategic",
     "production": 1,
-    "uniques": [
-      "[+2 Happiness] [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Broadcast Deal",
@@ -38,27 +36,21 @@
     "resourceType": "Strategic",
     "science": 1,
     "gold": 1,
-    "uniques": [
-      "[+15]% [Science] [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Sponsorship Deal",
     "resourceType": "Luxury",
     "gold": 5,
     "happiness": 2,
-    "uniques": [
-      "[+1 Gold] from each Trade Route"
-    ]
+    "uniques": []
   },
   {
     "name": "Training Facilities",
     "resourceType": "Luxury",
     "production": 2,
     "happiness": 1,
-    "uniques": [
-      "[+10]% Production when constructing [Military] units [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Fan Merchandise",
@@ -66,19 +58,14 @@
     "gold": 4,
     "culture": 1,
     "happiness": 2,
-    "uniques": [
-      "[+2 Culture] from each Trade Route"
-    ]
+    "uniques": []
   },
   {
     "name": "Historic Trophy",
     "resourceType": "Luxury",
     "culture": 3,
     "happiness": 3,
-    "uniques": [
-      "[+50]% [Culture] [in capital]",
-      "[+3 Culture] from each Trade Route"
-    ]
+    "uniques": []
   },
   {
     "name": "Media Hype",
@@ -93,9 +80,7 @@
     "resourceType": "Luxury",
     "culture": 1,
     "happiness": 2,
-    "uniques": [
-      "[+1 Culture] [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Championship Pedigree",
@@ -141,9 +126,7 @@
     "resourceType": "Luxury",
     "culture": 3,
     "happiness": 3,
-    "uniques": [
-      "[+2 Culture] [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "State-of-the-Art Facilities",
@@ -159,9 +142,6 @@
     "gold": 4,
     "culture": 2,
     "happiness": 2,
-    "uniques": [
-      "[+3 Gold] from each Trade Route",
-      "[+4 Culture] from each Trade Route"
-    ]
+    "uniques": []
   }
 ]

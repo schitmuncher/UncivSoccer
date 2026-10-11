@@ -10,31 +10,24 @@
       "Scientific": 5
     },
     "uniques": [
-      "[+2 Culture] [in capital]",
       "[-25]% Culture cost of natural border growth [in all cities]"
     ],
     "policies": [
       {
         "name": "Club Colours",
-        "uniques": [
-          "[+1 Happiness] per [10] population [in all cities]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Banner Wall",
-        "uniques": [
-          "[+15]% Production when constructing [All] wonders [in all cities]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
       {
         "name": "Inherited Songs",
-        "uniques": [
-          "[+2 Food] [in capital]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -43,9 +36,7 @@
       },
       {
         "name": "Full Terrace",
-        "uniques": [
-          "[+1 Gold, +1 Happiness] per [2] population [in capital]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -54,10 +45,7 @@
       },
       {
         "name": "Matchday Traditions Complete",
-        "uniques": [
-          "[+15]% growth [in all cities]",
-          "[+2 Food] [in all cities]"
-        ]
+        "uniques": []
       }
     ]
   },
@@ -71,32 +59,23 @@
       "Domination": 10,
       "Scientific": 20
     },
-    "uniques": [
-      "[+1 Production] [in all cities]",
-      "[+5]% growth [in all cities]"
-    ],
+    "uniques": [],
     "policies": [
       {
         "name": "Schoolboy Intake",
-        "uniques": [
-          "[+10]% growth [in capital]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Five-a-Side Courts",
-        "uniques": [
-          "[+1 Culture] [in all cities]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
       {
         "name": "Scholarship Pathway",
-        "uniques": [
-          "[+1 Science] [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -105,9 +84,7 @@
       },
       {
         "name": "Reserve Team Minutes",
-        "uniques": [
-          "[+15]% XP gained from combat <for [Military] units>"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -116,10 +93,7 @@
       },
       {
         "name": "Youth Academy Focus Complete",
-        "uniques": [
-          "[+1 Production] [in all cities]",
-          "[+1 Science] [in all cities]"
-        ]
+        "uniques": []
       }
     ]
   },
@@ -133,32 +107,23 @@
       "Domination": 0,
       "Scientific": 25
     },
-    "uniques": [
-      "[+1 Gold] [in all cities]",
-      "[-50]% Gold cost of acquiring tiles [in all cities]"
-    ],
+    "uniques": [],
     "policies": [
       {
         "name": "Merch Tables",
-        "uniques": [
-          "[+1 Gold] [in capital]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Naming Rights",
-        "uniques": [
-          "[+1 Happiness] [in all cities]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
       {
         "name": "Corporate Boxes",
-        "uniques": [
-          "[+2 Gold] [in capital]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -167,9 +132,7 @@
       },
       {
         "name": "Global Kit Sales",
-        "uniques": [
-          "[+1 Culture] [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -178,9 +141,7 @@
       },
       {
         "name": "Commercial Empire Complete",
-        "uniques": [
-          "[+2 Gold] [in all cities]"
-        ]
+        "uniques": []
       }
     ]
   },
@@ -194,10 +155,7 @@
       "Domination": 25,
       "Scientific": 0
     },
-    "uniques": [
-      "[+15]% XP gained from combat <for [Military] units>",
-      "[+1 Happiness] [in all cities]"
-    ],
+    "uniques": [],
     "policies": [
       {
         "name": "Pub Conspiracy",
@@ -213,9 +171,7 @@
       },
       {
         "name": "Firm Discipline",
-        "uniques": [
-          "[+10]% Strength"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -224,9 +180,7 @@
       },
       {
         "name": "Pyro Smokescreen",
-        "uniques": [
-          "[+33]% Strength for cities <when defending>"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -235,9 +189,7 @@
       },
       {
         "name": "Terrace Mentality Complete",
-        "uniques": [
-          "[+15]% Strength"
-        ]
+        "uniques": []
       }
     ]
   },
@@ -251,32 +203,23 @@
       "Domination": 10,
       "Scientific": 30
     },
-    "uniques": [
-      "[+2 Gold] [in capital]",
-      "[+1 Happiness] [in capital]"
-    ],
+    "uniques": [],
     "policies": [
       {
         "name": "Private Jet Recruitment",
-        "uniques": [
-          "[+1 Science] [in capital]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Agent Network",
-        "uniques": [
-          "[+2 Gold] [in all cities]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
       {
         "name": "Luxury Training Camps",
-        "uniques": [
-          "[+1 Happiness] [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -285,9 +228,7 @@
       },
       {
         "name": "Commercial Synergy",
-        "uniques": [
-          "[+1 Production] [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -296,10 +237,7 @@
       },
       {
         "name": "Sugar Daddy Takeover Complete",
-        "uniques": [
-          "[+1 Gold] [in all cities]",
-          "[+1 Science] [in all cities]"
-        ]
+        "uniques": []
       }
     ]
   },
@@ -313,31 +251,23 @@
       "Domination": 15,
       "Scientific": 25
     },
-    "uniques": [
-      "[+2 Science] [in all cities]"
-    ],
+    "uniques": [],
     "policies": [
       {
         "name": "Formation Study",
-        "uniques": [
-          "[+1 Science] [in capital]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Video Analysis",
-        "uniques": [
-          "[+15]% [Science] [in all cities]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
       {
         "name": "Set-Piece Mastery",
-        "uniques": [
-          "[+20]% Production when constructing [Military] units [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -346,9 +276,7 @@
       },
       {
         "name": "Counter-Attack Drills",
-        "uniques": [
-          "[+10]% Strength <for [All] units> <when defending>"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -357,10 +285,7 @@
       },
       {
         "name": "Tactical Innovation Complete",
-        "uniques": [
-          "[+2 Science] [in all cities]",
-          "[+10]% Strength"
-        ]
+        "uniques": []
       }
     ]
   },
@@ -374,24 +299,17 @@
       "Domination": 5,
       "Scientific": 15
     },
-    "uniques": [
-      "[+3 Gold] from each Trade Route",
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "policies": [
       {
         "name": "European Tour",
-        "uniques": [
-          "[+1 Culture] [in all cities]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Continental Sponsorships",
-        "uniques": [
-          "[+2 Gold] from each Trade Route"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
@@ -406,9 +324,7 @@
       },
       {
         "name": "Global Merchandise",
-        "uniques": [
-          "[+20]% [Gold] [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -417,9 +333,7 @@
       },
       {
         "name": "International Ambition Complete",
-        "uniques": [
-          "[+3 Gold] from each Trade Route"
-        ]
+        "uniques": []
       }
     ]
   },
@@ -433,33 +347,23 @@
       "Domination": 0,
       "Scientific": 5
     },
-    "uniques": [
-      "[+3 Happiness] [in all cities]",
-      "[+1 Culture] [in all cities]"
-    ],
+    "uniques": [],
     "policies": [
       {
         "name": "Free Entry Days",
-        "uniques": [
-          "[+2 Happiness] [in capital]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Local Community Programs",
-        "uniques": [
-          "[+1 Culture] [in all cities]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
       {
         "name": "Charity Matches",
-        "uniques": [
-          "[+1 Happiness] [in all cities]",
-          "[+1 Culture] [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -468,9 +372,7 @@
       },
       {
         "name": "Fan Engagement",
-        "uniques": [
-          "[+2 Happiness] per [2] population [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -479,10 +381,7 @@
       },
       {
         "name": "Community Roots Complete",
-        "uniques": [
-          "[+4 Happiness] [in all cities]",
-          "[+2 Culture] [in all cities]"
-        ]
+        "uniques": []
       }
     ]
   },
@@ -496,31 +395,23 @@
       "Domination": 0,
       "Scientific": 10
     },
-    "uniques": [
-      "[+15]% [Gold] [in all cities]"
-    ],
+    "uniques": [],
     "policies": [
       {
         "name": "Salary Cap Regulation",
-        "uniques": [
-          "[+10]% [Gold] [in all cities]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Revenue Sharing",
-        "uniques": [
-          "[+1 Gold] from each Trade Route"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
       {
         "name": "Balanced Budget",
-        "uniques": [
-          "[+2 Gold] [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -538,9 +429,7 @@
       },
       {
         "name": "Financial Fair Play Complete",
-        "uniques": [
-          "[+20]% [Gold] [in all cities]"
-        ]
+        "uniques": []
       }
     ]
   },
@@ -554,33 +443,23 @@
       "Domination": 0,
       "Scientific": 5
     },
-    "uniques": [
-      "[+4 Culture] [in all cities]",
-      "[+15]% [Culture] [in all cities]"
-    ],
+    "uniques": [],
     "policies": [
       {
         "name": "Historic Ground Preservation",
-        "uniques": [
-          "[+2 Culture] [in capital]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 1
       },
       {
         "name": "Stadium Monument",
-        "uniques": [
-          "[+3 Culture] [in capital]"
-        ],
+        "uniques": [],
         "row": 1,
         "column": 3
       },
       {
         "name": "Capacity Expansion",
-        "uniques": [
-          "[+2 Production] [in capital]",
-          "[+1 Happiness] [in all cities]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 2,
         "requires": [
@@ -589,9 +468,7 @@
       },
       {
         "name": "Iconic Moments Exhibition",
-        "uniques": [
-          "[+4 Culture] [in capital]"
-        ],
+        "uniques": [],
         "row": 2,
         "column": 4,
         "requires": [
@@ -601,7 +478,6 @@
       {
         "name": "Stadium Legacy Complete",
         "uniques": [
-          "[+5 Culture] [in all cities]",
           "[+25]% [Culture] [in all cities]"
         ]
       }

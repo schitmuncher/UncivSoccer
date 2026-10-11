@@ -4,9 +4,7 @@
     "unitType": "Civilian",
     "movement": 2,
     "cost": 80,
-    "uniques": [
-      "Founds a new city <by consuming this unit>"
-    ],
+    "uniques": [],
     "icon": "SettlerAtlas_256"
   },
   {
@@ -15,10 +13,7 @@
     "movement": 2,
     "cost": 50,
     "requiredTech": "Sunday League",
-    "uniques": [
-      "Can build [Land] improvements on tiles",
-      "Automation is a primary action"
-    ],
+    "uniques": [],
     "icon": "SettlerAtlas_256"
   },
   {
@@ -64,9 +59,7 @@
     "strength": 52,
     "requiredTech": "Ultra Coordination",
     "cost": 280,
-    "uniques": [
-      "[+15]% Strength bonus for [Military] units within [2] tiles"
-    ],
+    "uniques": [],
     "icon": "SwordmanAtlas_256"
   },
   {
@@ -85,11 +78,7 @@
     "movement": 2,
     "cost": 110,
     "requiredTech": "Sports Science",
-    "uniques": [
-      "All adjacent units heal [+15] HP when healing",
-      "[+15] HP when healing",
-      "Uncapturable"
-    ],
+    "uniques": [],
     "icon": "SettlerAtlas_256"
   },
   {
@@ -99,9 +88,7 @@
     "strength": 26,
     "requiredTech": "Sweeper Keeper School",
     "cost": 130,
-    "uniques": [
-      "[+33]% Strength <when defending>"
-    ],
+    "uniques": [],
     "icon": "SwordmanAtlas_256"
   },
   {
@@ -110,48 +97,28 @@
     "movement": 2,
     "cost": 120,
     "requiredTech": "Broadcast Rights",
-    "uniques": [
-      "Uncapturable"
-    ],
+    "uniques": [],
     "icon": "SettlerAtlas_256"
   },
   {
     "name": "Club Legend",
     "unitType": "Civilian",
     "movement": 2,
-    "uniques": [
-      "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-      "Is part of Great Person group [Artist]",
-      "Great Person - [Culture]",
-      "Unbuildable",
-      "Uncapturable"
-    ],
+    "uniques": [],
     "icon": "SettlerAtlas_256"
   },
   {
     "name": "Master Tactician",
     "unitType": "Civilian",
     "movement": 2,
-    "uniques": [
-      "Can hurry technology research",
-      "Is part of Great Person group [Scientist]",
-      "Great Person - [Science]",
-      "Unbuildable",
-      "Uncapturable"
-    ],
+    "uniques": [],
     "icon": "SettlerAtlas_256"
   },
   {
     "name": "Director of Football",
     "unitType": "Civilian",
     "movement": 2,
-    "uniques": [
-      "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-      "Is part of Great Person group [Merchant]",
-      "Great Person - [Gold]",
-      "Unbuildable",
-      "Uncapturable"
-    ],
+    "uniques": [],
     "icon": "SettlerAtlas_256"
   },
   {
@@ -161,12 +128,6 @@
     "cost": 500,
     "requiredTech": "Oil State Takeover",
     "uniques": [
-      "Spaceship part",
-      "Cannot be purchased",
-      "Only available <if [Apollo Program] is constructed>",
-      "Uncapturable",
-      "Can be added to [The Spaceship] in the Capital",
-      "Limited to [3] per Civilization",
       "Only available <when [Scientific] Victory is enabled>"
     ],
     "icon": "SettlerAtlas_256"
@@ -178,12 +139,6 @@
     "cost": 650,
     "requiredTech": "Global Franchise",
     "uniques": [
-      "Spaceship part",
-      "Cannot be purchased",
-      "Only available <if [Apollo Program] is constructed>",
-      "Uncapturable",
-      "Can be added to [The Spaceship] in the Capital",
-      "Limited to [1] per Civilization",
       "Only available <when [Scientific] Victory is enabled>"
     ],
     "icon": "SettlerAtlas_256"
@@ -195,12 +150,6 @@
     "cost": 650,
     "requiredTech": "Multi-Club Model",
     "uniques": [
-      "Spaceship part",
-      "Cannot be purchased",
-      "Only available <if [Apollo Program] is constructed>",
-      "Uncapturable",
-      "Can be added to [The Spaceship] in the Capital",
-      "Limited to [1] per Civilization",
       "Only available <when [Scientific] Victory is enabled>"
     ],
     "icon": "SettlerAtlas_256"
@@ -212,12 +161,6 @@
     "cost": 650,
     "requiredTech": "Fan Ownership Crackdown",
     "uniques": [
-      "Spaceship part",
-      "Cannot be purchased",
-      "Only available <if [Apollo Program] is constructed>",
-      "Uncapturable",
-      "Can be added to [The Spaceship] in the Capital",
-      "Limited to [1] per Civilization",
       "Only available <when [Scientific] Victory is enabled>"
     ],
     "icon": "SettlerAtlas_256"
@@ -229,9 +172,7 @@
     "strength": 40,
     "cost": 200,
     "requiredTech": "Firm Organization",
-    "uniques": [
-      "[+33]% Strength <when defending>"
-    ],
+    "uniques": [],
     "icon": "SwordmanAtlas_256"
   },
   {
@@ -295,13 +236,7 @@
     "unitType": "Civilian",
     "movement": 2,
     "cost": 240,
-    "uniques": [
-      "[+15]% Strength bonus for [Military] units within [2] tiles",
-      "Is part of Great Person group [General]",
-      "Great Person - [Military]",
-      "Unbuildable",
-      "Uncapturable"
-    ],
+    "uniques": [],
     "icon": "SettlerAtlas_256"
   }
 ]

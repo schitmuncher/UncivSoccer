@@ -102,9 +102,7 @@
     "cost": 240,
     "maintenance": 2,
     "requiredTech": "Stadium Hostility",
-    "uniques": [
-      "[+33]% Strength for cities <when defending>"
-    ],
+    "uniques": [],
     "icon": "BuildingAtlas_256"
   },
   {
@@ -151,9 +149,7 @@
     "happiness": 3,
     "cost": 550,
     "requiredTech": "Total Football",
-    "uniques": [
-      "[+15]% Strength"
-    ],
+    "uniques": [],
     "icon": "WonderAtlas_256"
   },
   {
@@ -212,9 +208,7 @@
     "maintenance": 2,
     "requiredTech": "Analytics Department",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+15]% [Science] [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Tactical War Room",
@@ -224,9 +218,7 @@
     "maintenance": 1,
     "requiredTech": "Set-Piece Laboratories",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "New [Military] units start with [35] XP [in this city]"
-    ]
+    "uniques": []
   },
   {
     "name": "Museum of Legends",
@@ -237,7 +229,6 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+5 Culture] [in all cities]",
       "[+25]% [Culture] [in all cities]"
     ]
   },
@@ -249,9 +240,7 @@
     "maintenance": 1,
     "requiredTech": "Broadcast Rights",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+3 Culture] from each Trade Route"
-    ]
+    "uniques": []
   },
   {
     "name": "Youth Development Center",
@@ -263,8 +252,7 @@
     "requiredTech": "Elite Academies",
     "icon": "BuildingAtlas_256",
     "uniques": [
-      "[+25]% Great Person generation [in all cities]",
-      "New [Civilian] units start with [5] XP [in this city]"
+      "[+25]% Great Person generation [in all cities]"
     ]
   },
   {
@@ -274,9 +262,7 @@
     "maintenance": 2,
     "requiredTech": "Corporate Hospitality",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+2 Gold] from each Trade Route"
-    ]
+    "uniques": []
   },
   {
     "name": "Elite Coaching Staff",
@@ -286,10 +272,7 @@
     "maintenance": 2,
     "requiredTech": "Pro Coaching",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "New [Military] units start with [20] XP [in this city]",
-      "[+10]% Production when constructing [Military] units [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Merchandise Factory",
@@ -299,9 +282,7 @@
     "maintenance": 1,
     "requiredTech": "Shirt Sales",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+2 Culture] from each Trade Route"
-    ]
+    "uniques": []
   },
   {
     "name": "Media Center",
@@ -311,9 +292,7 @@
     "maintenance": 1,
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+20]% [Culture] [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Stadium Hospitality Suite",
@@ -323,9 +302,7 @@
     "maintenance": 2,
     "requiredTech": "Hospitality Suites",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+2 Happiness] [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Training Grounds Expansion",
@@ -334,9 +311,7 @@
     "maintenance": 1,
     "requiredTech": "Basic Drills",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+15]% Production when constructing [Military] units [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Scouting Lodge",
@@ -346,9 +321,7 @@
     "maintenance": 1,
     "requiredTech": "Scouting Network",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+1 Science] [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Stadium Security",
@@ -368,10 +341,7 @@
     "maintenance": 1,
     "requiredTech": "Ultra Coordination",
     "icon": "BuildingAtlas_256",
-    "uniques": [
-      "[+3 Culture] [in all cities]",
-      "[+2 Happiness] [in all cities]"
-    ]
+    "uniques": []
   },
   {
     "name": "Wembley Stadium",
@@ -379,10 +349,7 @@
     "requiredTech": "Global Branding",
     "icon": "BuildingAtlas_256",
     "isWonder": true,
-    "uniques": [
-      "[+15]% [Culture] [in all cities]",
-      "[+3 Culture] [in capital]"
-    ]
+    "uniques": []
   },
   {
     "name": "The Anfield Roar",
@@ -390,9 +357,6 @@
     "requiredTech": "Stadium Hostility",
     "icon": "BuildingAtlas_256",
     "isWonder": true,
-    "uniques": [
-      "[+10]% Strength for cities <when defending>",
-      "[+2 Happiness] [in all cities]"
-    ]
+    "uniques": []
   }
 ]
